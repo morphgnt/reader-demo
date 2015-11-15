@@ -34,8 +34,18 @@
           font-size: 14pt;
           margin-top: 1em;
       }
-      dd {
+      .alert {
         font-family: "Skolar3 PE Regular", Georgia, serif;
+      }
+      .alert h2 {
+          margin-top: 0;
+          margin-bottom: 0;
+      }
+      .alert h3 {
+          border-top: 1px solid #FAEBCC;
+          margin-top: 10px;
+          margin-bottom: 0;
+          padding-top: 10px;
       }
       p.nav a {
           color: #C00;
@@ -118,14 +128,9 @@
       <div class="alert alert-warning alert-dismissible" role="alert">
           <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
           <h2>{{form}}</h2>
-          <dl>
-            <dt>Lemma</dt>
-            <dd>{{lemma}}</dd>
-            <dt>Parse</dt>
-            <dd>{{parse}}</dd>
-            <dt>Pos</dt>
-            <dd>{{pos}}</dd>
-          </dl>
+          <div>{{parse}}</div>
+          <h3>{{lemma}}</h3>
+          <div>{{pos}}</div>
       </div>
     </script>
     <script type="text/javascript">
