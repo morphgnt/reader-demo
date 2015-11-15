@@ -1,812 +1,677 @@
 [
   {
     "form": "ἦν",
-    "lemma": "εἰμί",
-    "parse": "3IAI-S--",
-    "pos": "V-"
+    "lexeme_id": 0,
+    "parse": "3IAI-S--"
   },
   {
     "form": "δέ",
-    "lemma": "δέ",
-    "parse": "--------",
-    "pos": "C-"
-  },
-  {
-    "form": "ἄνθρωπος",
-    "lemma": "ἄνθρωπος",
-    "parse": "----NSM-",
-    "pos": "N-"
-  },
-  {
-    "form": "ἐκ",
-    "lemma": "ἐκ",
-    "parse": "--------",
-    "pos": "P-"
-  },
-  {
-    "form": "τῶν",
-    "lemma": "ὁ",
-    "parse": "----GPM-",
-    "pos": "RA"
+    "lexeme_id": 1,
+    "parse": "--------"
   },
   {
     "form": "Φαρισαίων",
-    "lemma": "Φαρισαῖος",
-    "parse": "----GPM-",
-    "pos": "N-"
-  },
-  {
-    "form": "Νικόδημος",
-    "lemma": "Νικόδημος",
-    "parse": "----NSM-",
-    "pos": "N-"
+    "lexeme_id": 5,
+    "parse": "----GPM-"
   },
   {
     "form": "ὄνομα",
-    "lemma": "ὄνομα",
-    "parse": "----NSN-",
-    "pos": "N-"
-  },
-  {
-    "form": "αὐτῷ",
-    "lemma": "αὐτός",
-    "parse": "----DSM-",
-    "pos": "RP"
+    "lexeme_id": 7,
+    "parse": "----NSN-"
   },
   {
     "form": "ἄρχων",
-    "lemma": "ἄρχων",
-    "parse": "----NSM-",
-    "pos": "N-"
+    "lexeme_id": 9,
+    "parse": "----NSM-"
   },
   {
     "form": "Ἰουδαίων",
-    "lemma": "Ἰουδαῖος",
-    "parse": "----GPM-",
-    "pos": "A-"
+    "lexeme_id": 10,
+    "parse": "----GPM-"
+  },
+  {
+    "form": "τῶν",
+    "lexeme_id": 4,
+    "parse": "----GPM-"
   },
   {
     "form": "οὗτος",
-    "lemma": "οὗτος",
-    "parse": "----NSM-",
-    "pos": "RD"
+    "lexeme_id": 11,
+    "parse": "----NSM-"
   },
   {
     "form": "ἦλθε(ν)",
-    "lemma": "ἔρχομαι",
-    "parse": "3AAI-S--",
-    "pos": "V-"
-  },
-  {
-    "form": "πρός",
-    "lemma": "πρός",
-    "parse": "--------",
-    "pos": "P-"
-  },
-  {
-    "form": "αὐτόν",
-    "lemma": "αὐτός",
-    "parse": "----ASM-",
-    "pos": "RP"
+    "lexeme_id": 12,
+    "parse": "3AAI-S--"
   },
   {
     "form": "νυκτός",
-    "lemma": "νύξ",
-    "parse": "----GSF-",
-    "pos": "N-"
-  },
-  {
-    "form": "καί",
-    "lemma": "καί",
-    "parse": "--------",
-    "pos": "C-"
-  },
-  {
-    "form": "εἶπε(ν)",
-    "lemma": "λέγω",
-    "parse": "3AAI-S--",
-    "pos": "V-"
+    "lexeme_id": 14,
+    "parse": "----GSF-"
   },
   {
     "form": "ῥαββί",
-    "lemma": "ῥαββί",
-    "parse": "----VSM-",
-    "pos": "N-"
-  },
-  {
-    "form": "οἴδαμεν",
-    "lemma": "οἶδα",
-    "parse": "1XAI-P--",
-    "pos": "V-"
-  },
-  {
-    "form": "ὅτι",
-    "lemma": "ὅτι",
-    "parse": "--------",
-    "pos": "C-"
+    "lexeme_id": 17,
+    "parse": "----VSM-"
   },
   {
     "form": "ἀπό",
-    "lemma": "ἀπό",
-    "parse": "--------",
-    "pos": "P-"
-  },
-  {
-    "form": "θεοῦ",
-    "lemma": "θεός",
-    "parse": "----GSM-",
-    "pos": "N-"
+    "lexeme_id": 20,
+    "parse": "--------"
   },
   {
     "form": "ἐλήλυθας",
-    "lemma": "ἔρχομαι",
-    "parse": "2XAI-S--",
-    "pos": "V-"
-  },
-  {
-    "form": "διδάσκαλος",
-    "lemma": "διδάσκαλος",
-    "parse": "----NSM-",
-    "pos": "N-"
-  },
-  {
-    "form": "οὐδείς",
-    "lemma": "οὐδείς",
-    "parse": "----NSM-",
-    "pos": "A-"
+    "lexeme_id": 12,
+    "parse": "2XAI-S--"
   },
   {
     "form": "γάρ",
-    "lemma": "γάρ",
-    "parse": "--------",
-    "pos": "C-"
-  },
-  {
-    "form": "δύναται",
-    "lemma": "δύναμαι",
-    "parse": "3PMI-S--",
-    "pos": "V-"
-  },
-  {
-    "form": "ταῦτα",
-    "lemma": "οὗτος",
-    "parse": "----APN-",
-    "pos": "RD"
-  },
-  {
-    "form": "τά",
-    "lemma": "ὁ",
-    "parse": "----APN-",
-    "pos": "RA"
+    "lexeme_id": 24,
+    "parse": "--------"
   },
   {
     "form": "σημεῖα",
-    "lemma": "σημεῖον",
-    "parse": "----APN-",
-    "pos": "N-"
+    "lexeme_id": 26,
+    "parse": "----APN-"
   },
   {
     "form": "ποιεῖν",
-    "lemma": "ποιέω",
-    "parse": "-PAN----",
-    "pos": "V-"
+    "lexeme_id": 27,
+    "parse": "-PAN----"
   },
   {
     "form": "ἅ",
-    "lemma": "ὅς",
-    "parse": "----APN-",
-    "pos": "RR"
-  },
-  {
-    "form": "σύ",
-    "lemma": "σύ",
-    "parse": "----NS--",
-    "pos": "RP"
+    "lexeme_id": 28,
+    "parse": "----APN-"
   },
   {
     "form": "ποιεῖς",
-    "lemma": "ποιέω",
-    "parse": "2PAI-S--",
-    "pos": "V-"
-  },
-  {
-    "form": "ἐάν",
-    "lemma": "ἐάν",
-    "parse": "--------",
-    "pos": "C-"
-  },
-  {
-    "form": "μή",
-    "lemma": "μή",
-    "parse": "--------",
-    "pos": "D-"
+    "lexeme_id": 27,
+    "parse": "2PAI-S--"
   },
   {
     "form": "ᾖ",
-    "lemma": "εἰμί",
-    "parse": "3PAS-S--",
-    "pos": "V-"
-  },
-  {
-    "form": "ὁ",
-    "lemma": "ὁ",
-    "parse": "----NSM-",
-    "pos": "RA"
+    "lexeme_id": 0,
+    "parse": "3PAS-S--"
   },
   {
     "form": "θεός",
-    "lemma": "θεός",
-    "parse": "----NSM-",
-    "pos": "N-"
+    "lexeme_id": 21,
+    "parse": "----NSM-"
   },
   {
     "form": "μετά",
-    "lemma": "μετά",
-    "parse": "--------",
-    "pos": "P-"
-  },
-  {
-    "form": "αὐτοῦ",
-    "lemma": "αὐτός",
-    "parse": "----GSM-",
-    "pos": "RP"
-  },
-  {
-    "form": "ἀπεκρίθη",
-    "lemma": "ἀποκρίνομαι",
-    "parse": "3API-S--",
-    "pos": "V-"
-  },
-  {
-    "form": "Ἰησοῦς",
-    "lemma": "Ἰησοῦς",
-    "parse": "----NSM-",
-    "pos": "N-"
-  },
-  {
-    "form": "ἀμήν",
-    "lemma": "ἀμήν",
-    "parse": "--------",
-    "pos": "X-"
-  },
-  {
-    "form": "λέγω",
-    "lemma": "λέγω",
-    "parse": "1PAI-S--",
-    "pos": "V-"
-  },
-  {
-    "form": "σοι",
-    "lemma": "σύ",
-    "parse": "----DS--",
-    "pos": "RP"
-  },
-  {
-    "form": "τις",
-    "lemma": "τις",
-    "parse": "----NSM-",
-    "pos": "RI"
-  },
-  {
-    "form": "γεννηθῇ",
-    "lemma": "γεννάω",
-    "parse": "3APS-S--",
-    "pos": "V-"
-  },
-  {
-    "form": "ἄνωθεν",
-    "lemma": "ἄνωθεν",
-    "parse": "--------",
-    "pos": "D-"
-  },
-  {
-    "form": "οὐ",
-    "lemma": "οὐ",
-    "parse": "--------",
-    "pos": "D-"
+    "lexeme_id": 32,
+    "parse": "--------"
   },
   {
     "form": "ἰδεῖν",
-    "lemma": "ὁράω",
-    "parse": "-AAN----",
-    "pos": "V-"
-  },
-  {
-    "form": "τήν",
-    "lemma": "ὁ",
-    "parse": "----ASF-",
-    "pos": "RA"
-  },
-  {
-    "form": "βασιλείαν",
-    "lemma": "βασιλεία",
-    "parse": "----ASF-",
-    "pos": "N-"
-  },
-  {
-    "form": "τοῦ",
-    "lemma": "ὁ",
-    "parse": "----GSM-",
-    "pos": "RA"
+    "lexeme_id": 40,
+    "parse": "-AAN----"
   },
   {
     "form": "λέγει",
-    "lemma": "λέγω",
-    "parse": "3PAI-S--",
-    "pos": "V-"
+    "lexeme_id": 16,
+    "parse": "3PAI-S--"
   },
   {
-    "form": "πῶς",
-    "lemma": "πῶς",
-    "parse": "--------",
-    "pos": "D-"
+    "form": "αὐτόν",
+    "lexeme_id": 8,
+    "parse": "----ASM-"
   },
   {
-    "form": "γεννηθῆναι",
-    "lemma": "γεννάω",
-    "parse": "-APN----",
-    "pos": "V-"
+    "form": "πρός",
+    "lexeme_id": 13,
+    "parse": "--------"
+  },
+  {
+    "form": "ἄνθρωπος",
+    "lexeme_id": 2,
+    "parse": "----NSM-"
   },
   {
     "form": "γέρων",
-    "lemma": "γέρων",
-    "parse": "----NSM-",
-    "pos": "N-"
+    "lexeme_id": 43,
+    "parse": "----NSM-"
   },
   {
     "form": "ὤν",
-    "lemma": "εἰμί",
-    "parse": "-PAPNSM-",
-    "pos": "V-"
+    "lexeme_id": 0,
+    "parse": "-PAPNSM-"
   },
   {
     "form": "μή",
-    "lemma": "μή",
-    "parse": "--------",
-    "pos": "X-"
-  },
-  {
-    "form": "εἰς",
-    "lemma": "εἰς",
-    "parse": "--------",
-    "pos": "P-"
+    "lexeme_id": 44,
+    "parse": "--------"
   },
   {
     "form": "κοιλίαν",
-    "lemma": "κοιλία",
-    "parse": "----ASF-",
-    "pos": "N-"
-  },
-  {
-    "form": "τῆς",
-    "lemma": "ὁ",
-    "parse": "----GSF-",
-    "pos": "RA"
+    "lexeme_id": 46,
+    "parse": "----ASF-"
   },
   {
     "form": "μητρός",
-    "lemma": "μήτηρ",
-    "parse": "----GSF-",
-    "pos": "N-"
+    "lexeme_id": 47,
+    "parse": "----GSF-"
   },
   {
     "form": "δεύτερον",
-    "lemma": "δεύτερος",
-    "parse": "----ASN-",
-    "pos": "A-"
-  },
-  {
-    "form": "εἰσελθεῖν",
-    "lemma": "εἰσέρχομαι",
-    "parse": "-AAN----",
-    "pos": "V-"
-  },
-  {
-    "form": "ὕδατος",
-    "lemma": "ὕδωρ",
-    "parse": "----GSN-",
-    "pos": "N-"
-  },
-  {
-    "form": "πνεύματος",
-    "lemma": "πνεῦμα",
-    "parse": "----GSN-",
-    "pos": "N-"
-  },
-  {
-    "form": "τό",
-    "lemma": "ὁ",
-    "parse": "----NSN-",
-    "pos": "RA"
-  },
-  {
-    "form": "γεγεννημένον",
-    "lemma": "γεννάω",
-    "parse": "-XPPNSN-",
-    "pos": "V-"
-  },
-  {
-    "form": "σαρκός",
-    "lemma": "σάρξ",
-    "parse": "----GSF-",
-    "pos": "N-"
-  },
-  {
-    "form": "σάρξ",
-    "lemma": "σάρξ",
-    "parse": "----NSF-",
-    "pos": "N-"
-  },
-  {
-    "form": "ἐστί(ν)",
-    "lemma": "εἰμί",
-    "parse": "3PAI-S--",
-    "pos": "V-"
-  },
-  {
-    "form": "τοῦ",
-    "lemma": "ὁ",
-    "parse": "----GSN-",
-    "pos": "RA"
-  },
-  {
-    "form": "πνεῦμα",
-    "lemma": "πνεῦμα",
-    "parse": "----NSN-",
-    "pos": "N-"
-  },
-  {
-    "form": "θαυμάσῃς",
-    "lemma": "θαυμάζω",
-    "parse": "2AAS-S--",
-    "pos": "V-"
-  },
-  {
-    "form": "εἶπον",
-    "lemma": "λέγω",
-    "parse": "1AAI-S--",
-    "pos": "V-"
-  },
-  {
-    "form": "δεῖ",
-    "lemma": "δέω",
-    "parse": "3PAI-S--",
-    "pos": "V-"
-  },
-  {
-    "form": "ὑμᾶς",
-    "lemma": "σύ",
-    "parse": "----AP--",
-    "pos": "RP"
-  },
-  {
-    "form": "ὅπου",
-    "lemma": "ὅπου",
-    "parse": "--------",
-    "pos": "C-"
-  },
-  {
-    "form": "θέλει",
-    "lemma": "θέλω",
-    "parse": "3PAI-S--",
-    "pos": "V-"
-  },
-  {
-    "form": "πνεῖ",
-    "lemma": "πνέω",
-    "parse": "3PAI-S--",
-    "pos": "V-"
-  },
-  {
-    "form": "φωνήν",
-    "lemma": "φωνή",
-    "parse": "----ASF-",
-    "pos": "N-"
+    "lexeme_id": 48,
+    "parse": "----ASN-"
   },
   {
     "form": "αὐτοῦ",
-    "lemma": "αὐτός",
-    "parse": "----GSN-",
-    "pos": "RP"
+    "lexeme_id": 8,
+    "parse": "----GSM-"
+  },
+  {
+    "form": "ὕδατος",
+    "lexeme_id": 50,
+    "parse": "----GSN-"
+  },
+  {
+    "form": "τις",
+    "lexeme_id": 36,
+    "parse": "----NSM-"
+  },
+  {
+    "form": "γεννηθῇ",
+    "lexeme_id": 37,
+    "parse": "3APS-S--"
+  },
+  {
+    "form": "εἰσελθεῖν",
+    "lexeme_id": 49,
+    "parse": "-AAN----"
+  },
+  {
+    "form": "βασιλείαν",
+    "lexeme_id": 41,
+    "parse": "----ASF-"
+  },
+  {
+    "form": "θεοῦ",
+    "lexeme_id": 21,
+    "parse": "----GSM-"
+  },
+  {
+    "form": "σαρκός",
+    "lexeme_id": 52,
+    "parse": "----GSF-"
+  },
+  {
+    "form": "τῆς",
+    "lexeme_id": 4,
+    "parse": "----GSF-"
+  },
+  {
+    "form": "σάρξ",
+    "lexeme_id": 52,
+    "parse": "----NSF-"
+  },
+  {
+    "form": "γεγεννημένον",
+    "lexeme_id": 37,
+    "parse": "-XPPNSN-"
+  },
+  {
+    "form": "θαυμάσῃς",
+    "lexeme_id": 53,
+    "parse": "2AAS-S--"
+  },
+  {
+    "form": "ὑμᾶς",
+    "lexeme_id": 29,
+    "parse": "----AP--"
+  },
+  {
+    "form": "ὅπου",
+    "lexeme_id": 55,
+    "parse": "--------"
+  },
+  {
+    "form": "γεννηθῆναι",
+    "lexeme_id": 37,
+    "parse": "-APN----"
+  },
+  {
+    "form": "ἄνωθεν",
+    "lexeme_id": 38,
+    "parse": "--------"
+  },
+  {
+    "form": "πνεῦμα",
+    "lexeme_id": 51,
+    "parse": "----NSN-"
+  },
+  {
+    "form": "τό",
+    "lexeme_id": 4,
+    "parse": "----NSN-"
+  },
+  {
+    "form": "θέλει",
+    "lexeme_id": 56,
+    "parse": "3PAI-S--"
+  },
+  {
+    "form": "πνεῖ",
+    "lexeme_id": 57,
+    "parse": "3PAI-S--"
+  },
+  {
+    "form": "φωνήν",
+    "lexeme_id": 58,
+    "parse": "----ASF-"
+  },
+  {
+    "form": "αὐτοῦ",
+    "lexeme_id": 8,
+    "parse": "----GSN-"
   },
   {
     "form": "ἀκούεις",
-    "lemma": "ἀκούω",
-    "parse": "2PAI-S--",
-    "pos": "V-"
+    "lexeme_id": 59,
+    "parse": "2PAI-S--"
   },
   {
     "form": "ἀλλά",
-    "lemma": "ἀλλά",
-    "parse": "--------",
-    "pos": "C-"
+    "lexeme_id": 60,
+    "parse": "--------"
   },
   {
     "form": "οἶδας",
-    "lemma": "οἶδα",
-    "parse": "2XAI-S--",
-    "pos": "V-"
+    "lexeme_id": 18,
+    "parse": "2XAI-S--"
   },
   {
     "form": "πόθεν",
-    "lemma": "πόθεν",
-    "parse": "--------",
-    "pos": "D-"
+    "lexeme_id": 61,
+    "parse": "--------"
   },
   {
     "form": "ἔρχεται",
-    "lemma": "ἔρχομαι",
-    "parse": "3PMI-S--",
-    "pos": "V-"
+    "lexeme_id": 12,
+    "parse": "3PMI-S--"
   },
   {
     "form": "ποῦ",
-    "lemma": "ποῦ",
-    "parse": "--------",
-    "pos": "D-"
+    "lexeme_id": 62,
+    "parse": "--------"
   },
   {
     "form": "ὑπάγει",
-    "lemma": "ὑπάγω",
-    "parse": "3PAI-S--",
-    "pos": "V-"
+    "lexeme_id": 63,
+    "parse": "3PAI-S--"
   },
   {
-    "form": "οὕτω(ς)",
-    "lemma": "οὕτω(ς)",
-    "parse": "--------",
-    "pos": "D-"
-  },
-  {
-    "form": "πᾶς",
-    "lemma": "πᾶς",
-    "parse": "----NSM-",
-    "pos": "A-"
+    "form": "ἐστί(ν)",
+    "lexeme_id": 0,
+    "parse": "3PAI-S--"
   },
   {
     "form": "γεγεννημένος",
-    "lemma": "γεννάω",
-    "parse": "-XPPNSM-",
-    "pos": "V-"
+    "lexeme_id": 37,
+    "parse": "-XPPNSM-"
+  },
+  {
+    "form": "δύναται",
+    "lexeme_id": 25,
+    "parse": "3PMI-S--"
+  },
+  {
+    "form": "τοῦ",
+    "lexeme_id": 4,
+    "parse": "----GSN-"
+  },
+  {
+    "form": "Νικόδημος",
+    "lexeme_id": 6,
+    "parse": "----NSM-"
   },
   {
     "form": "ταῦτα",
-    "lemma": "οὗτος",
-    "parse": "----NPN-",
-    "pos": "RD"
+    "lexeme_id": 11,
+    "parse": "----NPN-"
+  },
+  {
+    "form": "πνεύματος",
+    "lexeme_id": 51,
+    "parse": "----GSN-"
   },
   {
     "form": "γενέσθαι",
-    "lemma": "γίνομαι",
-    "parse": "-AMN----",
-    "pos": "V-"
+    "lexeme_id": 66,
+    "parse": "-AMN----"
+  },
+  {
+    "form": "ἀπεκρίθη",
+    "lexeme_id": 33,
+    "parse": "3API-S--"
   },
   {
     "form": "εἶ",
-    "lemma": "εἰμί",
-    "parse": "2PAI-S--",
-    "pos": "V-"
+    "lexeme_id": 0,
+    "parse": "2PAI-S--"
+  },
+  {
+    "form": "σύ",
+    "lexeme_id": 29,
+    "parse": "----NS--"
+  },
+  {
+    "form": "Ἰησοῦς",
+    "lexeme_id": 34,
+    "parse": "----NSM-"
+  },
+  {
+    "form": "εἶπε(ν)",
+    "lexeme_id": 16,
+    "parse": "3AAI-S--"
+  },
+  {
+    "form": "διδάσκαλος",
+    "lexeme_id": 22,
+    "parse": "----NSM-"
   },
   {
     "form": "Ἰσραήλ",
-    "lemma": "Ἰσραήλ",
-    "parse": "----GSM-",
-    "pos": "N-"
+    "lexeme_id": 67,
+    "parse": "----GSM-"
   },
   {
     "form": "γινώσκεις",
-    "lemma": "γινώσκω",
-    "parse": "2PAI-S--",
-    "pos": "V-"
+    "lexeme_id": 68,
+    "parse": "2PAI-S--"
   },
   {
-    "form": "ὅ",
-    "lemma": "ὅς",
-    "parse": "----ASN-",
-    "pos": "RR"
+    "form": "ταῦτα",
+    "lexeme_id": 11,
+    "parse": "----APN-"
+  },
+  {
+    "form": "ἀμήν",
+    "lexeme_id": 35,
+    "parse": "--------"
+  },
+  {
+    "form": "λέγω",
+    "lexeme_id": 16,
+    "parse": "1PAI-S--"
+  },
+  {
+    "form": "σοι",
+    "lexeme_id": 29,
+    "parse": "----DS--"
+  },
+  {
+    "form": "ὅτι",
+    "lexeme_id": 19,
+    "parse": "--------"
   },
   {
     "form": "λαλοῦμεν",
-    "lemma": "λαλέω",
-    "parse": "1PAI-P--",
-    "pos": "V-"
+    "lexeme_id": 69,
+    "parse": "1PAI-P--"
+  },
+  {
+    "form": "οἴδαμεν",
+    "lexeme_id": 18,
+    "parse": "1XAI-P--"
+  },
+  {
+    "form": "ὅ",
+    "lexeme_id": 28,
+    "parse": "----ASN-"
   },
   {
     "form": "ἑωράκαμεν",
-    "lemma": "ὁράω",
-    "parse": "1XAI-P--",
-    "pos": "V-"
+    "lexeme_id": 40,
+    "parse": "1XAI-P--"
   },
   {
     "form": "μαρτυροῦμεν",
-    "lemma": "μαρτυρέω",
-    "parse": "1PAI-P--",
-    "pos": "V-"
+    "lexeme_id": 70,
+    "parse": "1PAI-P--"
   },
   {
     "form": "μαρτυρίαν",
-    "lemma": "μαρτυρία",
-    "parse": "----ASF-",
-    "pos": "N-"
+    "lexeme_id": 71,
+    "parse": "----ASF-"
+  },
+  {
+    "form": "τήν",
+    "lexeme_id": 4,
+    "parse": "----ASF-"
   },
   {
     "form": "ἡμῶν",
-    "lemma": "ἐγώ",
-    "parse": "----GP--",
-    "pos": "RP"
+    "lexeme_id": 72,
+    "parse": "----GP--"
   },
   {
     "form": "λαμβάνετε",
-    "lemma": "λαμβάνω",
-    "parse": "2PAI-P--",
-    "pos": "V-"
-  },
-  {
-    "form": "εἰ",
-    "lemma": "εἰ",
-    "parse": "--------",
-    "pos": "C-"
+    "lexeme_id": 73,
+    "parse": "2PAI-P--"
   },
   {
     "form": "ἐπίγεια",
-    "lemma": "ἐπίγειος",
-    "parse": "----APN-",
-    "pos": "A-"
+    "lexeme_id": 75,
+    "parse": "----APN-"
   },
   {
-    "form": "ὑμῖν",
-    "lemma": "σύ",
-    "parse": "----DP--",
-    "pos": "RP"
+    "form": "εἶπον",
+    "lexeme_id": 16,
+    "parse": "1AAI-S--"
   },
   {
     "form": "πιστεύετε",
-    "lemma": "πιστεύω",
-    "parse": "2PAI-P--",
-    "pos": "V-"
+    "lexeme_id": 76,
+    "parse": "2PAI-P--"
+  },
+  {
+    "form": "οὐ",
+    "lexeme_id": 39,
+    "parse": "--------"
   },
   {
     "form": "εἴπω",
-    "lemma": "λέγω",
-    "parse": "1AAS-S--",
-    "pos": "V-"
+    "lexeme_id": 16,
+    "parse": "1AAS-S--"
+  },
+  {
+    "form": "πῶς",
+    "lexeme_id": 42,
+    "parse": "--------"
+  },
+  {
+    "form": "ἐάν",
+    "lexeme_id": 30,
+    "parse": "--------"
+  },
+  {
+    "form": "ὑμῖν",
+    "lexeme_id": 29,
+    "parse": "----DP--"
+  },
+  {
+    "form": "τά",
+    "lexeme_id": 4,
+    "parse": "----APN-"
   },
   {
     "form": "ἐπουράνια",
-    "lemma": "ἐπουράνιος",
-    "parse": "----APN-",
-    "pos": "A-"
+    "lexeme_id": 77,
+    "parse": "----APN-"
   },
   {
     "form": "πιστεύσετε",
-    "lemma": "πιστεύω",
-    "parse": "2FAI-P--",
-    "pos": "V-"
+    "lexeme_id": 76,
+    "parse": "2FAI-P--"
+  },
+  {
+    "form": "οὐδείς",
+    "lexeme_id": 23,
+    "parse": "----NSM-"
   },
   {
     "form": "ἀναβέβηκε(ν)",
-    "lemma": "ἀναβαίνω",
-    "parse": "3XAI-S--",
-    "pos": "V-"
+    "lexeme_id": 78,
+    "parse": "3XAI-S--"
   },
   {
-    "form": "τόν",
-    "lemma": "ὁ",
-    "parse": "----ASM-",
-    "pos": "RA"
+    "form": "εἰς",
+    "lexeme_id": 45,
+    "parse": "--------"
   },
   {
     "form": "οὐρανόν",
-    "lemma": "οὐρανός",
-    "parse": "----ASM-",
-    "pos": "N-"
+    "lexeme_id": 79,
+    "parse": "----ASM-"
+  },
+  {
+    "form": "μή",
+    "lexeme_id": 31,
+    "parse": "--------"
   },
   {
     "form": "οὐρανοῦ",
-    "lemma": "οὐρανός",
-    "parse": "----GSM-",
-    "pos": "N-"
+    "lexeme_id": 79,
+    "parse": "----GSM-"
+  },
+  {
+    "form": "εἰ",
+    "lexeme_id": 74,
+    "parse": "--------"
+  },
+  {
+    "form": "ἐκ",
+    "lexeme_id": 3,
+    "parse": "--------"
   },
   {
     "form": "καταβάς",
-    "lemma": "καταβαίνω",
-    "parse": "-AAPNSM-",
-    "pos": "V-"
+    "lexeme_id": 80,
+    "parse": "-AAPNSM-"
   },
   {
     "form": "υἱός",
-    "lemma": "υἱός",
-    "parse": "----NSM-",
-    "pos": "N-"
+    "lexeme_id": 81,
+    "parse": "----NSM-"
   },
   {
-    "form": "ἀνθρώπου",
-    "lemma": "ἄνθρωπος",
-    "parse": "----GSM-",
-    "pos": "N-"
+    "form": "καί",
+    "lexeme_id": 15,
+    "parse": "--------"
   },
   {
     "form": "καθώς",
-    "lemma": "καθώς",
-    "parse": "--------",
-    "pos": "C-"
+    "lexeme_id": 82,
+    "parse": "--------"
   },
   {
     "form": "Μωϋσῆς",
-    "lemma": "Μωϋσῆς",
-    "parse": "----NSM-",
-    "pos": "N-"
+    "lexeme_id": 83,
+    "parse": "----NSM-"
   },
   {
     "form": "ὕψωσε(ν)",
-    "lemma": "ὑψόω",
-    "parse": "3AAI-S--",
-    "pos": "V-"
+    "lexeme_id": 84,
+    "parse": "3AAI-S--"
   },
   {
     "form": "ὄφιν",
-    "lemma": "ὄφις",
-    "parse": "----ASM-",
-    "pos": "N-"
-  },
-  {
-    "form": "ἐν",
-    "lemma": "ἐν",
-    "parse": "--------",
-    "pos": "P-"
+    "lexeme_id": 85,
+    "parse": "----ASM-"
   },
   {
     "form": "τῇ",
-    "lemma": "ὁ",
-    "parse": "----DSF-",
-    "pos": "RA"
+    "lexeme_id": 4,
+    "parse": "----DSF-"
   },
   {
     "form": "ἐρήμῳ",
-    "lemma": "ἔρημος",
-    "parse": "----DSF-",
-    "pos": "A-"
+    "lexeme_id": 87,
+    "parse": "----DSF-"
+  },
+  {
+    "form": "οὕτω(ς)",
+    "lexeme_id": 64,
+    "parse": "--------"
   },
   {
     "form": "ὑψωθῆναι",
-    "lemma": "ὑψόω",
-    "parse": "-APN----",
-    "pos": "V-"
+    "lexeme_id": 84,
+    "parse": "-APN----"
+  },
+  {
+    "form": "δεῖ",
+    "lexeme_id": 54,
+    "parse": "3PAI-S--"
+  },
+  {
+    "form": "τόν",
+    "lexeme_id": 4,
+    "parse": "----ASM-"
   },
   {
     "form": "υἱόν",
-    "lemma": "υἱός",
-    "parse": "----ASM-",
-    "pos": "N-"
+    "lexeme_id": 81,
+    "parse": "----ASM-"
+  },
+  {
+    "form": "τοῦ",
+    "lexeme_id": 4,
+    "parse": "----GSM-"
   },
   {
     "form": "ἵνα",
-    "lemma": "ἵνα",
-    "parse": "--------",
-    "pos": "C-"
+    "lexeme_id": 88,
+    "parse": "--------"
+  },
+  {
+    "form": "ἀνθρώπου",
+    "lexeme_id": 2,
+    "parse": "----GSM-"
   },
   {
     "form": "πιστεύων",
-    "lemma": "πιστεύω",
-    "parse": "-PAPNSM-",
-    "pos": "V-"
+    "lexeme_id": 76,
+    "parse": "-PAPNSM-"
+  },
+  {
+    "form": "πᾶς",
+    "lexeme_id": 65,
+    "parse": "----NSM-"
+  },
+  {
+    "form": "ὁ",
+    "lexeme_id": 4,
+    "parse": "----NSM-"
+  },
+  {
+    "form": "ἐν",
+    "lexeme_id": 86,
+    "parse": "--------"
+  },
+  {
+    "form": "αὐτῷ",
+    "lexeme_id": 8,
+    "parse": "----DSM-"
   },
   {
     "form": "ἔχῃ",
-    "lemma": "ἔχω",
-    "parse": "3PAS-S--",
-    "pos": "V-"
+    "lexeme_id": 89,
+    "parse": "3PAS-S--"
   },
   {
     "form": "ζωήν",
-    "lemma": "ζωή",
-    "parse": "----ASF-",
-    "pos": "N-"
+    "lexeme_id": 90,
+    "parse": "----ASF-"
   },
   {
     "form": "αἰώνιον",
-    "lemma": "αἰώνιος",
-    "parse": "----ASF-",
-    "pos": "A-"
+    "lexeme_id": 91,
+    "parse": "----ASF-"
   }
 ]
