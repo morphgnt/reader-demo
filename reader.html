@@ -137,6 +137,7 @@
           <div>{{parse}}</div>
           <h3 class="lemma" data-lexeme_id="{{lexeme_id}}">{{lemma}}</h3>
           <div>{{pos}}</div>
+          <div>&ldquo;{{gloss}}&rdquo;</div>
       </div>
     </script>
     <script type="text/javascript">
@@ -180,7 +181,8 @@
               lexeme_id: form.lexeme_id,
               lemma: lexeme.lemma,
               parse: form.parse,
-              pos: lexeme.pos
+              pos: lexeme.pos,
+              gloss: lexeme.gloss
             }));
             $('.alert').on('closed.bs.alert', function () {
               $("#load i").toggleClass("highlight", false);
