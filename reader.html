@@ -214,6 +214,17 @@
             var lexeme_id = $(this).data("lexeme_id");
             $("i[data-lexeme_id=" + lexeme_id + "]").toggleClass("highlight");
           });
+          $("#word").on("click", ".head", function () {
+            var word_id = $(this).data("head_word_id"),
+                word = getWord(data, forms, word_id),
+                form = forms[word.form_id],
+                lexeme = lexemes[form.lexeme_id];
+            $("#load i").toggleClass("highlight-2", false);
+            $("#load i").toggleClass("highlight", false);
+            $("#load i").toggleClass("active", false);
+            $("i[data-word_id=" + word_id + "]").toggleClass("active");
+            renderWordDetails(template_word, word, form, lexeme);
+          });
           $("#word").on("mouseover", ".head", function () {
             var word_id = $(this).data("head_word_id");
             $("i[data-word_id=" + word_id + "]").toggleClass("highlight-2");
