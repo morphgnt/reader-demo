@@ -93,7 +93,7 @@
           display: inline-block;
           margin-right: 0.3em;
       }
-      .lemma, span.head {
+      .lemma, span.head, div.child {
         cursor: pointer;
       }
       i.active {
@@ -112,6 +112,9 @@
           position: sticky;
           position: -webkit-sticky;
           top: 0;
+      }
+      i.highlight-3 {
+        color: #A6E;
       }
   </style>
   </head>
@@ -161,6 +164,10 @@
           <div>{{pos}}</div>
           <div>&ldquo;{{gloss}}&rdquo;</div>
           <div>{{rel}}{{#head_word}} of <span class="head" data-head_word_id="{{head_word_id}}">{{head_word}}{{/head_word}}</div>
+          <hr />
+          {{#children}}
+            <div class="child" data-child_word_id="{{word_id}}">{{form.form}} ({{rel}})</div>
+          {{/children}}
       </div>
     </script>
     <script type="text/javascript">
@@ -192,10 +199,15 @@
                 form = forms[$word.data("form_id")],
                 lexeme = lexemes[form.lexeme_id],
                 word_id = $word.data("word_id"),
+                wordObj = data.filter(function (w) {return parseInt(w.word_id) === word_id})[0],
                 rel = $word.data("rel"),
                 head = $word.data("head"),
-                head_word = data.filter(function (word) {return parseInt(word.word_id) === head;})[0],
-                word = $word.text();
+                head_word = data.filter(function (w) {return parseInt(w.word_id) === head;})[0],
+                word = $word.text(),
+                children = data.filter(function (w) {return wordObj.children.indexOf(w.word_id) > -1});
+            $.each(children, function (i, child) {
+              child.form = forms[child.form_id];
+            })
             $("#load i").toggleClass("highlight", false);
             $("#load i").toggleClass("active", false);
             $word.toggleClass("active", true);
@@ -212,7 +224,8 @@
               rel: rel,
               head: head,
               head_word: head_word ? forms[head_word.form_id].form : "",
-              head_word_id: head_word ? head_word.word_id : ""
+              head_word_id: head_word ? head_word.word_id : "",
+              children: children
             }));
             $('.alert').on('closed.bs.alert', function () {
               $("#load i").toggleClass("highlight", false);
@@ -230,6 +243,14 @@
           $("#word").on("mouseout", ".head", function () {
             var word_id = $(this).data("head_word_id");
             $("i[data-word_id=" + word_id + "]").toggleClass("highlight-2");
+          });
+          $("#word").on("mouseover", ".child", function () {
+            var word_id = $(this).data("child_word_id");
+            $("i[data-word_id=" + word_id + "]").toggleClass("highlight-3");
+          });
+          $("#word").on("mouseout", ".child", function () {
+            var word_id = $(this).data("child_word_id");
+            $("i[data-word_id=" + word_id + "]").toggleClass("highlight-3");
           });
         });
       });
