@@ -128,27 +128,30 @@
         </div>
     </script>
     <script type="text/javascript">
+      var fetchData = function (url) {
+        var json = null;
+        $.ajax({
+            async: false,
+            global: false,
+            url: url,
+            dataType: "json",
+            success: function (data) {
+                json = data;
+            }
+        });
+        return json;
+      }
       $(function () {
         var template_paragraph = $("#template_paragraph").html();
         var template_word = $("#template_word").html();
-        var forms = (function () {
-            var json = null;
-            $.ajax({
-                async: false,
-                global: false,
-                url: "/forms.json",
-                dataType: "json",
-                success: function (data) {
-                    json = data;
-                }
-            });
-            return json;
-        })();
+        var forms = fetchData("/forms.json");
+        var lexemes = fetchData("/lexemes.json");
         $.getJSON("/base.json", function (data) {
           $("#load").html(Mustache.to_html(template_paragraph, {words: data}));
           $("#load i").on("click", function () {
             var $word = $(this),
                 form = forms[$word.attr("form_id")],
+                lexeme = lexemes[form.lexeme_id],
                 word_id = $word.attr("word_id"),
                 word = $word.text();
             $("#load i").toggleClass("active", false);
@@ -157,10 +160,11 @@
               word: word,
               word_id: word_id,
               form: form.form,
-              lemma: form.lemma,
+              lemma: lexeme.lemma,
               parse: form.parse,
-              pos: form.pos
+              pos: lexeme.pos
             }));
+            console.log(form, lexeme);
           });
         });
       });
