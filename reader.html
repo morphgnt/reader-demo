@@ -138,13 +138,13 @@
     <script id="template_word" type="x-tmpl-mustache">
       <div class="alert alert-dismissible" role="alert">
           <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-          <h2>{{form}}</h2>
-          <div>{{parse}}</div>
-          <h3 class="lemma" data-lexeme_id="{{lexeme_id}}">{{lemma}}</h3>
-          <div>{{pos}}</div>
-          <div class="gloss">&ldquo;{{gloss}}&rdquo;</div>
+          <h2>{{form.form}}</h2>
+          <div>{{form.parse}}</div>
+          <h3 class="lemma" data-lexeme_id="{{form.lexeme_id}}">{{lexeme.lemma}}</h3>
+          <div>{{lexeme.pos}}</div>
+          <div class="gloss">&ldquo;{{lexeme.gloss}}&rdquo;</div>
           <h4>Parent</h4>
-          <div>{{rel}}{{#head_word}} of <span class="head" data-head_word_id="{{head_word_id}}">{{head_word}}{{/head_word}}</div>
+          <div>{{rel}}{{#head_form}} of <span class="head" data-head_word_id="{{head_word.word_id}}">{{head_form.form}}{{/head_form}}</div>
           <h4>Children</h4>
           {{#children}}
             <div class="child" data-child_word_id="{{word_id}}">{{form.form}} ({{rel}})</div>
@@ -180,12 +180,11 @@
                 form = forms[$word.data("form_id")],
                 lexeme = lexemes[form.lexeme_id],
                 word_id = $word.data("word_id"),
-                wordObj = data.filter(function (w) {return parseInt(w.word_id) === word_id})[0],
+                word = data.filter(function (w) {return parseInt(w.word_id) === word_id})[0],
                 rel = $word.data("rel"),
                 head = $word.data("head"),
                 head_word = data.filter(function (w) {return parseInt(w.word_id) === head;})[0],
-                word = $word.text(),
-                children = data.filter(function (w) {return wordObj.children.indexOf(w.word_id) > -1});
+                children = data.filter(function (w) {return word.children.indexOf(w.word_id) > -1});
             $.each(children, function (i, child) {
               child.form = forms[child.form_id];
             })
@@ -194,18 +193,12 @@
             $word.toggleClass("active", true);
             $("#word").html(Mustache.to_html(template_word, {
               word: word,
-              word_id: word_id,
-              form: form.form,
-              form_id: $word.data("form_id"),
-              lexeme_id: form.lexeme_id,
-              lemma: lexeme.lemma,
-              parse: form.parse,
-              pos: lexeme.pos,
-              gloss: lexeme.gloss,
+              form: form,
+              lexeme: lexeme,
               rel: rel,
               head: head,
-              head_word: head_word ? forms[head_word.form_id].form : "",
-              head_word_id: head_word ? head_word.word_id : "",
+              head_form: head_word ? forms[head_word.form_id] : "",
+              head_word: head_word ? head_word : "",
               children: children
             }));
             $('.alert').on('closed.bs.alert', function () {
