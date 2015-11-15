@@ -125,7 +125,7 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" integrity="sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==" crossorigin="anonymous"></script>
     <script id="template_paragraph" type="x-tmpl-mustache">
         {{#words}}
-            <i data-word_id="{{word_id}}" data-lexeme_id="{{lexeme_id}}" data-form_id="{{form_id}}">{{text}}</i>
+            <i data-word_id="{{word_id}}" data-rel="{{rel}}" data-head="{{head}}" data-lexeme_id="{{lexeme_id}}" data-form_id="{{form_id}}">{{text}}</i>
         {{/words}}
     </script>
     <script id="template_word" type="x-tmpl-mustache">
@@ -136,6 +136,7 @@
           <h3 class="lemma" data-lexeme_id="{{lexeme_id}}">{{lemma}}</h3>
           <div>{{pos}}</div>
           <div>&ldquo;{{gloss}}&rdquo;</div>
+          <div>{{rel}} of {{head_word}}</div>
       </div>
     </script>
     <script type="text/javascript">
@@ -167,6 +168,9 @@
                 form = forms[$word.data("form_id")],
                 lexeme = lexemes[form.lexeme_id],
                 word_id = $word.data("word_id"),
+                rel = $word.data("rel"),
+                head = $word.data("head"),
+                head_word = data.filter(function (word) {return parseInt(word.word_id) === head;})[0],
                 word = $word.text();
             $("#load i").toggleClass("highlight", false);
             $("#load i").toggleClass("active", false);
@@ -180,7 +184,10 @@
               lemma: lexeme.lemma,
               parse: form.parse,
               pos: lexeme.pos,
-              gloss: lexeme.gloss
+              gloss: lexeme.gloss,
+              rel: rel,
+              head: head,
+              head_word: head_word.text
             }));
             $('.alert').on('closed.bs.alert', function () {
               $("#load i").toggleClass("highlight", false);
