@@ -23,3 +23,16 @@ with open("raw_data/john_3_a.txt") as f:
 
 with open("base.json", "w") as f:
     json.dump(words, f, indent=2)
+
+ordered_forms = []
+for t, form_id in sorted(forms.items(), key=lambda pair: pair[1]):
+    form, lemma, pos, parse = t
+    ordered_forms.append({
+        "form": form,
+        "lemma": lemma,
+        "pos": pos,
+        "parse": parse,
+    })
+
+with open("forms.json", "w") as f:
+    json.dump(ordered_forms, f, indent=2)
