@@ -1,0 +1,97 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" integrity="sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
+    <script type="text/javascript">
+        WebFontConfig = { fontdeck: { id: '57741' } };
+        (function() {
+            var wf = document.createElement('script');
+            wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+            '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+            wf.type = 'text/javascript';
+            wf.async = 'true';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(wf, s);
+        })();
+    </script>
+
+    <style>
+      .instructions, .credits {
+          font-family: "PT Sans Regular", "Arial Unicode", "Lucida Sans Unicode", Arial, sans-serif;
+          padding: 10px 20px;
+          margin-bottom: 10px;
+          background: #EEE;
+      }
+      .instructions {
+          font-size: 14pt;
+      }
+      .credits {
+          font-size: 10pt;
+      }
+      p.nav {
+          font-family: "Skolar3 PE Regular", Georgia, serif;
+          margin-bottom: 1em;
+          font-size: 14pt;
+      }
+      p.nav a {
+          color: #C00;
+          text-decoration: none;
+          font-family: "PT Sans Regular", "Arial Unicode", "Lucida Sans Unicode", Arial, sans-serif;
+          font-size: 14pt;
+      }
+      .container {
+          width: 800px;
+          margin: 50px auto;
+      }
+      .legend {
+          text-align: center;
+      }
+      .legend span {
+          font-family: "PT Sans Regular", "Arial Unicode", "Lucida Sans Unicode", Arial, sans-serif;
+          font-size: 10pt;
+          padding: 8px 12px;
+          color: #FFF;
+          background: #CCC;
+      }
+      .text {
+          margin-top: 50px;
+          font-family: "Skolar3 PE Regular", Georgia, serif;
+          font-size: 20pt;
+          line-height: 30pt;
+          word-spacing: 6pt;
+          color: #333;
+      }
+      .book-link, .paragraph-link {
+          cursor: pointer;
+      }
+      .navigation {
+          margin: 20px 0;
+          font-size: 14pt;
+          font-family: "PT Sans Regular", "Arial Unicode", "Lucida Sans Unicode", Arial, sans-serif;
+      }
+      .prev {
+          float: left;
+      }
+      .next {
+          float: right;
+      }
+  </style>
+  </head>
+  <body>
+    <div class="container">
+      <p class="nav">
+          J. K. Tauber | <a href="/labs/">Labs</a>
+      </p>
+      <div class="instructions">Click a book name then use prev/next to page through paragraphs.</div>
+
+      <div class="credits">This uses the MorphGNT API to dynamically retrieve paragraphs.</div>
+
+
+      <div class="text">
+          <div id="load"></div>
+      </div>
+    </div>
+    <script src="//code.jquery.com/jquery-2.1.4.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/mustache.js/2.1.2/mustache.min.js"></script>
+  </body>
+</html>
