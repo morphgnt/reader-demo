@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 
 
+from collections import defaultdict
+
 import json
 import yaml
 
@@ -147,6 +149,8 @@ with open("../morphological-lexicon/lexemes.yaml") as f:
 words = []
 forms = {}
 lexemes = {}
+children = defaultdict(list)
+
 
 with open("raw_data/john_3_a.txt") as f:
     for line in f:
@@ -164,13 +168,23 @@ with open("raw_data/john_3_a.txt") as f:
         else:
             form_id = forms[(norm, pos, parse, lexeme_id)]
 
+        if head == "None":
+            head = None
+        else:
+            children[head].append(word_id)
+
         words.append({
             "word_id": word_id,
             "text": text,
             "form_id": form_id,
             "rel": rel,
-            "head": None if head == "None" else head,
+            "head": head,
         })
+
+
+for word in words:
+    word["children"] = children[word["word_id"]]
+
 
 with open("base.json", "w") as f:
     json.dump(words, f, indent=2, sort_keys=True, ensure_ascii=False)
