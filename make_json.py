@@ -168,6 +168,8 @@ with open("raw_data/john_3_a.txt") as f:
             "word_id": word_id,
             "text": text,
             "form_id": form_id,
+            "rel": rel,
+            "head": None if head == "None" else head,
         })
 
 with open("base.json", "w") as f:
