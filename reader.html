@@ -127,7 +127,7 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" integrity="sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==" crossorigin="anonymous"></script>
     <script id="template_paragraph" type="x-tmpl-mustache">
         {{#words}}
-            <i word_id="{{word_id}}" lexeme_id="{{lexeme_id}}" form_id="{{form_id}}">{{text}}</i>
+            <i data-word_id="{{word_id}}" data-lexeme_id="{{lexeme_id}}" data-form_id="{{form_id}}">{{text}}</i>
         {{/words}}
     </script>
     <script id="template_word" type="x-tmpl-mustache">
@@ -135,7 +135,7 @@
           <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
           <h2>{{form}}</h2>
           <div>{{parse}}</div>
-          <h3 class="lemma" lexeme_id="{{lexeme_id}}">{{lemma}}</h3>
+          <h3 class="lemma" data-lexeme_id="{{lexeme_id}}">{{lemma}}</h3>
           <div>{{pos}}</div>
       </div>
     </script>
@@ -165,9 +165,9 @@
           $("#load").html(Mustache.to_html(template_paragraph, {words: data}));
           $("#load i").on("click", function () {
             var $word = $(this),
-                form = forms[$word.attr("form_id")],
+                form = forms[$word.data("form_id")],
                 lexeme = lexemes[form.lexeme_id],
-                word_id = $word.attr("word_id"),
+                word_id = $word.data("word_id"),
                 word = $word.text();
             $("#load i").toggleClass("highlight", false);
             $("#load i").toggleClass("active", false);
@@ -176,7 +176,7 @@
               word: word,
               word_id: word_id,
               form: form.form,
-              form_id: $word.attr("form_id"),
+              form_id: $word.data("form_id"),
               lexeme_id: form.lexeme_id,
               lemma: lexeme.lemma,
               parse: form.parse,
