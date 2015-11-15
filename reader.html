@@ -182,6 +182,10 @@
               parse: form.parse,
               pos: lexeme.pos
             }));
+            $('.alert').on('closed.bs.alert', function () {
+              $("#load i").toggleClass("highlight", false);
+              $("#load i").toggleClass("active", false);
+            });
           });
           $("#word").on("click", ".lemma", function () {
             var lexeme_id = $(this).data("lexeme_id");
