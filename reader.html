@@ -102,6 +102,9 @@
       i.highlight {
         color: #0C0;
       }
+      i.highlight-2 {
+        color: #00C;
+      }
   </style>
   </head>
   <body>
@@ -136,7 +139,7 @@
           <h3 class="lemma" data-lexeme_id="{{lexeme_id}}">{{lemma}}</h3>
           <div>{{pos}}</div>
           <div>&ldquo;{{gloss}}&rdquo;</div>
-          <div>{{rel}} of {{head_word}}</div>
+          <div>{{rel}} of <span class="head" data-head_word_id="{{head_word_id}}">{{head_word}}</div>
       </div>
     </script>
     <script type="text/javascript">
@@ -187,7 +190,8 @@
               gloss: lexeme.gloss,
               rel: rel,
               head: head,
-              head_word: head_word.text
+              head_word: head_word ? forms[head_word.form_id].form : "",
+              head_word_id: head_word ? head_word.word_id : ""
             }));
             $('.alert').on('closed.bs.alert', function () {
               $("#load i").toggleClass("highlight", false);
@@ -197,6 +201,14 @@
           $("#word").on("click", ".lemma", function () {
             var lexeme_id = $(this).data("lexeme_id");
             $("i[data-lexeme_id=" + lexeme_id + "]").toggleClass("highlight");
+          });
+          $("#word").on("mouseover", ".head", function () {
+            var word_id = $(this).data("head_word_id");
+            $("i[data-word_id=" + word_id + "]").toggleClass("highlight-2");
+          });
+          $("#word").on("mouseout", ".head", function () {
+            var word_id = $(this).data("head_word_id");
+            $("i[data-word_id=" + word_id + "]").toggleClass("highlight-2");
           });
         });
       });
