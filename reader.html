@@ -95,8 +95,14 @@
           display: inline-block;
           margin-right: 0.3em;
       }
+      .lemma {
+        cursor: pointer;
+      }
       i.active {
         color: #C00;
+      }
+      i.highlight {
+        color: #0C0;
       }
   </style>
   </head>
@@ -121,7 +127,7 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" integrity="sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==" crossorigin="anonymous"></script>
     <script id="template_paragraph" type="x-tmpl-mustache">
         {{#words}}
-            <i word_id="{{word_id}}" form_id="{{form_id}}">{{text}}</i>
+            <i word_id="{{word_id}}" lexeme_id="{{lexeme_id}}" form_id="{{form_id}}">{{text}}</i>
         {{/words}}
     </script>
     <script id="template_word" type="x-tmpl-mustache">
@@ -129,7 +135,7 @@
           <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
           <h2>{{form}}</h2>
           <div>{{parse}}</div>
-          <h3>{{lemma}}</h3>
+          <h3 class="lemma" lexeme_id="{{lexeme_id}}">{{lemma}}</h3>
           <div>{{pos}}</div>
       </div>
     </script>
@@ -153,6 +159,9 @@
         var forms = fetchData("/forms.json");
         var lexemes = fetchData("/lexemes.json");
         $.getJSON("/base.json", function (data) {
+          $.each(data, function (i, w) {
+            w.lexeme_id = forms[w.form_id].lexeme_id;
+          })
           $("#load").html(Mustache.to_html(template_paragraph, {words: data}));
           $("#load i").on("click", function () {
             var $word = $(this),
@@ -166,11 +175,17 @@
               word: word,
               word_id: word_id,
               form: form.form,
+              form_id: $word.attr("form_id"),
+              lexeme_id: form.lexeme_id,
               lemma: lexeme.lemma,
               parse: form.parse,
               pos: lexeme.pos
             }));
-            console.log(form, lexeme);
+          });
+          $("#word").on("click", ".lemma", function () {
+            var lexeme_id = $(this).attr("lexeme_id");
+            $("i").toggleClass("highlight", false);
+            $("i[lexeme_id=" + lexeme_id + "]").toggleClass("highlight", true);
           });
         });
       });
