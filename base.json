@@ -1,1038 +1,1297 @@
 [
   {
     "word_id": "64003001001",
-    "text": "\u1f2e\u03bd"
+    "text": "\u1f2e\u03bd",
+    "form_id": 0
   },
   {
     "word_id": "64003001002",
-    "text": "\u03b4\u1f72"
+    "text": "\u03b4\u1f72",
+    "form_id": 1
   },
   {
     "word_id": "64003001003",
-    "text": "\u1f04\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03c2"
+    "text": "\u1f04\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03c2",
+    "form_id": 2
   },
   {
     "word_id": "64003001004",
-    "text": "\u1f10\u03ba"
+    "text": "\u1f10\u03ba",
+    "form_id": 3
   },
   {
     "word_id": "64003001005",
-    "text": "\u03c4\u1ff6\u03bd"
+    "text": "\u03c4\u1ff6\u03bd",
+    "form_id": 4
   },
   {
     "word_id": "64003001006",
-    "text": "\u03a6\u03b1\u03c1\u03b9\u03c3\u03b1\u03af\u03c9\u03bd,"
+    "text": "\u03a6\u03b1\u03c1\u03b9\u03c3\u03b1\u03af\u03c9\u03bd,",
+    "form_id": 5
   },
   {
     "word_id": "64003001007",
-    "text": "\u039d\u03b9\u03ba\u03cc\u03b4\u03b7\u03bc\u03bf\u03c2"
+    "text": "\u039d\u03b9\u03ba\u03cc\u03b4\u03b7\u03bc\u03bf\u03c2",
+    "form_id": 6
   },
   {
     "word_id": "64003001008",
-    "text": "\u1f44\u03bd\u03bf\u03bc\u03b1"
+    "text": "\u1f44\u03bd\u03bf\u03bc\u03b1",
+    "form_id": 7
   },
   {
     "word_id": "64003001009",
-    "text": "\u03b1\u1f50\u03c4\u1ff7,"
+    "text": "\u03b1\u1f50\u03c4\u1ff7,",
+    "form_id": 8
   },
   {
     "word_id": "64003001010",
-    "text": "\u1f04\u03c1\u03c7\u03c9\u03bd"
+    "text": "\u1f04\u03c1\u03c7\u03c9\u03bd",
+    "form_id": 9
   },
   {
     "word_id": "64003001011",
-    "text": "\u03c4\u1ff6\u03bd"
+    "text": "\u03c4\u1ff6\u03bd",
+    "form_id": 4
   },
   {
     "word_id": "64003001012",
-    "text": "\u1f38\u03bf\u03c5\u03b4\u03b1\u03af\u03c9\u03bd\u00b7"
+    "text": "\u1f38\u03bf\u03c5\u03b4\u03b1\u03af\u03c9\u03bd\u00b7",
+    "form_id": 10
   },
   {
     "word_id": "64003002001",
-    "text": "\u03bf\u1f57\u03c4\u03bf\u03c2"
+    "text": "\u03bf\u1f57\u03c4\u03bf\u03c2",
+    "form_id": 11
   },
   {
     "word_id": "64003002002",
-    "text": "\u1f26\u03bb\u03b8\u03b5\u03bd"
+    "text": "\u1f26\u03bb\u03b8\u03b5\u03bd",
+    "form_id": 12
   },
   {
     "word_id": "64003002003",
-    "text": "\u03c0\u03c1\u1f78\u03c2"
+    "text": "\u03c0\u03c1\u1f78\u03c2",
+    "form_id": 13
   },
   {
     "word_id": "64003002004",
-    "text": "\u03b1\u1f50\u03c4\u1f78\u03bd"
+    "text": "\u03b1\u1f50\u03c4\u1f78\u03bd",
+    "form_id": 14
   },
   {
     "word_id": "64003002005",
-    "text": "\u03bd\u03c5\u03ba\u03c4\u1f78\u03c2"
+    "text": "\u03bd\u03c5\u03ba\u03c4\u1f78\u03c2",
+    "form_id": 15
   },
   {
     "word_id": "64003002006",
-    "text": "\u03ba\u03b1\u1f76"
+    "text": "\u03ba\u03b1\u1f76",
+    "form_id": 16
   },
   {
     "word_id": "64003002007",
-    "text": "\u03b5\u1f36\u03c0\u03b5\u03bd"
+    "text": "\u03b5\u1f36\u03c0\u03b5\u03bd",
+    "form_id": 17
   },
   {
     "word_id": "64003002008",
-    "text": "\u03b1\u1f50\u03c4\u1ff7\u00b7"
+    "text": "\u03b1\u1f50\u03c4\u1ff7\u00b7",
+    "form_id": 8
   },
   {
     "word_id": "64003002009",
-    "text": "\u1fec\u03b1\u03b2\u03b2\u03af,"
+    "text": "\u1fec\u03b1\u03b2\u03b2\u03af,",
+    "form_id": 18
   },
   {
     "word_id": "64003002010",
-    "text": "\u03bf\u1f34\u03b4\u03b1\u03bc\u03b5\u03bd"
+    "text": "\u03bf\u1f34\u03b4\u03b1\u03bc\u03b5\u03bd",
+    "form_id": 19
   },
   {
     "word_id": "64003002011",
-    "text": "\u1f45\u03c4\u03b9"
+    "text": "\u1f45\u03c4\u03b9",
+    "form_id": 20
   },
   {
     "word_id": "64003002012",
-    "text": "\u1f00\u03c0\u1f78"
+    "text": "\u1f00\u03c0\u1f78",
+    "form_id": 21
   },
   {
     "word_id": "64003002013",
-    "text": "\u03b8\u03b5\u03bf\u1fe6"
+    "text": "\u03b8\u03b5\u03bf\u1fe6",
+    "form_id": 22
   },
   {
     "word_id": "64003002014",
-    "text": "\u1f10\u03bb\u03ae\u03bb\u03c5\u03b8\u03b1\u03c2"
+    "text": "\u1f10\u03bb\u03ae\u03bb\u03c5\u03b8\u03b1\u03c2",
+    "form_id": 23
   },
   {
     "word_id": "64003002015",
-    "text": "\u03b4\u03b9\u03b4\u03ac\u03c3\u03ba\u03b1\u03bb\u03bf\u03c2\u00b7"
+    "text": "\u03b4\u03b9\u03b4\u03ac\u03c3\u03ba\u03b1\u03bb\u03bf\u03c2\u00b7",
+    "form_id": 24
   },
   {
     "word_id": "64003002016",
-    "text": "\u03bf\u1f50\u03b4\u03b5\u1f76\u03c2"
+    "text": "\u03bf\u1f50\u03b4\u03b5\u1f76\u03c2",
+    "form_id": 25
   },
   {
     "word_id": "64003002017",
-    "text": "\u03b3\u1f70\u03c1"
+    "text": "\u03b3\u1f70\u03c1",
+    "form_id": 26
   },
   {
     "word_id": "64003002018",
-    "text": "\u03b4\u03cd\u03bd\u03b1\u03c4\u03b1\u03b9"
+    "text": "\u03b4\u03cd\u03bd\u03b1\u03c4\u03b1\u03b9",
+    "form_id": 27
   },
   {
     "word_id": "64003002019",
-    "text": "\u03c4\u03b1\u1fe6\u03c4\u03b1"
+    "text": "\u03c4\u03b1\u1fe6\u03c4\u03b1",
+    "form_id": 28
   },
   {
     "word_id": "64003002020",
-    "text": "\u03c4\u1f70"
+    "text": "\u03c4\u1f70",
+    "form_id": 29
   },
   {
     "word_id": "64003002021",
-    "text": "\u03c3\u03b7\u03bc\u03b5\u1fd6\u03b1"
+    "text": "\u03c3\u03b7\u03bc\u03b5\u1fd6\u03b1",
+    "form_id": 30
   },
   {
     "word_id": "64003002022",
-    "text": "\u03c0\u03bf\u03b9\u03b5\u1fd6\u03bd"
+    "text": "\u03c0\u03bf\u03b9\u03b5\u1fd6\u03bd",
+    "form_id": 31
   },
   {
     "word_id": "64003002023",
-    "text": "\u1f03"
+    "text": "\u1f03",
+    "form_id": 32
   },
   {
     "word_id": "64003002024",
-    "text": "\u03c3\u1f7a"
+    "text": "\u03c3\u1f7a",
+    "form_id": 33
   },
   {
     "word_id": "64003002025",
-    "text": "\u03c0\u03bf\u03b9\u03b5\u1fd6\u03c2,"
+    "text": "\u03c0\u03bf\u03b9\u03b5\u1fd6\u03c2,",
+    "form_id": 34
   },
   {
     "word_id": "64003002026",
-    "text": "\u1f10\u1f70\u03bd"
+    "text": "\u1f10\u1f70\u03bd",
+    "form_id": 35
   },
   {
     "word_id": "64003002027",
-    "text": "\u03bc\u1f74"
+    "text": "\u03bc\u1f74",
+    "form_id": 36
   },
   {
     "word_id": "64003002028",
-    "text": "\u1f96"
+    "text": "\u1f96",
+    "form_id": 37
   },
   {
     "word_id": "64003002029",
-    "text": "\u1f41"
+    "text": "\u1f41",
+    "form_id": 38
   },
   {
     "word_id": "64003002030",
-    "text": "\u03b8\u03b5\u1f78\u03c2"
+    "text": "\u03b8\u03b5\u1f78\u03c2",
+    "form_id": 39
   },
   {
     "word_id": "64003002031",
-    "text": "\u03bc\u03b5\u03c4\u2019"
+    "text": "\u03bc\u03b5\u03c4\u2019",
+    "form_id": 40
   },
   {
     "word_id": "64003002032",
-    "text": "\u03b1\u1f50\u03c4\u03bf\u1fe6."
+    "text": "\u03b1\u1f50\u03c4\u03bf\u1fe6.",
+    "form_id": 41
   },
   {
     "word_id": "64003003001",
-    "text": "\u1f00\u03c0\u03b5\u03ba\u03c1\u03af\u03b8\u03b7"
+    "text": "\u1f00\u03c0\u03b5\u03ba\u03c1\u03af\u03b8\u03b7",
+    "form_id": 42
   },
   {
     "word_id": "64003003002",
-    "text": "\u1f38\u03b7\u03c3\u03bf\u1fe6\u03c2"
+    "text": "\u1f38\u03b7\u03c3\u03bf\u1fe6\u03c2",
+    "form_id": 43
   },
   {
     "word_id": "64003003003",
-    "text": "\u03ba\u03b1\u1f76"
+    "text": "\u03ba\u03b1\u1f76",
+    "form_id": 16
   },
   {
     "word_id": "64003003004",
-    "text": "\u03b5\u1f36\u03c0\u03b5\u03bd"
+    "text": "\u03b5\u1f36\u03c0\u03b5\u03bd",
+    "form_id": 17
   },
   {
     "word_id": "64003003005",
-    "text": "\u03b1\u1f50\u03c4\u1ff7\u00b7"
+    "text": "\u03b1\u1f50\u03c4\u1ff7\u00b7",
+    "form_id": 8
   },
   {
     "word_id": "64003003006",
-    "text": "\u1f08\u03bc\u1f74\u03bd"
+    "text": "\u1f08\u03bc\u1f74\u03bd",
+    "form_id": 44
   },
   {
     "word_id": "64003003007",
-    "text": "\u1f00\u03bc\u1f74\u03bd"
+    "text": "\u1f00\u03bc\u1f74\u03bd",
+    "form_id": 44
   },
   {
     "word_id": "64003003008",
-    "text": "\u03bb\u03ad\u03b3\u03c9"
+    "text": "\u03bb\u03ad\u03b3\u03c9",
+    "form_id": 45
   },
   {
     "word_id": "64003003009",
-    "text": "\u03c3\u03bf\u03b9,"
+    "text": "\u03c3\u03bf\u03b9,",
+    "form_id": 46
   },
   {
     "word_id": "64003003010",
-    "text": "\u1f10\u1f70\u03bd"
+    "text": "\u1f10\u1f70\u03bd",
+    "form_id": 35
   },
   {
     "word_id": "64003003011",
-    "text": "\u03bc\u03ae"
+    "text": "\u03bc\u03ae",
+    "form_id": 36
   },
   {
     "word_id": "64003003012",
-    "text": "\u03c4\u03b9\u03c2"
+    "text": "\u03c4\u03b9\u03c2",
+    "form_id": 47
   },
   {
     "word_id": "64003003013",
-    "text": "\u03b3\u03b5\u03bd\u03bd\u03b7\u03b8\u1fc7"
+    "text": "\u03b3\u03b5\u03bd\u03bd\u03b7\u03b8\u1fc7",
+    "form_id": 48
   },
   {
     "word_id": "64003003014",
-    "text": "\u1f04\u03bd\u03c9\u03b8\u03b5\u03bd,"
+    "text": "\u1f04\u03bd\u03c9\u03b8\u03b5\u03bd,",
+    "form_id": 49
   },
   {
     "word_id": "64003003015",
-    "text": "\u03bf\u1f50"
+    "text": "\u03bf\u1f50",
+    "form_id": 50
   },
   {
     "word_id": "64003003016",
-    "text": "\u03b4\u03cd\u03bd\u03b1\u03c4\u03b1\u03b9"
+    "text": "\u03b4\u03cd\u03bd\u03b1\u03c4\u03b1\u03b9",
+    "form_id": 27
   },
   {
     "word_id": "64003003017",
-    "text": "\u1f30\u03b4\u03b5\u1fd6\u03bd"
+    "text": "\u1f30\u03b4\u03b5\u1fd6\u03bd",
+    "form_id": 51
   },
   {
     "word_id": "64003003018",
-    "text": "\u03c4\u1f74\u03bd"
+    "text": "\u03c4\u1f74\u03bd",
+    "form_id": 52
   },
   {
     "word_id": "64003003019",
-    "text": "\u03b2\u03b1\u03c3\u03b9\u03bb\u03b5\u03af\u03b1\u03bd"
+    "text": "\u03b2\u03b1\u03c3\u03b9\u03bb\u03b5\u03af\u03b1\u03bd",
+    "form_id": 53
   },
   {
     "word_id": "64003003020",
-    "text": "\u03c4\u03bf\u1fe6"
+    "text": "\u03c4\u03bf\u1fe6",
+    "form_id": 54
   },
   {
     "word_id": "64003003021",
-    "text": "\u03b8\u03b5\u03bf\u1fe6."
+    "text": "\u03b8\u03b5\u03bf\u1fe6.",
+    "form_id": 22
   },
   {
     "word_id": "64003004001",
-    "text": "\u03bb\u03ad\u03b3\u03b5\u03b9"
+    "text": "\u03bb\u03ad\u03b3\u03b5\u03b9",
+    "form_id": 55
   },
   {
     "word_id": "64003004002",
-    "text": "\u03c0\u03c1\u1f78\u03c2"
+    "text": "\u03c0\u03c1\u1f78\u03c2",
+    "form_id": 13
   },
   {
     "word_id": "64003004003",
-    "text": "\u03b1\u1f50\u03c4\u1f78\u03bd"
+    "text": "\u03b1\u1f50\u03c4\u1f78\u03bd",
+    "form_id": 14
   },
   {
     "word_id": "64003004004",
-    "text": "\u1f41"
+    "text": "\u1f41",
+    "form_id": 38
   },
   {
     "word_id": "64003004005",
-    "text": "\u039d\u03b9\u03ba\u03cc\u03b4\u03b7\u03bc\u03bf\u03c2\u00b7"
+    "text": "\u039d\u03b9\u03ba\u03cc\u03b4\u03b7\u03bc\u03bf\u03c2\u00b7",
+    "form_id": 6
   },
   {
     "word_id": "64003004006",
-    "text": "\u03a0\u1ff6\u03c2"
+    "text": "\u03a0\u1ff6\u03c2",
+    "form_id": 56
   },
   {
     "word_id": "64003004007",
-    "text": "\u03b4\u03cd\u03bd\u03b1\u03c4\u03b1\u03b9"
+    "text": "\u03b4\u03cd\u03bd\u03b1\u03c4\u03b1\u03b9",
+    "form_id": 27
   },
   {
     "word_id": "64003004008",
-    "text": "\u1f04\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03c2"
+    "text": "\u1f04\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03c2",
+    "form_id": 2
   },
   {
     "word_id": "64003004009",
-    "text": "\u03b3\u03b5\u03bd\u03bd\u03b7\u03b8\u1fc6\u03bd\u03b1\u03b9"
+    "text": "\u03b3\u03b5\u03bd\u03bd\u03b7\u03b8\u1fc6\u03bd\u03b1\u03b9",
+    "form_id": 57
   },
   {
     "word_id": "64003004010",
-    "text": "\u03b3\u03ad\u03c1\u03c9\u03bd"
+    "text": "\u03b3\u03ad\u03c1\u03c9\u03bd",
+    "form_id": 58
   },
   {
     "word_id": "64003004011",
-    "text": "\u1f64\u03bd;"
+    "text": "\u1f64\u03bd;",
+    "form_id": 59
   },
   {
     "word_id": "64003004012",
-    "text": "\u03bc\u1f74"
+    "text": "\u03bc\u1f74",
+    "form_id": 60
   },
   {
     "word_id": "64003004013",
-    "text": "\u03b4\u03cd\u03bd\u03b1\u03c4\u03b1\u03b9"
+    "text": "\u03b4\u03cd\u03bd\u03b1\u03c4\u03b1\u03b9",
+    "form_id": 27
   },
   {
     "word_id": "64003004014",
-    "text": "\u03b5\u1f30\u03c2"
+    "text": "\u03b5\u1f30\u03c2",
+    "form_id": 61
   },
   {
     "word_id": "64003004015",
-    "text": "\u03c4\u1f74\u03bd"
+    "text": "\u03c4\u1f74\u03bd",
+    "form_id": 52
   },
   {
     "word_id": "64003004016",
-    "text": "\u03ba\u03bf\u03b9\u03bb\u03af\u03b1\u03bd"
+    "text": "\u03ba\u03bf\u03b9\u03bb\u03af\u03b1\u03bd",
+    "form_id": 62
   },
   {
     "word_id": "64003004017",
-    "text": "\u03c4\u1fc6\u03c2"
+    "text": "\u03c4\u1fc6\u03c2",
+    "form_id": 63
   },
   {
     "word_id": "64003004018",
-    "text": "\u03bc\u03b7\u03c4\u03c1\u1f78\u03c2"
+    "text": "\u03bc\u03b7\u03c4\u03c1\u1f78\u03c2",
+    "form_id": 64
   },
   {
     "word_id": "64003004019",
-    "text": "\u03b1\u1f50\u03c4\u03bf\u1fe6"
+    "text": "\u03b1\u1f50\u03c4\u03bf\u1fe6",
+    "form_id": 41
   },
   {
     "word_id": "64003004020",
-    "text": "\u03b4\u03b5\u03cd\u03c4\u03b5\u03c1\u03bf\u03bd"
+    "text": "\u03b4\u03b5\u03cd\u03c4\u03b5\u03c1\u03bf\u03bd",
+    "form_id": 65
   },
   {
     "word_id": "64003004021",
-    "text": "\u03b5\u1f30\u03c3\u03b5\u03bb\u03b8\u03b5\u1fd6\u03bd"
+    "text": "\u03b5\u1f30\u03c3\u03b5\u03bb\u03b8\u03b5\u1fd6\u03bd",
+    "form_id": 66
   },
   {
     "word_id": "64003004022",
-    "text": "\u03ba\u03b1\u1f76"
+    "text": "\u03ba\u03b1\u1f76",
+    "form_id": 16
   },
   {
     "word_id": "64003004023",
-    "text": "\u03b3\u03b5\u03bd\u03bd\u03b7\u03b8\u1fc6\u03bd\u03b1\u03b9;"
+    "text": "\u03b3\u03b5\u03bd\u03bd\u03b7\u03b8\u1fc6\u03bd\u03b1\u03b9;",
+    "form_id": 57
   },
   {
     "word_id": "64003005001",
-    "text": "\u1f00\u03c0\u03b5\u03ba\u03c1\u03af\u03b8\u03b7"
+    "text": "\u1f00\u03c0\u03b5\u03ba\u03c1\u03af\u03b8\u03b7",
+    "form_id": 42
   },
   {
     "word_id": "64003005002",
-    "text": "\u1f38\u03b7\u03c3\u03bf\u1fe6\u03c2\u00b7"
+    "text": "\u1f38\u03b7\u03c3\u03bf\u1fe6\u03c2\u00b7",
+    "form_id": 43
   },
   {
     "word_id": "64003005003",
-    "text": "\u1f08\u03bc\u1f74\u03bd"
+    "text": "\u1f08\u03bc\u1f74\u03bd",
+    "form_id": 44
   },
   {
     "word_id": "64003005004",
-    "text": "\u1f00\u03bc\u1f74\u03bd"
+    "text": "\u1f00\u03bc\u1f74\u03bd",
+    "form_id": 44
   },
   {
     "word_id": "64003005005",
-    "text": "\u03bb\u03ad\u03b3\u03c9"
+    "text": "\u03bb\u03ad\u03b3\u03c9",
+    "form_id": 45
   },
   {
     "word_id": "64003005006",
-    "text": "\u03c3\u03bf\u03b9,"
+    "text": "\u03c3\u03bf\u03b9,",
+    "form_id": 46
   },
   {
     "word_id": "64003005007",
-    "text": "\u1f10\u1f70\u03bd"
+    "text": "\u1f10\u1f70\u03bd",
+    "form_id": 35
   },
   {
     "word_id": "64003005008",
-    "text": "\u03bc\u03ae"
+    "text": "\u03bc\u03ae",
+    "form_id": 36
   },
   {
     "word_id": "64003005009",
-    "text": "\u03c4\u03b9\u03c2"
+    "text": "\u03c4\u03b9\u03c2",
+    "form_id": 47
   },
   {
     "word_id": "64003005010",
-    "text": "\u03b3\u03b5\u03bd\u03bd\u03b7\u03b8\u1fc7"
+    "text": "\u03b3\u03b5\u03bd\u03bd\u03b7\u03b8\u1fc7",
+    "form_id": 48
   },
   {
     "word_id": "64003005011",
-    "text": "\u1f10\u03be"
+    "text": "\u1f10\u03be",
+    "form_id": 3
   },
   {
     "word_id": "64003005012",
-    "text": "\u1f55\u03b4\u03b1\u03c4\u03bf\u03c2"
+    "text": "\u1f55\u03b4\u03b1\u03c4\u03bf\u03c2",
+    "form_id": 67
   },
   {
     "word_id": "64003005013",
-    "text": "\u03ba\u03b1\u1f76"
+    "text": "\u03ba\u03b1\u1f76",
+    "form_id": 16
   },
   {
     "word_id": "64003005014",
-    "text": "\u03c0\u03bd\u03b5\u03cd\u03bc\u03b1\u03c4\u03bf\u03c2,"
+    "text": "\u03c0\u03bd\u03b5\u03cd\u03bc\u03b1\u03c4\u03bf\u03c2,",
+    "form_id": 68
   },
   {
     "word_id": "64003005015",
-    "text": "\u03bf\u1f50"
+    "text": "\u03bf\u1f50",
+    "form_id": 50
   },
   {
     "word_id": "64003005016",
-    "text": "\u03b4\u03cd\u03bd\u03b1\u03c4\u03b1\u03b9"
+    "text": "\u03b4\u03cd\u03bd\u03b1\u03c4\u03b1\u03b9",
+    "form_id": 27
   },
   {
     "word_id": "64003005017",
-    "text": "\u03b5\u1f30\u03c3\u03b5\u03bb\u03b8\u03b5\u1fd6\u03bd"
+    "text": "\u03b5\u1f30\u03c3\u03b5\u03bb\u03b8\u03b5\u1fd6\u03bd",
+    "form_id": 66
   },
   {
     "word_id": "64003005018",
-    "text": "\u03b5\u1f30\u03c2"
+    "text": "\u03b5\u1f30\u03c2",
+    "form_id": 61
   },
   {
     "word_id": "64003005019",
-    "text": "\u03c4\u1f74\u03bd"
+    "text": "\u03c4\u1f74\u03bd",
+    "form_id": 52
   },
   {
     "word_id": "64003005020",
-    "text": "\u03b2\u03b1\u03c3\u03b9\u03bb\u03b5\u03af\u03b1\u03bd"
+    "text": "\u03b2\u03b1\u03c3\u03b9\u03bb\u03b5\u03af\u03b1\u03bd",
+    "form_id": 53
   },
   {
     "word_id": "64003005021",
-    "text": "\u03c4\u03bf\u1fe6"
+    "text": "\u03c4\u03bf\u1fe6",
+    "form_id": 54
   },
   {
     "word_id": "64003005022",
-    "text": "\u03b8\u03b5\u03bf\u1fe6."
+    "text": "\u03b8\u03b5\u03bf\u1fe6.",
+    "form_id": 22
   },
   {
     "word_id": "64003006001",
-    "text": "\u03c4\u1f78"
+    "text": "\u03c4\u1f78",
+    "form_id": 69
   },
   {
     "word_id": "64003006002",
-    "text": "\u03b3\u03b5\u03b3\u03b5\u03bd\u03bd\u03b7\u03bc\u03ad\u03bd\u03bf\u03bd"
+    "text": "\u03b3\u03b5\u03b3\u03b5\u03bd\u03bd\u03b7\u03bc\u03ad\u03bd\u03bf\u03bd",
+    "form_id": 70
   },
   {
     "word_id": "64003006003",
-    "text": "\u1f10\u03ba"
+    "text": "\u1f10\u03ba",
+    "form_id": 3
   },
   {
     "word_id": "64003006004",
-    "text": "\u03c4\u1fc6\u03c2"
+    "text": "\u03c4\u1fc6\u03c2",
+    "form_id": 63
   },
   {
     "word_id": "64003006005",
-    "text": "\u03c3\u03b1\u03c1\u03ba\u1f78\u03c2"
+    "text": "\u03c3\u03b1\u03c1\u03ba\u1f78\u03c2",
+    "form_id": 71
   },
   {
     "word_id": "64003006006",
-    "text": "\u03c3\u03ac\u03c1\u03be"
+    "text": "\u03c3\u03ac\u03c1\u03be",
+    "form_id": 72
   },
   {
     "word_id": "64003006007",
-    "text": "\u1f10\u03c3\u03c4\u03b9\u03bd,"
+    "text": "\u1f10\u03c3\u03c4\u03b9\u03bd,",
+    "form_id": 73
   },
   {
     "word_id": "64003006008",
-    "text": "\u03ba\u03b1\u1f76"
+    "text": "\u03ba\u03b1\u1f76",
+    "form_id": 16
   },
   {
     "word_id": "64003006009",
-    "text": "\u03c4\u1f78"
+    "text": "\u03c4\u1f78",
+    "form_id": 69
   },
   {
     "word_id": "64003006010",
-    "text": "\u03b3\u03b5\u03b3\u03b5\u03bd\u03bd\u03b7\u03bc\u03ad\u03bd\u03bf\u03bd"
+    "text": "\u03b3\u03b5\u03b3\u03b5\u03bd\u03bd\u03b7\u03bc\u03ad\u03bd\u03bf\u03bd",
+    "form_id": 70
   },
   {
     "word_id": "64003006011",
-    "text": "\u1f10\u03ba"
+    "text": "\u1f10\u03ba",
+    "form_id": 3
   },
   {
     "word_id": "64003006012",
-    "text": "\u03c4\u03bf\u1fe6"
+    "text": "\u03c4\u03bf\u1fe6",
+    "form_id": 74
   },
   {
     "word_id": "64003006013",
-    "text": "\u03c0\u03bd\u03b5\u03cd\u03bc\u03b1\u03c4\u03bf\u03c2"
+    "text": "\u03c0\u03bd\u03b5\u03cd\u03bc\u03b1\u03c4\u03bf\u03c2",
+    "form_id": 68
   },
   {
     "word_id": "64003006014",
-    "text": "\u03c0\u03bd\u03b5\u1fe6\u03bc\u03ac"
+    "text": "\u03c0\u03bd\u03b5\u1fe6\u03bc\u03ac",
+    "form_id": 75
   },
   {
     "word_id": "64003006015",
-    "text": "\u1f10\u03c3\u03c4\u03b9\u03bd."
+    "text": "\u1f10\u03c3\u03c4\u03b9\u03bd.",
+    "form_id": 73
   },
   {
     "word_id": "64003007001",
-    "text": "\u03bc\u1f74"
+    "text": "\u03bc\u1f74",
+    "form_id": 36
   },
   {
     "word_id": "64003007002",
-    "text": "\u03b8\u03b1\u03c5\u03bc\u03ac\u03c3\u1fc3\u03c2"
+    "text": "\u03b8\u03b1\u03c5\u03bc\u03ac\u03c3\u1fc3\u03c2",
+    "form_id": 76
   },
   {
     "word_id": "64003007003",
-    "text": "\u1f45\u03c4\u03b9"
+    "text": "\u1f45\u03c4\u03b9",
+    "form_id": 20
   },
   {
     "word_id": "64003007004",
-    "text": "\u03b5\u1f36\u03c0\u03cc\u03bd"
+    "text": "\u03b5\u1f36\u03c0\u03cc\u03bd",
+    "form_id": 77
   },
   {
     "word_id": "64003007005",
-    "text": "\u03c3\u03bf\u03b9"
+    "text": "\u03c3\u03bf\u03b9",
+    "form_id": 46
   },
   {
     "word_id": "64003007006",
-    "text": "\u0394\u03b5\u1fd6"
+    "text": "\u0394\u03b5\u1fd6",
+    "form_id": 78
   },
   {
     "word_id": "64003007007",
-    "text": "\u1f51\u03bc\u1fb6\u03c2"
+    "text": "\u1f51\u03bc\u1fb6\u03c2",
+    "form_id": 79
   },
   {
     "word_id": "64003007008",
-    "text": "\u03b3\u03b5\u03bd\u03bd\u03b7\u03b8\u1fc6\u03bd\u03b1\u03b9"
+    "text": "\u03b3\u03b5\u03bd\u03bd\u03b7\u03b8\u1fc6\u03bd\u03b1\u03b9",
+    "form_id": 57
   },
   {
     "word_id": "64003007009",
-    "text": "\u1f04\u03bd\u03c9\u03b8\u03b5\u03bd."
+    "text": "\u1f04\u03bd\u03c9\u03b8\u03b5\u03bd.",
+    "form_id": 49
   },
   {
     "word_id": "64003008001",
-    "text": "\u03c4\u1f78"
+    "text": "\u03c4\u1f78",
+    "form_id": 69
   },
   {
     "word_id": "64003008002",
-    "text": "\u03c0\u03bd\u03b5\u1fe6\u03bc\u03b1"
+    "text": "\u03c0\u03bd\u03b5\u1fe6\u03bc\u03b1",
+    "form_id": 75
   },
   {
     "word_id": "64003008003",
-    "text": "\u1f45\u03c0\u03bf\u03c5"
+    "text": "\u1f45\u03c0\u03bf\u03c5",
+    "form_id": 80
   },
   {
     "word_id": "64003008004",
-    "text": "\u03b8\u03ad\u03bb\u03b5\u03b9"
+    "text": "\u03b8\u03ad\u03bb\u03b5\u03b9",
+    "form_id": 81
   },
   {
     "word_id": "64003008005",
-    "text": "\u03c0\u03bd\u03b5\u1fd6,"
+    "text": "\u03c0\u03bd\u03b5\u1fd6,",
+    "form_id": 82
   },
   {
     "word_id": "64003008006",
-    "text": "\u03ba\u03b1\u1f76"
+    "text": "\u03ba\u03b1\u1f76",
+    "form_id": 16
   },
   {
     "word_id": "64003008007",
-    "text": "\u03c4\u1f74\u03bd"
+    "text": "\u03c4\u1f74\u03bd",
+    "form_id": 52
   },
   {
     "word_id": "64003008008",
-    "text": "\u03c6\u03c9\u03bd\u1f74\u03bd"
+    "text": "\u03c6\u03c9\u03bd\u1f74\u03bd",
+    "form_id": 83
   },
   {
     "word_id": "64003008009",
-    "text": "\u03b1\u1f50\u03c4\u03bf\u1fe6"
+    "text": "\u03b1\u1f50\u03c4\u03bf\u1fe6",
+    "form_id": 84
   },
   {
     "word_id": "64003008010",
-    "text": "\u1f00\u03ba\u03bf\u03cd\u03b5\u03b9\u03c2,"
+    "text": "\u1f00\u03ba\u03bf\u03cd\u03b5\u03b9\u03c2,",
+    "form_id": 85
   },
   {
     "word_id": "64003008011",
-    "text": "\u1f00\u03bb\u03bb\u2019"
+    "text": "\u1f00\u03bb\u03bb\u2019",
+    "form_id": 86
   },
   {
     "word_id": "64003008012",
-    "text": "\u03bf\u1f50\u03ba"
+    "text": "\u03bf\u1f50\u03ba",
+    "form_id": 50
   },
   {
     "word_id": "64003008013",
-    "text": "\u03bf\u1f36\u03b4\u03b1\u03c2"
+    "text": "\u03bf\u1f36\u03b4\u03b1\u03c2",
+    "form_id": 87
   },
   {
     "word_id": "64003008014",
-    "text": "\u03c0\u03cc\u03b8\u03b5\u03bd"
+    "text": "\u03c0\u03cc\u03b8\u03b5\u03bd",
+    "form_id": 88
   },
   {
     "word_id": "64003008015",
-    "text": "\u1f14\u03c1\u03c7\u03b5\u03c4\u03b1\u03b9"
+    "text": "\u1f14\u03c1\u03c7\u03b5\u03c4\u03b1\u03b9",
+    "form_id": 89
   },
   {
     "word_id": "64003008016",
-    "text": "\u03ba\u03b1\u1f76"
+    "text": "\u03ba\u03b1\u1f76",
+    "form_id": 16
   },
   {
     "word_id": "64003008017",
-    "text": "\u03c0\u03bf\u1fe6"
+    "text": "\u03c0\u03bf\u1fe6",
+    "form_id": 90
   },
   {
     "word_id": "64003008018",
-    "text": "\u1f51\u03c0\u03ac\u03b3\u03b5\u03b9\u00b7"
+    "text": "\u1f51\u03c0\u03ac\u03b3\u03b5\u03b9\u00b7",
+    "form_id": 91
   },
   {
     "word_id": "64003008019",
-    "text": "\u03bf\u1f55\u03c4\u03c9\u03c2"
+    "text": "\u03bf\u1f55\u03c4\u03c9\u03c2",
+    "form_id": 92
   },
   {
     "word_id": "64003008020",
-    "text": "\u1f10\u03c3\u03c4\u1f76\u03bd"
+    "text": "\u1f10\u03c3\u03c4\u1f76\u03bd",
+    "form_id": 73
   },
   {
     "word_id": "64003008021",
-    "text": "\u03c0\u1fb6\u03c2"
+    "text": "\u03c0\u1fb6\u03c2",
+    "form_id": 93
   },
   {
     "word_id": "64003008022",
-    "text": "\u1f41"
+    "text": "\u1f41",
+    "form_id": 38
   },
   {
     "word_id": "64003008023",
-    "text": "\u03b3\u03b5\u03b3\u03b5\u03bd\u03bd\u03b7\u03bc\u03ad\u03bd\u03bf\u03c2"
+    "text": "\u03b3\u03b5\u03b3\u03b5\u03bd\u03bd\u03b7\u03bc\u03ad\u03bd\u03bf\u03c2",
+    "form_id": 94
   },
   {
     "word_id": "64003008024",
-    "text": "\u1f10\u03ba"
+    "text": "\u1f10\u03ba",
+    "form_id": 3
   },
   {
     "word_id": "64003008025",
-    "text": "\u03c4\u03bf\u1fe6"
+    "text": "\u03c4\u03bf\u1fe6",
+    "form_id": 74
   },
   {
     "word_id": "64003008026",
-    "text": "\u03c0\u03bd\u03b5\u03cd\u03bc\u03b1\u03c4\u03bf\u03c2."
+    "text": "\u03c0\u03bd\u03b5\u03cd\u03bc\u03b1\u03c4\u03bf\u03c2.",
+    "form_id": 68
   },
   {
     "word_id": "64003009001",
-    "text": "\u1f00\u03c0\u03b5\u03ba\u03c1\u03af\u03b8\u03b7"
+    "text": "\u1f00\u03c0\u03b5\u03ba\u03c1\u03af\u03b8\u03b7",
+    "form_id": 42
   },
   {
     "word_id": "64003009002",
-    "text": "\u039d\u03b9\u03ba\u03cc\u03b4\u03b7\u03bc\u03bf\u03c2"
+    "text": "\u039d\u03b9\u03ba\u03cc\u03b4\u03b7\u03bc\u03bf\u03c2",
+    "form_id": 6
   },
   {
     "word_id": "64003009003",
-    "text": "\u03ba\u03b1\u1f76"
+    "text": "\u03ba\u03b1\u1f76",
+    "form_id": 16
   },
   {
     "word_id": "64003009004",
-    "text": "\u03b5\u1f36\u03c0\u03b5\u03bd"
+    "text": "\u03b5\u1f36\u03c0\u03b5\u03bd",
+    "form_id": 17
   },
   {
     "word_id": "64003009005",
-    "text": "\u03b1\u1f50\u03c4\u1ff7\u00b7"
+    "text": "\u03b1\u1f50\u03c4\u1ff7\u00b7",
+    "form_id": 8
   },
   {
     "word_id": "64003009006",
-    "text": "\u03a0\u1ff6\u03c2"
+    "text": "\u03a0\u1ff6\u03c2",
+    "form_id": 56
   },
   {
     "word_id": "64003009007",
-    "text": "\u03b4\u03cd\u03bd\u03b1\u03c4\u03b1\u03b9"
+    "text": "\u03b4\u03cd\u03bd\u03b1\u03c4\u03b1\u03b9",
+    "form_id": 27
   },
   {
     "word_id": "64003009008",
-    "text": "\u03c4\u03b1\u1fe6\u03c4\u03b1"
+    "text": "\u03c4\u03b1\u1fe6\u03c4\u03b1",
+    "form_id": 95
   },
   {
     "word_id": "64003009009",
-    "text": "\u03b3\u03b5\u03bd\u03ad\u03c3\u03b8\u03b1\u03b9;"
+    "text": "\u03b3\u03b5\u03bd\u03ad\u03c3\u03b8\u03b1\u03b9;",
+    "form_id": 96
   },
   {
     "word_id": "64003010001",
-    "text": "\u1f00\u03c0\u03b5\u03ba\u03c1\u03af\u03b8\u03b7"
+    "text": "\u1f00\u03c0\u03b5\u03ba\u03c1\u03af\u03b8\u03b7",
+    "form_id": 42
   },
   {
     "word_id": "64003010002",
-    "text": "\u1f38\u03b7\u03c3\u03bf\u1fe6\u03c2"
+    "text": "\u1f38\u03b7\u03c3\u03bf\u1fe6\u03c2",
+    "form_id": 43
   },
   {
     "word_id": "64003010003",
-    "text": "\u03ba\u03b1\u1f76"
+    "text": "\u03ba\u03b1\u1f76",
+    "form_id": 16
   },
   {
     "word_id": "64003010004",
-    "text": "\u03b5\u1f36\u03c0\u03b5\u03bd"
+    "text": "\u03b5\u1f36\u03c0\u03b5\u03bd",
+    "form_id": 17
   },
   {
     "word_id": "64003010005",
-    "text": "\u03b1\u1f50\u03c4\u1ff7\u00b7"
+    "text": "\u03b1\u1f50\u03c4\u1ff7\u00b7",
+    "form_id": 8
   },
   {
     "word_id": "64003010006",
-    "text": "\u03a3\u1f7a"
+    "text": "\u03a3\u1f7a",
+    "form_id": 33
   },
   {
     "word_id": "64003010007",
-    "text": "\u03b5\u1f36"
+    "text": "\u03b5\u1f36",
+    "form_id": 97
   },
   {
     "word_id": "64003010008",
-    "text": "\u1f41"
+    "text": "\u1f41",
+    "form_id": 38
   },
   {
     "word_id": "64003010009",
-    "text": "\u03b4\u03b9\u03b4\u03ac\u03c3\u03ba\u03b1\u03bb\u03bf\u03c2"
+    "text": "\u03b4\u03b9\u03b4\u03ac\u03c3\u03ba\u03b1\u03bb\u03bf\u03c2",
+    "form_id": 24
   },
   {
     "word_id": "64003010010",
-    "text": "\u03c4\u03bf\u1fe6"
+    "text": "\u03c4\u03bf\u1fe6",
+    "form_id": 54
   },
   {
     "word_id": "64003010011",
-    "text": "\u1f38\u03c3\u03c1\u03b1\u1f74\u03bb"
+    "text": "\u1f38\u03c3\u03c1\u03b1\u1f74\u03bb",
+    "form_id": 98
   },
   {
     "word_id": "64003010012",
-    "text": "\u03ba\u03b1\u1f76"
+    "text": "\u03ba\u03b1\u1f76",
+    "form_id": 16
   },
   {
     "word_id": "64003010013",
-    "text": "\u03c4\u03b1\u1fe6\u03c4\u03b1"
+    "text": "\u03c4\u03b1\u1fe6\u03c4\u03b1",
+    "form_id": 28
   },
   {
     "word_id": "64003010014",
-    "text": "\u03bf\u1f50"
+    "text": "\u03bf\u1f50",
+    "form_id": 50
   },
   {
     "word_id": "64003010015",
-    "text": "\u03b3\u03b9\u03bd\u03ce\u03c3\u03ba\u03b5\u03b9\u03c2;"
+    "text": "\u03b3\u03b9\u03bd\u03ce\u03c3\u03ba\u03b5\u03b9\u03c2;",
+    "form_id": 99
   },
   {
     "word_id": "64003011001",
-    "text": "\u1f00\u03bc\u1f74\u03bd"
+    "text": "\u1f00\u03bc\u1f74\u03bd",
+    "form_id": 44
   },
   {
     "word_id": "64003011002",
-    "text": "\u1f00\u03bc\u1f74\u03bd"
+    "text": "\u1f00\u03bc\u1f74\u03bd",
+    "form_id": 44
   },
   {
     "word_id": "64003011003",
-    "text": "\u03bb\u03ad\u03b3\u03c9"
+    "text": "\u03bb\u03ad\u03b3\u03c9",
+    "form_id": 45
   },
   {
     "word_id": "64003011004",
-    "text": "\u03c3\u03bf\u03b9"
+    "text": "\u03c3\u03bf\u03b9",
+    "form_id": 46
   },
   {
     "word_id": "64003011005",
-    "text": "\u1f45\u03c4\u03b9"
+    "text": "\u1f45\u03c4\u03b9",
+    "form_id": 20
   },
   {
     "word_id": "64003011006",
-    "text": "\u1f43"
+    "text": "\u1f43",
+    "form_id": 100
   },
   {
     "word_id": "64003011007",
-    "text": "\u03bf\u1f34\u03b4\u03b1\u03bc\u03b5\u03bd"
+    "text": "\u03bf\u1f34\u03b4\u03b1\u03bc\u03b5\u03bd",
+    "form_id": 19
   },
   {
     "word_id": "64003011008",
-    "text": "\u03bb\u03b1\u03bb\u03bf\u1fe6\u03bc\u03b5\u03bd"
+    "text": "\u03bb\u03b1\u03bb\u03bf\u1fe6\u03bc\u03b5\u03bd",
+    "form_id": 101
   },
   {
     "word_id": "64003011009",
-    "text": "\u03ba\u03b1\u1f76"
+    "text": "\u03ba\u03b1\u1f76",
+    "form_id": 16
   },
   {
     "word_id": "64003011010",
-    "text": "\u1f43"
+    "text": "\u1f43",
+    "form_id": 100
   },
   {
     "word_id": "64003011011",
-    "text": "\u1f11\u03c9\u03c1\u03ac\u03ba\u03b1\u03bc\u03b5\u03bd"
+    "text": "\u1f11\u03c9\u03c1\u03ac\u03ba\u03b1\u03bc\u03b5\u03bd",
+    "form_id": 102
   },
   {
     "word_id": "64003011012",
-    "text": "\u03bc\u03b1\u03c1\u03c4\u03c5\u03c1\u03bf\u1fe6\u03bc\u03b5\u03bd,"
+    "text": "\u03bc\u03b1\u03c1\u03c4\u03c5\u03c1\u03bf\u1fe6\u03bc\u03b5\u03bd,",
+    "form_id": 103
   },
   {
     "word_id": "64003011013",
-    "text": "\u03ba\u03b1\u1f76"
+    "text": "\u03ba\u03b1\u1f76",
+    "form_id": 16
   },
   {
     "word_id": "64003011014",
-    "text": "\u03c4\u1f74\u03bd"
+    "text": "\u03c4\u1f74\u03bd",
+    "form_id": 52
   },
   {
     "word_id": "64003011015",
-    "text": "\u03bc\u03b1\u03c1\u03c4\u03c5\u03c1\u03af\u03b1\u03bd"
+    "text": "\u03bc\u03b1\u03c1\u03c4\u03c5\u03c1\u03af\u03b1\u03bd",
+    "form_id": 104
   },
   {
     "word_id": "64003011016",
-    "text": "\u1f21\u03bc\u1ff6\u03bd"
+    "text": "\u1f21\u03bc\u1ff6\u03bd",
+    "form_id": 105
   },
   {
     "word_id": "64003011017",
-    "text": "\u03bf\u1f50"
+    "text": "\u03bf\u1f50",
+    "form_id": 50
   },
   {
     "word_id": "64003011018",
-    "text": "\u03bb\u03b1\u03bc\u03b2\u03ac\u03bd\u03b5\u03c4\u03b5."
+    "text": "\u03bb\u03b1\u03bc\u03b2\u03ac\u03bd\u03b5\u03c4\u03b5.",
+    "form_id": 106
   },
   {
     "word_id": "64003012001",
-    "text": "\u03b5\u1f30"
+    "text": "\u03b5\u1f30",
+    "form_id": 107
   },
   {
     "word_id": "64003012002",
-    "text": "\u03c4\u1f70"
+    "text": "\u03c4\u1f70",
+    "form_id": 29
   },
   {
     "word_id": "64003012003",
-    "text": "\u1f10\u03c0\u03af\u03b3\u03b5\u03b9\u03b1"
+    "text": "\u1f10\u03c0\u03af\u03b3\u03b5\u03b9\u03b1",
+    "form_id": 108
   },
   {
     "word_id": "64003012004",
-    "text": "\u03b5\u1f36\u03c0\u03bf\u03bd"
+    "text": "\u03b5\u1f36\u03c0\u03bf\u03bd",
+    "form_id": 77
   },
   {
     "word_id": "64003012005",
-    "text": "\u1f51\u03bc\u1fd6\u03bd"
+    "text": "\u1f51\u03bc\u1fd6\u03bd",
+    "form_id": 109
   },
   {
     "word_id": "64003012006",
-    "text": "\u03ba\u03b1\u1f76"
+    "text": "\u03ba\u03b1\u1f76",
+    "form_id": 16
   },
   {
     "word_id": "64003012007",
-    "text": "\u03bf\u1f50"
+    "text": "\u03bf\u1f50",
+    "form_id": 50
   },
   {
     "word_id": "64003012008",
-    "text": "\u03c0\u03b9\u03c3\u03c4\u03b5\u03cd\u03b5\u03c4\u03b5,"
+    "text": "\u03c0\u03b9\u03c3\u03c4\u03b5\u03cd\u03b5\u03c4\u03b5,",
+    "form_id": 110
   },
   {
     "word_id": "64003012009",
-    "text": "\u03c0\u1ff6\u03c2"
+    "text": "\u03c0\u1ff6\u03c2",
+    "form_id": 56
   },
   {
     "word_id": "64003012010",
-    "text": "\u1f10\u1f70\u03bd"
+    "text": "\u1f10\u1f70\u03bd",
+    "form_id": 35
   },
   {
     "word_id": "64003012011",
-    "text": "\u03b5\u1f34\u03c0\u03c9"
+    "text": "\u03b5\u1f34\u03c0\u03c9",
+    "form_id": 111
   },
   {
     "word_id": "64003012012",
-    "text": "\u1f51\u03bc\u1fd6\u03bd"
+    "text": "\u1f51\u03bc\u1fd6\u03bd",
+    "form_id": 109
   },
   {
     "word_id": "64003012013",
-    "text": "\u03c4\u1f70"
+    "text": "\u03c4\u1f70",
+    "form_id": 29
   },
   {
     "word_id": "64003012014",
-    "text": "\u1f10\u03c0\u03bf\u03c5\u03c1\u03ac\u03bd\u03b9\u03b1"
+    "text": "\u1f10\u03c0\u03bf\u03c5\u03c1\u03ac\u03bd\u03b9\u03b1",
+    "form_id": 112
   },
   {
     "word_id": "64003012015",
-    "text": "\u03c0\u03b9\u03c3\u03c4\u03b5\u03cd\u03c3\u03b5\u03c4\u03b5;"
+    "text": "\u03c0\u03b9\u03c3\u03c4\u03b5\u03cd\u03c3\u03b5\u03c4\u03b5;",
+    "form_id": 113
   },
   {
     "word_id": "64003013001",
-    "text": "\u03ba\u03b1\u1f76"
+    "text": "\u03ba\u03b1\u1f76",
+    "form_id": 16
   },
   {
     "word_id": "64003013002",
-    "text": "\u03bf\u1f50\u03b4\u03b5\u1f76\u03c2"
+    "text": "\u03bf\u1f50\u03b4\u03b5\u1f76\u03c2",
+    "form_id": 25
   },
   {
     "word_id": "64003013003",
-    "text": "\u1f00\u03bd\u03b1\u03b2\u03ad\u03b2\u03b7\u03ba\u03b5\u03bd"
+    "text": "\u1f00\u03bd\u03b1\u03b2\u03ad\u03b2\u03b7\u03ba\u03b5\u03bd",
+    "form_id": 114
   },
   {
     "word_id": "64003013004",
-    "text": "\u03b5\u1f30\u03c2"
+    "text": "\u03b5\u1f30\u03c2",
+    "form_id": 61
   },
   {
     "word_id": "64003013005",
-    "text": "\u03c4\u1f78\u03bd"
+    "text": "\u03c4\u1f78\u03bd",
+    "form_id": 115
   },
   {
     "word_id": "64003013006",
-    "text": "\u03bf\u1f50\u03c1\u03b1\u03bd\u1f78\u03bd"
+    "text": "\u03bf\u1f50\u03c1\u03b1\u03bd\u1f78\u03bd",
+    "form_id": 116
   },
   {
     "word_id": "64003013007",
-    "text": "\u03b5\u1f30"
+    "text": "\u03b5\u1f30",
+    "form_id": 107
   },
   {
     "word_id": "64003013008",
-    "text": "\u03bc\u1f74"
+    "text": "\u03bc\u1f74",
+    "form_id": 36
   },
   {
     "word_id": "64003013009",
-    "text": "\u1f41"
+    "text": "\u1f41",
+    "form_id": 38
   },
   {
     "word_id": "64003013010",
-    "text": "\u1f10\u03ba"
+    "text": "\u1f10\u03ba",
+    "form_id": 3
   },
   {
     "word_id": "64003013011",
-    "text": "\u03c4\u03bf\u1fe6"
+    "text": "\u03c4\u03bf\u1fe6",
+    "form_id": 54
   },
   {
     "word_id": "64003013012",
-    "text": "\u03bf\u1f50\u03c1\u03b1\u03bd\u03bf\u1fe6"
+    "text": "\u03bf\u1f50\u03c1\u03b1\u03bd\u03bf\u1fe6",
+    "form_id": 117
   },
   {
     "word_id": "64003013013",
-    "text": "\u03ba\u03b1\u03c4\u03b1\u03b2\u03ac\u03c2,"
+    "text": "\u03ba\u03b1\u03c4\u03b1\u03b2\u03ac\u03c2,",
+    "form_id": 118
   },
   {
     "word_id": "64003013014",
-    "text": "\u1f41"
+    "text": "\u1f41",
+    "form_id": 38
   },
   {
     "word_id": "64003013015",
-    "text": "\u03c5\u1f31\u1f78\u03c2"
+    "text": "\u03c5\u1f31\u1f78\u03c2",
+    "form_id": 119
   },
   {
     "word_id": "64003013016",
-    "text": "\u03c4\u03bf\u1fe6"
+    "text": "\u03c4\u03bf\u1fe6",
+    "form_id": 54
   },
   {
     "word_id": "64003013017",
-    "text": "\u1f00\u03bd\u03b8\u03c1\u03ce\u03c0\u03bf\u03c5."
+    "text": "\u1f00\u03bd\u03b8\u03c1\u03ce\u03c0\u03bf\u03c5.",
+    "form_id": 120
   },
   {
     "word_id": "64003014001",
-    "text": "\u03ba\u03b1\u1f76"
+    "text": "\u03ba\u03b1\u1f76",
+    "form_id": 16
   },
   {
     "word_id": "64003014002",
-    "text": "\u03ba\u03b1\u03b8\u1f7c\u03c2"
+    "text": "\u03ba\u03b1\u03b8\u1f7c\u03c2",
+    "form_id": 121
   },
   {
     "word_id": "64003014003",
-    "text": "\u039c\u03c9\u03cb\u03c3\u1fc6\u03c2"
+    "text": "\u039c\u03c9\u03cb\u03c3\u1fc6\u03c2",
+    "form_id": 122
   },
   {
     "word_id": "64003014004",
-    "text": "\u1f55\u03c8\u03c9\u03c3\u03b5\u03bd"
+    "text": "\u1f55\u03c8\u03c9\u03c3\u03b5\u03bd",
+    "form_id": 123
   },
   {
     "word_id": "64003014005",
-    "text": "\u03c4\u1f78\u03bd"
+    "text": "\u03c4\u1f78\u03bd",
+    "form_id": 115
   },
   {
     "word_id": "64003014006",
-    "text": "\u1f44\u03c6\u03b9\u03bd"
+    "text": "\u1f44\u03c6\u03b9\u03bd",
+    "form_id": 124
   },
   {
     "word_id": "64003014007",
-    "text": "\u1f10\u03bd"
+    "text": "\u1f10\u03bd",
+    "form_id": 125
   },
   {
     "word_id": "64003014008",
-    "text": "\u03c4\u1fc7"
+    "text": "\u03c4\u1fc7",
+    "form_id": 126
   },
   {
     "word_id": "64003014009",
-    "text": "\u1f10\u03c1\u03ae\u03bc\u1ff3,"
+    "text": "\u1f10\u03c1\u03ae\u03bc\u1ff3,",
+    "form_id": 127
   },
   {
     "word_id": "64003014010",
-    "text": "\u03bf\u1f55\u03c4\u03c9\u03c2"
+    "text": "\u03bf\u1f55\u03c4\u03c9\u03c2",
+    "form_id": 92
   },
   {
     "word_id": "64003014011",
-    "text": "\u1f51\u03c8\u03c9\u03b8\u1fc6\u03bd\u03b1\u03b9"
+    "text": "\u1f51\u03c8\u03c9\u03b8\u1fc6\u03bd\u03b1\u03b9",
+    "form_id": 128
   },
   {
     "word_id": "64003014012",
-    "text": "\u03b4\u03b5\u1fd6"
+    "text": "\u03b4\u03b5\u1fd6",
+    "form_id": 78
   },
   {
     "word_id": "64003014013",
-    "text": "\u03c4\u1f78\u03bd"
+    "text": "\u03c4\u1f78\u03bd",
+    "form_id": 115
   },
   {
     "word_id": "64003014014",
-    "text": "\u03c5\u1f31\u1f78\u03bd"
+    "text": "\u03c5\u1f31\u1f78\u03bd",
+    "form_id": 129
   },
   {
     "word_id": "64003014015",
-    "text": "\u03c4\u03bf\u1fe6"
+    "text": "\u03c4\u03bf\u1fe6",
+    "form_id": 54
   },
   {
     "word_id": "64003014016",
-    "text": "\u1f00\u03bd\u03b8\u03c1\u03ce\u03c0\u03bf\u03c5,"
+    "text": "\u1f00\u03bd\u03b8\u03c1\u03ce\u03c0\u03bf\u03c5,",
+    "form_id": 120
   },
   {
     "word_id": "64003015001",
-    "text": "\u1f35\u03bd\u03b1"
+    "text": "\u1f35\u03bd\u03b1",
+    "form_id": 130
   },
   {
     "word_id": "64003015002",
-    "text": "\u03c0\u1fb6\u03c2"
+    "text": "\u03c0\u1fb6\u03c2",
+    "form_id": 93
   },
   {
     "word_id": "64003015003",
-    "text": "\u1f41"
+    "text": "\u1f41",
+    "form_id": 38
   },
   {
     "word_id": "64003015004",
-    "text": "\u03c0\u03b9\u03c3\u03c4\u03b5\u03cd\u03c9\u03bd"
+    "text": "\u03c0\u03b9\u03c3\u03c4\u03b5\u03cd\u03c9\u03bd",
+    "form_id": 131
   },
   {
     "word_id": "64003015005",
-    "text": "\u1f10\u03bd"
+    "text": "\u1f10\u03bd",
+    "form_id": 125
   },
   {
     "word_id": "64003015006",
-    "text": "\u03b1\u1f50\u03c4\u1ff7"
+    "text": "\u03b1\u1f50\u03c4\u1ff7",
+    "form_id": 8
   },
   {
     "word_id": "64003015007",
-    "text": "\u1f14\u03c7\u1fc3"
+    "text": "\u1f14\u03c7\u1fc3",
+    "form_id": 132
   },
   {
     "word_id": "64003015008",
-    "text": "\u03b6\u03c9\u1f74\u03bd"
+    "text": "\u03b6\u03c9\u1f74\u03bd",
+    "form_id": 133
   },
   {
     "word_id": "64003015009",
-    "text": "\u03b1\u1f30\u03ce\u03bd\u03b9\u03bf\u03bd."
+    "text": "\u03b1\u1f30\u03ce\u03bd\u03b9\u03bf\u03bd.",
+    "form_id": 134
   }
 ]
