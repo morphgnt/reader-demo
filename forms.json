@@ -2,676 +2,676 @@
   {
     "form": "ἦν",
     "lexeme_id": 0,
-    "parse": "3IAI-S--"
+    "parse": "imperfect active indicative 3rd person singular"
   },
   {
     "form": "δέ",
     "lexeme_id": 1,
-    "parse": "--------"
+    "parse": ""
   },
   {
     "form": "Φαρισαίων",
     "lexeme_id": 5,
-    "parse": "----GPM-"
+    "parse": "genitive plural masculine"
   },
   {
     "form": "ὄνομα",
     "lexeme_id": 7,
-    "parse": "----NSN-"
+    "parse": "nominative singular neuter"
   },
   {
     "form": "ἄρχων",
     "lexeme_id": 9,
-    "parse": "----NSM-"
-  },
-  {
-    "form": "Ἰουδαίων",
-    "lexeme_id": 10,
-    "parse": "----GPM-"
+    "parse": "nominative singular masculine"
   },
   {
     "form": "τῶν",
     "lexeme_id": 4,
-    "parse": "----GPM-"
+    "parse": "genitive plural masculine"
+  },
+  {
+    "form": "Ἰουδαίων",
+    "lexeme_id": 10,
+    "parse": "genitive plural masculine "
   },
   {
     "form": "οὗτος",
     "lexeme_id": 11,
-    "parse": "----NSM-"
+    "parse": "nominative singular masculine"
   },
   {
     "form": "ἦλθε(ν)",
     "lexeme_id": 12,
-    "parse": "3AAI-S--"
+    "parse": "aorist active indicative 3rd person singular"
   },
   {
     "form": "νυκτός",
     "lexeme_id": 14,
-    "parse": "----GSF-"
+    "parse": "genitive singular feminine"
   },
   {
     "form": "ῥαββί",
     "lexeme_id": 17,
-    "parse": "----VSM-"
+    "parse": "vocative singular masculine"
   },
   {
     "form": "ἀπό",
     "lexeme_id": 20,
-    "parse": "--------"
+    "parse": ""
   },
   {
     "form": "ἐλήλυθας",
     "lexeme_id": 12,
-    "parse": "2XAI-S--"
+    "parse": "perfect active indicative 2nd person singular"
   },
   {
     "form": "γάρ",
     "lexeme_id": 24,
-    "parse": "--------"
+    "parse": ""
   },
   {
     "form": "σημεῖα",
     "lexeme_id": 26,
-    "parse": "----APN-"
+    "parse": "accusative plural neuter"
   },
   {
     "form": "ποιεῖν",
     "lexeme_id": 27,
-    "parse": "-PAN----"
+    "parse": "continuous active infinitive"
   },
   {
     "form": "ἅ",
     "lexeme_id": 28,
-    "parse": "----APN-"
+    "parse": "accusative plural neuter"
   },
   {
     "form": "ποιεῖς",
     "lexeme_id": 27,
-    "parse": "2PAI-S--"
+    "parse": "present active indicative 2nd person singular"
   },
   {
     "form": "ᾖ",
     "lexeme_id": 0,
-    "parse": "3PAS-S--"
+    "parse": "continuous active subjunctive 3rd person singular"
   },
   {
     "form": "θεός",
     "lexeme_id": 21,
-    "parse": "----NSM-"
+    "parse": "nominative singular masculine"
   },
   {
     "form": "μετά",
     "lexeme_id": 32,
-    "parse": "--------"
+    "parse": ""
   },
   {
     "form": "ἰδεῖν",
     "lexeme_id": 40,
-    "parse": "-AAN----"
+    "parse": "aorist active infinitive"
   },
   {
     "form": "λέγει",
     "lexeme_id": 16,
-    "parse": "3PAI-S--"
+    "parse": "present active indicative 3rd person singular"
   },
   {
     "form": "αὐτόν",
     "lexeme_id": 8,
-    "parse": "----ASM-"
+    "parse": "accusative singular masculine"
   },
   {
     "form": "πρός",
     "lexeme_id": 13,
-    "parse": "--------"
+    "parse": ""
   },
   {
     "form": "ἄνθρωπος",
     "lexeme_id": 2,
-    "parse": "----NSM-"
+    "parse": "nominative singular masculine"
   },
   {
     "form": "γέρων",
     "lexeme_id": 43,
-    "parse": "----NSM-"
+    "parse": "nominative singular masculine"
   },
   {
     "form": "ὤν",
     "lexeme_id": 0,
-    "parse": "-PAPNSM-"
+    "parse": "continuous active participle nominative singular masculine"
   },
   {
     "form": "μή",
     "lexeme_id": 44,
-    "parse": "--------"
+    "parse": ""
   },
   {
     "form": "κοιλίαν",
     "lexeme_id": 46,
-    "parse": "----ASF-"
+    "parse": "accusative singular feminine"
   },
   {
     "form": "μητρός",
     "lexeme_id": 47,
-    "parse": "----GSF-"
+    "parse": "genitive singular feminine"
+  },
+  {
+    "form": "αὐτοῦ",
+    "lexeme_id": 8,
+    "parse": "genitive singular masculine"
   },
   {
     "form": "δεύτερον",
     "lexeme_id": 48,
-    "parse": "----ASN-"
-  },
-  {
-    "form": "αὐτοῦ",
-    "lexeme_id": 8,
-    "parse": "----GSM-"
+    "parse": "accusative singular neuter "
   },
   {
     "form": "ὕδατος",
     "lexeme_id": 50,
-    "parse": "----GSN-"
+    "parse": "genitive singular neuter"
   },
   {
     "form": "τις",
     "lexeme_id": 36,
-    "parse": "----NSM-"
+    "parse": "nominative singular masculine"
   },
   {
     "form": "γεννηθῇ",
     "lexeme_id": 37,
-    "parse": "3APS-S--"
+    "parse": "aorist 2nd medio-passive subjunctive 3rd person singular"
   },
   {
     "form": "εἰσελθεῖν",
     "lexeme_id": 49,
-    "parse": "-AAN----"
-  },
-  {
-    "form": "βασιλείαν",
-    "lexeme_id": 41,
-    "parse": "----ASF-"
+    "parse": "aorist active infinitive"
   },
   {
     "form": "θεοῦ",
     "lexeme_id": 21,
-    "parse": "----GSM-"
+    "parse": "genitive singular masculine"
   },
   {
-    "form": "σαρκός",
-    "lexeme_id": 52,
-    "parse": "----GSF-"
+    "form": "βασιλείαν",
+    "lexeme_id": 41,
+    "parse": "accusative singular feminine"
   },
   {
     "form": "τῆς",
     "lexeme_id": 4,
-    "parse": "----GSF-"
+    "parse": "genitive singular feminine"
+  },
+  {
+    "form": "σαρκός",
+    "lexeme_id": 52,
+    "parse": "genitive singular feminine"
   },
   {
     "form": "σάρξ",
     "lexeme_id": 52,
-    "parse": "----NSF-"
+    "parse": "nominative singular feminine"
   },
   {
     "form": "γεγεννημένον",
     "lexeme_id": 37,
-    "parse": "-XPPNSN-"
+    "parse": "perfect 1st medio-passive participle nominative singular neuter"
   },
   {
     "form": "θαυμάσῃς",
     "lexeme_id": 53,
-    "parse": "2AAS-S--"
+    "parse": "aorist active subjunctive 2nd person singular"
   },
   {
     "form": "ὑμᾶς",
     "lexeme_id": 29,
-    "parse": "----AP--"
-  },
-  {
-    "form": "ὅπου",
-    "lexeme_id": 55,
-    "parse": "--------"
-  },
-  {
-    "form": "γεννηθῆναι",
-    "lexeme_id": 37,
-    "parse": "-APN----"
+    "parse": "accusative plural "
   },
   {
     "form": "ἄνωθεν",
     "lexeme_id": 38,
-    "parse": "--------"
+    "parse": ""
   },
   {
-    "form": "πνεῦμα",
-    "lexeme_id": 51,
-    "parse": "----NSN-"
+    "form": "ὅπου",
+    "lexeme_id": 55,
+    "parse": ""
   },
   {
     "form": "τό",
     "lexeme_id": 4,
-    "parse": "----NSN-"
+    "parse": "nominative singular neuter"
+  },
+  {
+    "form": "πνεῦμα",
+    "lexeme_id": 51,
+    "parse": "nominative singular neuter"
+  },
+  {
+    "form": "γεννηθῆναι",
+    "lexeme_id": 37,
+    "parse": "aorist 2nd medio-passive infinitive"
   },
   {
     "form": "θέλει",
     "lexeme_id": 56,
-    "parse": "3PAI-S--"
+    "parse": "present active indicative 3rd person singular"
   },
   {
     "form": "πνεῖ",
     "lexeme_id": 57,
-    "parse": "3PAI-S--"
+    "parse": "present active indicative 3rd person singular"
   },
   {
     "form": "φωνήν",
     "lexeme_id": 58,
-    "parse": "----ASF-"
+    "parse": "accusative singular feminine"
   },
   {
     "form": "αὐτοῦ",
     "lexeme_id": 8,
-    "parse": "----GSN-"
+    "parse": "genitive singular neuter"
   },
   {
     "form": "ἀκούεις",
     "lexeme_id": 59,
-    "parse": "2PAI-S--"
+    "parse": "present active indicative 2nd person singular"
   },
   {
     "form": "ἀλλά",
     "lexeme_id": 60,
-    "parse": "--------"
+    "parse": ""
   },
   {
     "form": "οἶδας",
     "lexeme_id": 18,
-    "parse": "2XAI-S--"
+    "parse": "perfect active indicative 2nd person singular"
   },
   {
     "form": "πόθεν",
     "lexeme_id": 61,
-    "parse": "--------"
+    "parse": ""
   },
   {
     "form": "ἔρχεται",
     "lexeme_id": 12,
-    "parse": "3PMI-S--"
+    "parse": "present 1st medio-passive indicative 3rd person singular"
   },
   {
     "form": "ποῦ",
     "lexeme_id": 62,
-    "parse": "--------"
+    "parse": ""
   },
   {
     "form": "ὑπάγει",
     "lexeme_id": 63,
-    "parse": "3PAI-S--"
+    "parse": "present active indicative 3rd person singular"
   },
   {
     "form": "ἐστί(ν)",
     "lexeme_id": 0,
-    "parse": "3PAI-S--"
+    "parse": "present active indicative 3rd person singular"
   },
   {
     "form": "γεγεννημένος",
     "lexeme_id": 37,
-    "parse": "-XPPNSM-"
-  },
-  {
-    "form": "δύναται",
-    "lexeme_id": 25,
-    "parse": "3PMI-S--"
-  },
-  {
-    "form": "τοῦ",
-    "lexeme_id": 4,
-    "parse": "----GSN-"
+    "parse": "perfect 1st medio-passive participle nominative singular masculine"
   },
   {
     "form": "Νικόδημος",
     "lexeme_id": 6,
-    "parse": "----NSM-"
+    "parse": "nominative singular masculine"
   },
   {
     "form": "ταῦτα",
     "lexeme_id": 11,
-    "parse": "----NPN-"
+    "parse": "nominative plural neuter"
   },
   {
     "form": "πνεύματος",
     "lexeme_id": 51,
-    "parse": "----GSN-"
-  },
-  {
-    "form": "γενέσθαι",
-    "lexeme_id": 66,
-    "parse": "-AMN----"
-  },
-  {
-    "form": "ἀπεκρίθη",
-    "lexeme_id": 33,
-    "parse": "3API-S--"
-  },
-  {
-    "form": "εἶ",
-    "lexeme_id": 0,
-    "parse": "2PAI-S--"
-  },
-  {
-    "form": "σύ",
-    "lexeme_id": 29,
-    "parse": "----NS--"
-  },
-  {
-    "form": "Ἰησοῦς",
-    "lexeme_id": 34,
-    "parse": "----NSM-"
-  },
-  {
-    "form": "εἶπε(ν)",
-    "lexeme_id": 16,
-    "parse": "3AAI-S--"
-  },
-  {
-    "form": "διδάσκαλος",
-    "lexeme_id": 22,
-    "parse": "----NSM-"
-  },
-  {
-    "form": "Ἰσραήλ",
-    "lexeme_id": 67,
-    "parse": "----GSM-"
-  },
-  {
-    "form": "γινώσκεις",
-    "lexeme_id": 68,
-    "parse": "2PAI-S--"
-  },
-  {
-    "form": "ταῦτα",
-    "lexeme_id": 11,
-    "parse": "----APN-"
-  },
-  {
-    "form": "ἀμήν",
-    "lexeme_id": 35,
-    "parse": "--------"
-  },
-  {
-    "form": "λέγω",
-    "lexeme_id": 16,
-    "parse": "1PAI-S--"
-  },
-  {
-    "form": "σοι",
-    "lexeme_id": 29,
-    "parse": "----DS--"
-  },
-  {
-    "form": "ὅτι",
-    "lexeme_id": 19,
-    "parse": "--------"
-  },
-  {
-    "form": "λαλοῦμεν",
-    "lexeme_id": 69,
-    "parse": "1PAI-P--"
-  },
-  {
-    "form": "οἴδαμεν",
-    "lexeme_id": 18,
-    "parse": "1XAI-P--"
-  },
-  {
-    "form": "ὅ",
-    "lexeme_id": 28,
-    "parse": "----ASN-"
-  },
-  {
-    "form": "ἑωράκαμεν",
-    "lexeme_id": 40,
-    "parse": "1XAI-P--"
-  },
-  {
-    "form": "μαρτυροῦμεν",
-    "lexeme_id": 70,
-    "parse": "1PAI-P--"
-  },
-  {
-    "form": "μαρτυρίαν",
-    "lexeme_id": 71,
-    "parse": "----ASF-"
-  },
-  {
-    "form": "τήν",
-    "lexeme_id": 4,
-    "parse": "----ASF-"
-  },
-  {
-    "form": "ἡμῶν",
-    "lexeme_id": 72,
-    "parse": "----GP--"
-  },
-  {
-    "form": "λαμβάνετε",
-    "lexeme_id": 73,
-    "parse": "2PAI-P--"
-  },
-  {
-    "form": "ἐπίγεια",
-    "lexeme_id": 75,
-    "parse": "----APN-"
-  },
-  {
-    "form": "εἶπον",
-    "lexeme_id": 16,
-    "parse": "1AAI-S--"
-  },
-  {
-    "form": "πιστεύετε",
-    "lexeme_id": 76,
-    "parse": "2PAI-P--"
-  },
-  {
-    "form": "οὐ",
-    "lexeme_id": 39,
-    "parse": "--------"
-  },
-  {
-    "form": "εἴπω",
-    "lexeme_id": 16,
-    "parse": "1AAS-S--"
-  },
-  {
-    "form": "πῶς",
-    "lexeme_id": 42,
-    "parse": "--------"
-  },
-  {
-    "form": "ἐάν",
-    "lexeme_id": 30,
-    "parse": "--------"
-  },
-  {
-    "form": "ὑμῖν",
-    "lexeme_id": 29,
-    "parse": "----DP--"
-  },
-  {
-    "form": "τά",
-    "lexeme_id": 4,
-    "parse": "----APN-"
-  },
-  {
-    "form": "ἐπουράνια",
-    "lexeme_id": 77,
-    "parse": "----APN-"
-  },
-  {
-    "form": "πιστεύσετε",
-    "lexeme_id": 76,
-    "parse": "2FAI-P--"
-  },
-  {
-    "form": "οὐδείς",
-    "lexeme_id": 23,
-    "parse": "----NSM-"
-  },
-  {
-    "form": "ἀναβέβηκε(ν)",
-    "lexeme_id": 78,
-    "parse": "3XAI-S--"
-  },
-  {
-    "form": "εἰς",
-    "lexeme_id": 45,
-    "parse": "--------"
-  },
-  {
-    "form": "οὐρανόν",
-    "lexeme_id": 79,
-    "parse": "----ASM-"
-  },
-  {
-    "form": "μή",
-    "lexeme_id": 31,
-    "parse": "--------"
-  },
-  {
-    "form": "οὐρανοῦ",
-    "lexeme_id": 79,
-    "parse": "----GSM-"
-  },
-  {
-    "form": "εἰ",
-    "lexeme_id": 74,
-    "parse": "--------"
-  },
-  {
-    "form": "ἐκ",
-    "lexeme_id": 3,
-    "parse": "--------"
-  },
-  {
-    "form": "καταβάς",
-    "lexeme_id": 80,
-    "parse": "-AAPNSM-"
-  },
-  {
-    "form": "υἱός",
-    "lexeme_id": 81,
-    "parse": "----NSM-"
-  },
-  {
-    "form": "καί",
-    "lexeme_id": 15,
-    "parse": "--------"
-  },
-  {
-    "form": "καθώς",
-    "lexeme_id": 82,
-    "parse": "--------"
-  },
-  {
-    "form": "Μωϋσῆς",
-    "lexeme_id": 83,
-    "parse": "----NSM-"
-  },
-  {
-    "form": "ὕψωσε(ν)",
-    "lexeme_id": 84,
-    "parse": "3AAI-S--"
-  },
-  {
-    "form": "ὄφιν",
-    "lexeme_id": 85,
-    "parse": "----ASM-"
-  },
-  {
-    "form": "τῇ",
-    "lexeme_id": 4,
-    "parse": "----DSF-"
-  },
-  {
-    "form": "ἐρήμῳ",
-    "lexeme_id": 87,
-    "parse": "----DSF-"
-  },
-  {
-    "form": "οὕτω(ς)",
-    "lexeme_id": 64,
-    "parse": "--------"
-  },
-  {
-    "form": "ὑψωθῆναι",
-    "lexeme_id": 84,
-    "parse": "-APN----"
-  },
-  {
-    "form": "δεῖ",
-    "lexeme_id": 54,
-    "parse": "3PAI-S--"
-  },
-  {
-    "form": "τόν",
-    "lexeme_id": 4,
-    "parse": "----ASM-"
-  },
-  {
-    "form": "υἱόν",
-    "lexeme_id": 81,
-    "parse": "----ASM-"
+    "parse": "genitive singular neuter"
   },
   {
     "form": "τοῦ",
     "lexeme_id": 4,
-    "parse": "----GSM-"
+    "parse": "genitive singular neuter"
+  },
+  {
+    "form": "δύναται",
+    "lexeme_id": 25,
+    "parse": "present 1st medio-passive indicative 3rd person singular"
+  },
+  {
+    "form": "γενέσθαι",
+    "lexeme_id": 66,
+    "parse": "aorist 1st medio-passive infinitive"
+  },
+  {
+    "form": "εἶ",
+    "lexeme_id": 0,
+    "parse": "present active indicative 2nd person singular"
+  },
+  {
+    "form": "ἀπεκρίθη",
+    "lexeme_id": 33,
+    "parse": "aorist 2nd medio-passive indicative 3rd person singular"
+  },
+  {
+    "form": "σύ",
+    "lexeme_id": 29,
+    "parse": "nominative singular "
+  },
+  {
+    "form": "εἶπε(ν)",
+    "lexeme_id": 16,
+    "parse": "aorist active indicative 3rd person singular"
+  },
+  {
+    "form": "Ἰησοῦς",
+    "lexeme_id": 34,
+    "parse": "nominative singular masculine"
+  },
+  {
+    "form": "Ἰσραήλ",
+    "lexeme_id": 67,
+    "parse": "genitive singular masculine"
+  },
+  {
+    "form": "διδάσκαλος",
+    "lexeme_id": 22,
+    "parse": "nominative singular masculine"
+  },
+  {
+    "form": "γινώσκεις",
+    "lexeme_id": 68,
+    "parse": "present active indicative 2nd person singular"
+  },
+  {
+    "form": "ταῦτα",
+    "lexeme_id": 11,
+    "parse": "accusative plural neuter"
+  },
+  {
+    "form": "ἀμήν",
+    "lexeme_id": 35,
+    "parse": ""
+  },
+  {
+    "form": "σοι",
+    "lexeme_id": 29,
+    "parse": "dative singular "
+  },
+  {
+    "form": "ὅτι",
+    "lexeme_id": 19,
+    "parse": ""
+  },
+  {
+    "form": "λέγω",
+    "lexeme_id": 16,
+    "parse": "present active indicative 1st person singular"
+  },
+  {
+    "form": "οἴδαμεν",
+    "lexeme_id": 18,
+    "parse": "perfect active indicative 1st person plural"
+  },
+  {
+    "form": "λαλοῦμεν",
+    "lexeme_id": 69,
+    "parse": "present active indicative 1st person plural"
+  },
+  {
+    "form": "ὅ",
+    "lexeme_id": 28,
+    "parse": "accusative singular neuter"
+  },
+  {
+    "form": "ἑωράκαμεν",
+    "lexeme_id": 40,
+    "parse": "perfect active indicative 1st person plural"
+  },
+  {
+    "form": "μαρτυροῦμεν",
+    "lexeme_id": 70,
+    "parse": "present active indicative 1st person plural"
+  },
+  {
+    "form": "μαρτυρίαν",
+    "lexeme_id": 71,
+    "parse": "accusative singular feminine"
+  },
+  {
+    "form": "τήν",
+    "lexeme_id": 4,
+    "parse": "accusative singular feminine"
+  },
+  {
+    "form": "ἡμῶν",
+    "lexeme_id": 72,
+    "parse": "genitive plural "
+  },
+  {
+    "form": "λαμβάνετε",
+    "lexeme_id": 73,
+    "parse": "present active indicative 2nd person plural"
+  },
+  {
+    "form": "ἐπίγεια",
+    "lexeme_id": 75,
+    "parse": "accusative plural neuter "
+  },
+  {
+    "form": "εἶπον",
+    "lexeme_id": 16,
+    "parse": "aorist active indicative 1st person singular"
+  },
+  {
+    "form": "πιστεύετε",
+    "lexeme_id": 76,
+    "parse": "present active indicative 2nd person plural"
+  },
+  {
+    "form": "οὐ",
+    "lexeme_id": 39,
+    "parse": ""
+  },
+  {
+    "form": "εἴπω",
+    "lexeme_id": 16,
+    "parse": "aorist active subjunctive 1st person singular"
+  },
+  {
+    "form": "πῶς",
+    "lexeme_id": 42,
+    "parse": ""
+  },
+  {
+    "form": "ἐάν",
+    "lexeme_id": 30,
+    "parse": ""
+  },
+  {
+    "form": "τά",
+    "lexeme_id": 4,
+    "parse": "accusative plural neuter"
+  },
+  {
+    "form": "ἐπουράνια",
+    "lexeme_id": 77,
+    "parse": "accusative plural neuter "
+  },
+  {
+    "form": "ὑμῖν",
+    "lexeme_id": 29,
+    "parse": "dative plural "
+  },
+  {
+    "form": "πιστεύσετε",
+    "lexeme_id": 76,
+    "parse": "future active indicative 2nd person plural"
+  },
+  {
+    "form": "ἀναβέβηκε(ν)",
+    "lexeme_id": 78,
+    "parse": "perfect active indicative 3rd person singular"
+  },
+  {
+    "form": "οὐδείς",
+    "lexeme_id": 23,
+    "parse": "nominative singular masculine "
+  },
+  {
+    "form": "εἰς",
+    "lexeme_id": 45,
+    "parse": ""
+  },
+  {
+    "form": "οὐρανόν",
+    "lexeme_id": 79,
+    "parse": "accusative singular masculine"
+  },
+  {
+    "form": "εἰ",
+    "lexeme_id": 74,
+    "parse": ""
+  },
+  {
+    "form": "ἐκ",
+    "lexeme_id": 3,
+    "parse": ""
+  },
+  {
+    "form": "μή",
+    "lexeme_id": 31,
+    "parse": ""
+  },
+  {
+    "form": "οὐρανοῦ",
+    "lexeme_id": 79,
+    "parse": "genitive singular masculine"
+  },
+  {
+    "form": "καταβάς",
+    "lexeme_id": 80,
+    "parse": "aorist active participle nominative singular masculine"
+  },
+  {
+    "form": "υἱός",
+    "lexeme_id": 81,
+    "parse": "nominative singular masculine"
+  },
+  {
+    "form": "καί",
+    "lexeme_id": 15,
+    "parse": ""
+  },
+  {
+    "form": "καθώς",
+    "lexeme_id": 82,
+    "parse": ""
+  },
+  {
+    "form": "Μωϋσῆς",
+    "lexeme_id": 83,
+    "parse": "nominative singular masculine"
+  },
+  {
+    "form": "ὕψωσε(ν)",
+    "lexeme_id": 84,
+    "parse": "aorist active indicative 3rd person singular"
+  },
+  {
+    "form": "ὄφιν",
+    "lexeme_id": 85,
+    "parse": "accusative singular masculine"
+  },
+  {
+    "form": "τῇ",
+    "lexeme_id": 4,
+    "parse": "dative singular feminine"
+  },
+  {
+    "form": "ἐρήμῳ",
+    "lexeme_id": 87,
+    "parse": "dative singular feminine "
+  },
+  {
+    "form": "οὕτω(ς)",
+    "lexeme_id": 64,
+    "parse": ""
+  },
+  {
+    "form": "ὑψωθῆναι",
+    "lexeme_id": 84,
+    "parse": "aorist 2nd medio-passive infinitive"
+  },
+  {
+    "form": "τόν",
+    "lexeme_id": 4,
+    "parse": "accusative singular masculine"
+  },
+  {
+    "form": "δεῖ",
+    "lexeme_id": 54,
+    "parse": "present active indicative 3rd person singular"
+  },
+  {
+    "form": "υἱόν",
+    "lexeme_id": 81,
+    "parse": "accusative singular masculine"
   },
   {
     "form": "ἵνα",
     "lexeme_id": 88,
-    "parse": "--------"
+    "parse": ""
   },
   {
     "form": "ἀνθρώπου",
     "lexeme_id": 2,
-    "parse": "----GSM-"
+    "parse": "genitive singular masculine"
   },
   {
-    "form": "πιστεύων",
-    "lexeme_id": 76,
-    "parse": "-PAPNSM-"
+    "form": "τοῦ",
+    "lexeme_id": 4,
+    "parse": "genitive singular masculine"
   },
   {
     "form": "πᾶς",
     "lexeme_id": 65,
-    "parse": "----NSM-"
+    "parse": "nominative singular masculine "
   },
   {
     "form": "ὁ",
     "lexeme_id": 4,
-    "parse": "----NSM-"
+    "parse": "nominative singular masculine"
   },
   {
-    "form": "ἐν",
-    "lexeme_id": 86,
-    "parse": "--------"
-  },
-  {
-    "form": "αὐτῷ",
-    "lexeme_id": 8,
-    "parse": "----DSM-"
+    "form": "πιστεύων",
+    "lexeme_id": 76,
+    "parse": "continuous active participle nominative singular masculine"
   },
   {
     "form": "ἔχῃ",
     "lexeme_id": 89,
-    "parse": "3PAS-S--"
+    "parse": "continuous active subjunctive 3rd person singular"
+  },
+  {
+    "form": "αὐτῷ",
+    "lexeme_id": 8,
+    "parse": "dative singular masculine"
+  },
+  {
+    "form": "ἐν",
+    "lexeme_id": 86,
+    "parse": ""
   },
   {
     "form": "ζωήν",
     "lexeme_id": 90,
-    "parse": "----ASF-"
+    "parse": "accusative singular feminine"
   },
   {
     "form": "αἰώνιον",
     "lexeme_id": 91,
-    "parse": "----ASF-"
+    "parse": "accusative singular feminine "
   }
 ]

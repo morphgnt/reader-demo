@@ -1,370 +1,370 @@
 [
   {
     "lemma": "εἰμί",
-    "pos": "V-"
+    "pos": "verb"
   },
   {
     "lemma": "δέ",
-    "pos": "C-"
+    "pos": "conjunction"
   },
   {
     "lemma": "ἄνθρωπος",
-    "pos": "N-"
+    "pos": "noun"
   },
   {
     "lemma": "ἐκ",
-    "pos": "P-"
+    "pos": "preposition"
   },
   {
     "lemma": "ὁ",
-    "pos": "RA"
+    "pos": "article"
   },
   {
     "lemma": "Φαρισαῖος",
-    "pos": "N-"
+    "pos": "noun"
   },
   {
     "lemma": "Νικόδημος",
-    "pos": "N-"
+    "pos": "noun"
   },
   {
     "lemma": "ὄνομα",
-    "pos": "N-"
+    "pos": "noun"
   },
   {
     "lemma": "αὐτός",
-    "pos": "RP"
+    "pos": "personal pronoun"
   },
   {
     "lemma": "ἄρχων",
-    "pos": "N-"
+    "pos": "noun"
   },
   {
     "lemma": "Ἰουδαῖος",
-    "pos": "A-"
+    "pos": "adjective"
   },
   {
     "lemma": "οὗτος",
-    "pos": "RD"
+    "pos": "demonstrative"
   },
   {
     "lemma": "ἔρχομαι",
-    "pos": "V-"
+    "pos": "verb"
   },
   {
     "lemma": "πρός",
-    "pos": "P-"
+    "pos": "preposition"
   },
   {
     "lemma": "νύξ",
-    "pos": "N-"
+    "pos": "noun"
   },
   {
     "lemma": "καί",
-    "pos": "C-"
+    "pos": "conjunction"
   },
   {
     "lemma": "λέγω",
-    "pos": "V-"
+    "pos": "verb"
   },
   {
     "lemma": "ῥαββί",
-    "pos": "N-"
+    "pos": "noun"
   },
   {
     "lemma": "οἶδα",
-    "pos": "V-"
+    "pos": "verb"
   },
   {
     "lemma": "ὅτι",
-    "pos": "C-"
+    "pos": "conjunction"
   },
   {
     "lemma": "ἀπό",
-    "pos": "P-"
+    "pos": "preposition"
   },
   {
     "lemma": "θεός",
-    "pos": "N-"
+    "pos": "noun"
   },
   {
     "lemma": "διδάσκαλος",
-    "pos": "N-"
+    "pos": "noun"
   },
   {
     "lemma": "οὐδείς",
-    "pos": "A-"
+    "pos": "adjective"
   },
   {
     "lemma": "γάρ",
-    "pos": "C-"
+    "pos": "conjunction"
   },
   {
     "lemma": "δύναμαι",
-    "pos": "V-"
+    "pos": "verb"
   },
   {
     "lemma": "σημεῖον",
-    "pos": "N-"
+    "pos": "noun"
   },
   {
     "lemma": "ποιέω",
-    "pos": "V-"
+    "pos": "verb"
   },
   {
     "lemma": "ὅς",
-    "pos": "RR"
+    "pos": "relative pronoun"
   },
   {
     "lemma": "σύ",
-    "pos": "RP"
+    "pos": "personal pronoun"
   },
   {
     "lemma": "ἐάν",
-    "pos": "C-"
+    "pos": "conjunction"
   },
   {
     "lemma": "μή",
-    "pos": "D-"
+    "pos": "adverb"
   },
   {
     "lemma": "μετά",
-    "pos": "P-"
+    "pos": "preposition"
   },
   {
     "lemma": "ἀποκρίνομαι",
-    "pos": "V-"
+    "pos": "verb"
   },
   {
     "lemma": "Ἰησοῦς",
-    "pos": "N-"
+    "pos": "noun"
   },
   {
     "lemma": "ἀμήν",
-    "pos": "X-"
+    "pos": "particle"
   },
   {
     "lemma": "τις",
-    "pos": "RI"
+    "pos": "indefinite/interrogative pronoun"
   },
   {
     "lemma": "γεννάω",
-    "pos": "V-"
+    "pos": "verb"
   },
   {
     "lemma": "ἄνωθεν",
-    "pos": "D-"
+    "pos": "adverb"
   },
   {
     "lemma": "οὐ",
-    "pos": "D-"
+    "pos": "adverb"
   },
   {
     "lemma": "ὁράω",
-    "pos": "V-"
+    "pos": "verb"
   },
   {
     "lemma": "βασιλεία",
-    "pos": "N-"
+    "pos": "noun"
   },
   {
     "lemma": "πῶς",
-    "pos": "D-"
+    "pos": "adverb"
   },
   {
     "lemma": "γέρων",
-    "pos": "N-"
+    "pos": "noun"
   },
   {
     "lemma": "μή",
-    "pos": "X-"
+    "pos": "particle"
   },
   {
     "lemma": "εἰς",
-    "pos": "P-"
+    "pos": "preposition"
   },
   {
     "lemma": "κοιλία",
-    "pos": "N-"
+    "pos": "noun"
   },
   {
     "lemma": "μήτηρ",
-    "pos": "N-"
+    "pos": "noun"
   },
   {
     "lemma": "δεύτερος",
-    "pos": "A-"
+    "pos": "adjective"
   },
   {
     "lemma": "εἰσέρχομαι",
-    "pos": "V-"
+    "pos": "verb"
   },
   {
     "lemma": "ὕδωρ",
-    "pos": "N-"
+    "pos": "noun"
   },
   {
     "lemma": "πνεῦμα",
-    "pos": "N-"
+    "pos": "noun"
   },
   {
     "lemma": "σάρξ",
-    "pos": "N-"
+    "pos": "noun"
   },
   {
     "lemma": "θαυμάζω",
-    "pos": "V-"
+    "pos": "verb"
   },
   {
     "lemma": "δέω",
-    "pos": "V-"
+    "pos": "verb"
   },
   {
     "lemma": "ὅπου",
-    "pos": "C-"
+    "pos": "conjunction"
   },
   {
     "lemma": "θέλω",
-    "pos": "V-"
+    "pos": "verb"
   },
   {
     "lemma": "πνέω",
-    "pos": "V-"
+    "pos": "verb"
   },
   {
     "lemma": "φωνή",
-    "pos": "N-"
+    "pos": "noun"
   },
   {
     "lemma": "ἀκούω",
-    "pos": "V-"
+    "pos": "verb"
   },
   {
     "lemma": "ἀλλά",
-    "pos": "C-"
+    "pos": "conjunction"
   },
   {
     "lemma": "πόθεν",
-    "pos": "D-"
+    "pos": "adverb"
   },
   {
     "lemma": "ποῦ",
-    "pos": "D-"
+    "pos": "adverb"
   },
   {
     "lemma": "ὑπάγω",
-    "pos": "V-"
+    "pos": "verb"
   },
   {
     "lemma": "οὕτω(ς)",
-    "pos": "D-"
+    "pos": "adverb"
   },
   {
     "lemma": "πᾶς",
-    "pos": "A-"
+    "pos": "adjective"
   },
   {
     "lemma": "γίνομαι",
-    "pos": "V-"
+    "pos": "verb"
   },
   {
     "lemma": "Ἰσραήλ",
-    "pos": "N-"
+    "pos": "noun"
   },
   {
     "lemma": "γινώσκω",
-    "pos": "V-"
+    "pos": "verb"
   },
   {
     "lemma": "λαλέω",
-    "pos": "V-"
+    "pos": "verb"
   },
   {
     "lemma": "μαρτυρέω",
-    "pos": "V-"
+    "pos": "verb"
   },
   {
     "lemma": "μαρτυρία",
-    "pos": "N-"
+    "pos": "noun"
   },
   {
     "lemma": "ἐγώ",
-    "pos": "RP"
+    "pos": "personal pronoun"
   },
   {
     "lemma": "λαμβάνω",
-    "pos": "V-"
+    "pos": "verb"
   },
   {
     "lemma": "εἰ",
-    "pos": "C-"
+    "pos": "conjunction"
   },
   {
     "lemma": "ἐπίγειος",
-    "pos": "A-"
+    "pos": "adjective"
   },
   {
     "lemma": "πιστεύω",
-    "pos": "V-"
+    "pos": "verb"
   },
   {
     "lemma": "ἐπουράνιος",
-    "pos": "A-"
+    "pos": "adjective"
   },
   {
     "lemma": "ἀναβαίνω",
-    "pos": "V-"
+    "pos": "verb"
   },
   {
     "lemma": "οὐρανός",
-    "pos": "N-"
+    "pos": "noun"
   },
   {
     "lemma": "καταβαίνω",
-    "pos": "V-"
+    "pos": "verb"
   },
   {
     "lemma": "υἱός",
-    "pos": "N-"
+    "pos": "noun"
   },
   {
     "lemma": "καθώς",
-    "pos": "C-"
+    "pos": "conjunction"
   },
   {
     "lemma": "Μωϋσῆς",
-    "pos": "N-"
+    "pos": "noun"
   },
   {
     "lemma": "ὑψόω",
-    "pos": "V-"
+    "pos": "verb"
   },
   {
     "lemma": "ὄφις",
-    "pos": "N-"
+    "pos": "noun"
   },
   {
     "lemma": "ἐν",
-    "pos": "P-"
+    "pos": "preposition"
   },
   {
     "lemma": "ἔρημος",
-    "pos": "A-"
+    "pos": "adjective"
   },
   {
     "lemma": "ἵνα",
-    "pos": "C-"
+    "pos": "conjunction"
   },
   {
     "lemma": "ἔχω",
-    "pos": "V-"
+    "pos": "verb"
   },
   {
     "lemma": "ζωή",
-    "pos": "N-"
+    "pos": "noun"
   },
   {
     "lemma": "αἰώνιος",
-    "pos": "A-"
+    "pos": "adjective"
   }
 ]
