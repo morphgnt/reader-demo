@@ -169,6 +169,7 @@
                 lexeme = lexemes[form.lexeme_id],
                 word_id = $word.attr("word_id"),
                 word = $word.text();
+            $("#load i").toggleClass("highlight", false);
             $("#load i").toggleClass("active", false);
             $word.toggleClass("active", true);
             $("#word").html(Mustache.to_html(template_word, {
