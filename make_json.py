@@ -2,6 +2,7 @@
 
 
 import json
+import yaml
 
 
 def humanize_pos(pos):
@@ -123,6 +124,26 @@ def humanize_parse(pos, parse):
             ])
 
 
+GLOSS_OVERRIDES = {
+    "Μωϋσῆς": "Moses",
+}
+
+
+def get_gloss(lemma):
+    if lemma in GLOSS_OVERRIDES:
+        return GLOSS_OVERRIDES[lemma]
+
+    if "gloss" not in lexical_entries[lemma]:
+        print("no gloss for {}".format(lemma))
+        quit()
+    return lexical_entries[lemma]["gloss"]
+
+
+# assumes it's in a directory nextdoor
+with open("../morphological-lexicon/lexemes.yaml") as f:
+    lexical_entries = yaml.load(f)
+
+
 words = []
 forms = {}
 lexemes = {}
@@ -171,6 +192,7 @@ for t, lexeme_id in sorted(lexemes.items(), key=lambda pair: pair[1]):
     ordered_lexemes.append({
         "lemma": lemma,
         "pos": humanize_pos(pos),
+        "gloss": get_gloss(lemma),
     })
 
 with open("lexemes.json", "w") as f:
