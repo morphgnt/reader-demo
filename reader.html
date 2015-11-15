@@ -184,9 +184,8 @@
             }));
           });
           $("#word").on("click", ".lemma", function () {
-            var lexeme_id = $(this).attr("lexeme_id");
-            $("i").toggleClass("highlight", false);
-            $("i[lexeme_id=" + lexeme_id + "]").toggleClass("highlight", true);
+            var lexeme_id = $(this).data("lexeme_id");
+            $("i[data-lexeme_id=" + lexeme_id + "]").toggleClass("highlight");
           });
         });
       });
