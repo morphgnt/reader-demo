@@ -172,6 +172,20 @@
           lexeme: lexeme
         }));
       }
+      var getWord = function(words, forms, word_id) {
+        var word = words.filter(function (w) {return parseInt(w.word_id) === word_id})[0],
+            children = words.filter(function (w) {return word.children.indexOf(w.word_id) > -1});
+        word.form = forms[word.form_id];
+        word.head_word = words.filter(function (w) {return parseInt(w.word_id) === word.head;})[0];
+        if (word.head_word) {
+          word.head_word.form = forms[word.head_word.form_id];
+        }
+        $.each(children, function (i, child){
+          child.form = forms[child.form_id];
+        });
+        word.childObjects = children;
+        return word;
+      }
       $(function () {
         var template_paragraph = $("#template_paragraph").html();
         var template_word = $("#template_word").html();
@@ -186,20 +200,7 @@
             var $word = $(this),
                 form = forms[$word.data("form_id")],
                 lexeme = lexemes[form.lexeme_id],
-                word_id = $word.data("word_id"),
-                word = data.filter(function (w) {return parseInt(w.word_id) === word_id})[0],
-                rel = $word.data("rel"),
-                head = $word.data("head"),
-                head_word = data.filter(function (w) {return parseInt(w.word_id) === head;})[0],
-                children = data.filter(function (w) {return word.children.indexOf(w.word_id) > -1});
-            $.each(children, function (i, child) {
-              child.form = forms[child.form_id];
-            })
-            if (head_word) {
-              head_word.form = forms[head_word.form_id];
-            }
-            word.head_word = head_word;
-            word.childObjects = children;
+                word = getWord(data, forms, $word.data("word_id"));
             $("#load i").toggleClass("highlight", false);
             $("#load i").toggleClass("active", false);
             $word.toggleClass("active", true);
