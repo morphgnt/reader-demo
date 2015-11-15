@@ -45,21 +45,15 @@
           margin-top: 10px;
           margin-bottom: 0;
       }
+      .alert h4 {
+          margin-top: 10px;
+          margin-bottom: 0;
+      }
       p.nav a {
           color: #C00;
           text-decoration: none;
           font-family: "PT Sans Regular", "Arial Unicode", "Lucida Sans Unicode", Arial, sans-serif;
           font-size: 14pt;
-      }
-      .legend {
-          text-align: center;
-      }
-      .legend span {
-          font-family: "PT Sans Regular", "Arial Unicode", "Lucida Sans Unicode", Arial, sans-serif;
-          font-size: 10pt;
-          padding: 8px 12px;
-          color: #FFF;
-          background: #CCC;
       }
       .text {
           margin-top: 50px;
@@ -72,29 +66,15 @@
       .details {
         margin-top: 50px;
       }
-      .book-link, .paragraph-link {
-          cursor: pointer;
-      }
-      .navigation {
-          margin: 20px 0;
-          font-size: 14pt;
-          font-family: "PT Sans Regular", "Arial Unicode", "Lucida Sans Unicode", Arial, sans-serif;
-      }
-      .prev {
-          float: left;
-      }
-      .next {
-          float: right;
-      }
-      i {
+      .text i {
           font-style: normal;
-          position: relative;
           cursor: pointer;
-          display: inline-block;
-          margin-right: 0.3em;
       }
       .lemma, span.head, div.child {
         cursor: pointer;
+      }
+      .gloss {
+          font-size: 13pt;
       }
       i.active {
         color: #C00;
@@ -162,9 +142,10 @@
           <div>{{parse}}</div>
           <h3 class="lemma" data-lexeme_id="{{lexeme_id}}">{{lemma}}</h3>
           <div>{{pos}}</div>
-          <div>&ldquo;{{gloss}}&rdquo;</div>
+          <div class="gloss">&ldquo;{{gloss}}&rdquo;</div>
+          <h4>Parent</h4>
           <div>{{rel}}{{#head_word}} of <span class="head" data-head_word_id="{{head_word_id}}">{{head_word}}{{/head_word}}</div>
-          <hr />
+          <h4>Children</h4>
           {{#children}}
             <div class="child" data-child_word_id="{{word_id}}">{{form.form}} ({{rel}})</div>
           {{/children}}
