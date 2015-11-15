@@ -72,6 +72,16 @@
       .next {
           float: right;
       }
+      i {
+          font-style: normal;
+          position: relative;
+          cursor: pointer;
+          display: inline-block;
+          margin-right: 0.3em;
+      }
+      i.active {
+        color: #C00;
+      }
   </style>
   </head>
   <body>
@@ -89,21 +99,69 @@
         <div class="col-md-6 text">
           <div id="load"></div>
         </div>
-        <div class="col-md-3 details"></div>
+        <div class="col-md-3 details">
+          <div id="word"></div>
+        </div>
       </div>
     </div>
     <script src="//code.jquery.com/jquery-2.1.4.min.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/mustache.js/2.1.2/mustache.min.js"></script>
     <script id="template_paragraph" type="x-tmpl-mustache">
         {{#words}}
-            {{text}}
+            <i word_id="{{word_id}}" form_id="{{form_id}}">{{text}}</i>
         {{/words}}
+    </script>
+    <script id="template_word" type="x-tmpl-mustache">
+        <div class="well">
+          <h2>{{word}}</h2>
+          <h4><em>{{word_id}}</em></h4>
+          <dl>
+            <dt>Form</dt>
+            <dd>{{form}}</dd>
+            <dt>Lemma</dt>
+            <dd>{{lemma}}</dd>
+            <dt>Parse</dt>
+            <dd>{{parse}}</dd>
+            <dt>Pos</dt>
+            <dd>{{pos}}</dd>
+          </dl>
+        </div>
     </script>
     <script type="text/javascript">
       $(function () {
         var template_paragraph = $("#template_paragraph").html();
+        var template_word = $("#template_word").html();
+        var forms = (function () {
+            var json = null;
+            $.ajax({
+                async: false,
+                global: false,
+                url: "/forms.json",
+                dataType: "json",
+                success: function (data) {
+                    json = data;
+                }
+            });
+            return json;
+        })();
         $.getJSON("/base.json", function (data) {
           $("#load").html(Mustache.to_html(template_paragraph, {words: data}));
+          $("#load i").on("click", function () {
+            var $word = $(this),
+                form = forms[$word.attr("form_id")],
+                word_id = $word.attr("word_id"),
+                word = $word.text();
+            $("#load i").toggleClass("active", false);
+            $word.toggleClass("active", true);
+            $("#word").html(Mustache.to_html(template_word, {
+              word: word,
+              word_id: word_id,
+              form: form.form,
+              lemma: form.lemma,
+              parse: form.parse,
+              pos: form.pos
+            }));
+          });
         });
       });
     </script>
