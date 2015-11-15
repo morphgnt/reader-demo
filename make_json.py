@@ -22,7 +22,7 @@ with open("raw_data/john_3_a.txt") as f:
         })
 
 with open("base.json", "w") as f:
-    json.dump(words, f, indent=2, sort_keys=True)
+    json.dump(words, f, indent=2, sort_keys=True, ensure_ascii=False)
 
 ordered_forms = []
 for t, form_id in sorted(forms.items(), key=lambda pair: pair[1]):
@@ -35,4 +35,4 @@ for t, form_id in sorted(forms.items(), key=lambda pair: pair[1]):
     })
 
 with open("forms.json", "w") as f:
-    json.dump(ordered_forms, f, indent=2, sort_keys=True)
+    json.dump(ordered_forms, f, indent=2, sort_keys=True, ensure_ascii=False)

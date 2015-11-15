@@ -1,1297 +1,1297 @@
 [
   {
     "form_id": 0,
-    "text": "\u1f2e\u03bd",
+    "text": "Ἦν",
     "word_id": "64003001001"
   },
   {
     "form_id": 1,
-    "text": "\u03b4\u1f72",
+    "text": "δὲ",
     "word_id": "64003001002"
   },
   {
     "form_id": 2,
-    "text": "\u1f04\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03c2",
+    "text": "ἄνθρωπος",
     "word_id": "64003001003"
   },
   {
     "form_id": 3,
-    "text": "\u1f10\u03ba",
+    "text": "ἐκ",
     "word_id": "64003001004"
   },
   {
     "form_id": 4,
-    "text": "\u03c4\u1ff6\u03bd",
+    "text": "τῶν",
     "word_id": "64003001005"
   },
   {
     "form_id": 5,
-    "text": "\u03a6\u03b1\u03c1\u03b9\u03c3\u03b1\u03af\u03c9\u03bd,",
+    "text": "Φαρισαίων,",
     "word_id": "64003001006"
   },
   {
     "form_id": 6,
-    "text": "\u039d\u03b9\u03ba\u03cc\u03b4\u03b7\u03bc\u03bf\u03c2",
+    "text": "Νικόδημος",
     "word_id": "64003001007"
   },
   {
     "form_id": 7,
-    "text": "\u1f44\u03bd\u03bf\u03bc\u03b1",
+    "text": "ὄνομα",
     "word_id": "64003001008"
   },
   {
     "form_id": 8,
-    "text": "\u03b1\u1f50\u03c4\u1ff7,",
+    "text": "αὐτῷ,",
     "word_id": "64003001009"
   },
   {
     "form_id": 9,
-    "text": "\u1f04\u03c1\u03c7\u03c9\u03bd",
+    "text": "ἄρχων",
     "word_id": "64003001010"
   },
   {
     "form_id": 4,
-    "text": "\u03c4\u1ff6\u03bd",
+    "text": "τῶν",
     "word_id": "64003001011"
   },
   {
     "form_id": 10,
-    "text": "\u1f38\u03bf\u03c5\u03b4\u03b1\u03af\u03c9\u03bd\u00b7",
+    "text": "Ἰουδαίων·",
     "word_id": "64003001012"
   },
   {
     "form_id": 11,
-    "text": "\u03bf\u1f57\u03c4\u03bf\u03c2",
+    "text": "οὗτος",
     "word_id": "64003002001"
   },
   {
     "form_id": 12,
-    "text": "\u1f26\u03bb\u03b8\u03b5\u03bd",
+    "text": "ἦλθεν",
     "word_id": "64003002002"
   },
   {
     "form_id": 13,
-    "text": "\u03c0\u03c1\u1f78\u03c2",
+    "text": "πρὸς",
     "word_id": "64003002003"
   },
   {
     "form_id": 14,
-    "text": "\u03b1\u1f50\u03c4\u1f78\u03bd",
+    "text": "αὐτὸν",
     "word_id": "64003002004"
   },
   {
     "form_id": 15,
-    "text": "\u03bd\u03c5\u03ba\u03c4\u1f78\u03c2",
+    "text": "νυκτὸς",
     "word_id": "64003002005"
   },
   {
     "form_id": 16,
-    "text": "\u03ba\u03b1\u1f76",
+    "text": "καὶ",
     "word_id": "64003002006"
   },
   {
     "form_id": 17,
-    "text": "\u03b5\u1f36\u03c0\u03b5\u03bd",
+    "text": "εἶπεν",
     "word_id": "64003002007"
   },
   {
     "form_id": 8,
-    "text": "\u03b1\u1f50\u03c4\u1ff7\u00b7",
+    "text": "αὐτῷ·",
     "word_id": "64003002008"
   },
   {
     "form_id": 18,
-    "text": "\u1fec\u03b1\u03b2\u03b2\u03af,",
+    "text": "Ῥαββί,",
     "word_id": "64003002009"
   },
   {
     "form_id": 19,
-    "text": "\u03bf\u1f34\u03b4\u03b1\u03bc\u03b5\u03bd",
+    "text": "οἴδαμεν",
     "word_id": "64003002010"
   },
   {
     "form_id": 20,
-    "text": "\u1f45\u03c4\u03b9",
+    "text": "ὅτι",
     "word_id": "64003002011"
   },
   {
     "form_id": 21,
-    "text": "\u1f00\u03c0\u1f78",
+    "text": "ἀπὸ",
     "word_id": "64003002012"
   },
   {
     "form_id": 22,
-    "text": "\u03b8\u03b5\u03bf\u1fe6",
+    "text": "θεοῦ",
     "word_id": "64003002013"
   },
   {
     "form_id": 23,
-    "text": "\u1f10\u03bb\u03ae\u03bb\u03c5\u03b8\u03b1\u03c2",
+    "text": "ἐλήλυθας",
     "word_id": "64003002014"
   },
   {
     "form_id": 24,
-    "text": "\u03b4\u03b9\u03b4\u03ac\u03c3\u03ba\u03b1\u03bb\u03bf\u03c2\u00b7",
+    "text": "διδάσκαλος·",
     "word_id": "64003002015"
   },
   {
     "form_id": 25,
-    "text": "\u03bf\u1f50\u03b4\u03b5\u1f76\u03c2",
+    "text": "οὐδεὶς",
     "word_id": "64003002016"
   },
   {
     "form_id": 26,
-    "text": "\u03b3\u1f70\u03c1",
+    "text": "γὰρ",
     "word_id": "64003002017"
   },
   {
     "form_id": 27,
-    "text": "\u03b4\u03cd\u03bd\u03b1\u03c4\u03b1\u03b9",
+    "text": "δύναται",
     "word_id": "64003002018"
   },
   {
     "form_id": 28,
-    "text": "\u03c4\u03b1\u1fe6\u03c4\u03b1",
+    "text": "ταῦτα",
     "word_id": "64003002019"
   },
   {
     "form_id": 29,
-    "text": "\u03c4\u1f70",
+    "text": "τὰ",
     "word_id": "64003002020"
   },
   {
     "form_id": 30,
-    "text": "\u03c3\u03b7\u03bc\u03b5\u1fd6\u03b1",
+    "text": "σημεῖα",
     "word_id": "64003002021"
   },
   {
     "form_id": 31,
-    "text": "\u03c0\u03bf\u03b9\u03b5\u1fd6\u03bd",
+    "text": "ποιεῖν",
     "word_id": "64003002022"
   },
   {
     "form_id": 32,
-    "text": "\u1f03",
+    "text": "ἃ",
     "word_id": "64003002023"
   },
   {
     "form_id": 33,
-    "text": "\u03c3\u1f7a",
+    "text": "σὺ",
     "word_id": "64003002024"
   },
   {
     "form_id": 34,
-    "text": "\u03c0\u03bf\u03b9\u03b5\u1fd6\u03c2,",
+    "text": "ποιεῖς,",
     "word_id": "64003002025"
   },
   {
     "form_id": 35,
-    "text": "\u1f10\u1f70\u03bd",
+    "text": "ἐὰν",
     "word_id": "64003002026"
   },
   {
     "form_id": 36,
-    "text": "\u03bc\u1f74",
+    "text": "μὴ",
     "word_id": "64003002027"
   },
   {
     "form_id": 37,
-    "text": "\u1f96",
+    "text": "ᾖ",
     "word_id": "64003002028"
   },
   {
     "form_id": 38,
-    "text": "\u1f41",
+    "text": "ὁ",
     "word_id": "64003002029"
   },
   {
     "form_id": 39,
-    "text": "\u03b8\u03b5\u1f78\u03c2",
+    "text": "θεὸς",
     "word_id": "64003002030"
   },
   {
     "form_id": 40,
-    "text": "\u03bc\u03b5\u03c4\u2019",
+    "text": "μετ’",
     "word_id": "64003002031"
   },
   {
     "form_id": 41,
-    "text": "\u03b1\u1f50\u03c4\u03bf\u1fe6.",
+    "text": "αὐτοῦ.",
     "word_id": "64003002032"
   },
   {
     "form_id": 42,
-    "text": "\u1f00\u03c0\u03b5\u03ba\u03c1\u03af\u03b8\u03b7",
+    "text": "ἀπεκρίθη",
     "word_id": "64003003001"
   },
   {
     "form_id": 43,
-    "text": "\u1f38\u03b7\u03c3\u03bf\u1fe6\u03c2",
+    "text": "Ἰησοῦς",
     "word_id": "64003003002"
   },
   {
     "form_id": 16,
-    "text": "\u03ba\u03b1\u1f76",
+    "text": "καὶ",
     "word_id": "64003003003"
   },
   {
     "form_id": 17,
-    "text": "\u03b5\u1f36\u03c0\u03b5\u03bd",
+    "text": "εἶπεν",
     "word_id": "64003003004"
   },
   {
     "form_id": 8,
-    "text": "\u03b1\u1f50\u03c4\u1ff7\u00b7",
+    "text": "αὐτῷ·",
     "word_id": "64003003005"
   },
   {
     "form_id": 44,
-    "text": "\u1f08\u03bc\u1f74\u03bd",
+    "text": "Ἀμὴν",
     "word_id": "64003003006"
   },
   {
     "form_id": 44,
-    "text": "\u1f00\u03bc\u1f74\u03bd",
+    "text": "ἀμὴν",
     "word_id": "64003003007"
   },
   {
     "form_id": 45,
-    "text": "\u03bb\u03ad\u03b3\u03c9",
+    "text": "λέγω",
     "word_id": "64003003008"
   },
   {
     "form_id": 46,
-    "text": "\u03c3\u03bf\u03b9,",
+    "text": "σοι,",
     "word_id": "64003003009"
   },
   {
     "form_id": 35,
-    "text": "\u1f10\u1f70\u03bd",
+    "text": "ἐὰν",
     "word_id": "64003003010"
   },
   {
     "form_id": 36,
-    "text": "\u03bc\u03ae",
+    "text": "μή",
     "word_id": "64003003011"
   },
   {
     "form_id": 47,
-    "text": "\u03c4\u03b9\u03c2",
+    "text": "τις",
     "word_id": "64003003012"
   },
   {
     "form_id": 48,
-    "text": "\u03b3\u03b5\u03bd\u03bd\u03b7\u03b8\u1fc7",
+    "text": "γεννηθῇ",
     "word_id": "64003003013"
   },
   {
     "form_id": 49,
-    "text": "\u1f04\u03bd\u03c9\u03b8\u03b5\u03bd,",
+    "text": "ἄνωθεν,",
     "word_id": "64003003014"
   },
   {
     "form_id": 50,
-    "text": "\u03bf\u1f50",
+    "text": "οὐ",
     "word_id": "64003003015"
   },
   {
     "form_id": 27,
-    "text": "\u03b4\u03cd\u03bd\u03b1\u03c4\u03b1\u03b9",
+    "text": "δύναται",
     "word_id": "64003003016"
   },
   {
     "form_id": 51,
-    "text": "\u1f30\u03b4\u03b5\u1fd6\u03bd",
+    "text": "ἰδεῖν",
     "word_id": "64003003017"
   },
   {
     "form_id": 52,
-    "text": "\u03c4\u1f74\u03bd",
+    "text": "τὴν",
     "word_id": "64003003018"
   },
   {
     "form_id": 53,
-    "text": "\u03b2\u03b1\u03c3\u03b9\u03bb\u03b5\u03af\u03b1\u03bd",
+    "text": "βασιλείαν",
     "word_id": "64003003019"
   },
   {
     "form_id": 54,
-    "text": "\u03c4\u03bf\u1fe6",
+    "text": "τοῦ",
     "word_id": "64003003020"
   },
   {
     "form_id": 22,
-    "text": "\u03b8\u03b5\u03bf\u1fe6.",
+    "text": "θεοῦ.",
     "word_id": "64003003021"
   },
   {
     "form_id": 55,
-    "text": "\u03bb\u03ad\u03b3\u03b5\u03b9",
+    "text": "λέγει",
     "word_id": "64003004001"
   },
   {
     "form_id": 13,
-    "text": "\u03c0\u03c1\u1f78\u03c2",
+    "text": "πρὸς",
     "word_id": "64003004002"
   },
   {
     "form_id": 14,
-    "text": "\u03b1\u1f50\u03c4\u1f78\u03bd",
+    "text": "αὐτὸν",
     "word_id": "64003004003"
   },
   {
     "form_id": 38,
-    "text": "\u1f41",
+    "text": "ὁ",
     "word_id": "64003004004"
   },
   {
     "form_id": 6,
-    "text": "\u039d\u03b9\u03ba\u03cc\u03b4\u03b7\u03bc\u03bf\u03c2\u00b7",
+    "text": "Νικόδημος·",
     "word_id": "64003004005"
   },
   {
     "form_id": 56,
-    "text": "\u03a0\u1ff6\u03c2",
+    "text": "Πῶς",
     "word_id": "64003004006"
   },
   {
     "form_id": 27,
-    "text": "\u03b4\u03cd\u03bd\u03b1\u03c4\u03b1\u03b9",
+    "text": "δύναται",
     "word_id": "64003004007"
   },
   {
     "form_id": 2,
-    "text": "\u1f04\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03c2",
+    "text": "ἄνθρωπος",
     "word_id": "64003004008"
   },
   {
     "form_id": 57,
-    "text": "\u03b3\u03b5\u03bd\u03bd\u03b7\u03b8\u1fc6\u03bd\u03b1\u03b9",
+    "text": "γεννηθῆναι",
     "word_id": "64003004009"
   },
   {
     "form_id": 58,
-    "text": "\u03b3\u03ad\u03c1\u03c9\u03bd",
+    "text": "γέρων",
     "word_id": "64003004010"
   },
   {
     "form_id": 59,
-    "text": "\u1f64\u03bd;",
+    "text": "ὤν;",
     "word_id": "64003004011"
   },
   {
     "form_id": 60,
-    "text": "\u03bc\u1f74",
+    "text": "μὴ",
     "word_id": "64003004012"
   },
   {
     "form_id": 27,
-    "text": "\u03b4\u03cd\u03bd\u03b1\u03c4\u03b1\u03b9",
+    "text": "δύναται",
     "word_id": "64003004013"
   },
   {
     "form_id": 61,
-    "text": "\u03b5\u1f30\u03c2",
+    "text": "εἰς",
     "word_id": "64003004014"
   },
   {
     "form_id": 52,
-    "text": "\u03c4\u1f74\u03bd",
+    "text": "τὴν",
     "word_id": "64003004015"
   },
   {
     "form_id": 62,
-    "text": "\u03ba\u03bf\u03b9\u03bb\u03af\u03b1\u03bd",
+    "text": "κοιλίαν",
     "word_id": "64003004016"
   },
   {
     "form_id": 63,
-    "text": "\u03c4\u1fc6\u03c2",
+    "text": "τῆς",
     "word_id": "64003004017"
   },
   {
     "form_id": 64,
-    "text": "\u03bc\u03b7\u03c4\u03c1\u1f78\u03c2",
+    "text": "μητρὸς",
     "word_id": "64003004018"
   },
   {
     "form_id": 41,
-    "text": "\u03b1\u1f50\u03c4\u03bf\u1fe6",
+    "text": "αὐτοῦ",
     "word_id": "64003004019"
   },
   {
     "form_id": 65,
-    "text": "\u03b4\u03b5\u03cd\u03c4\u03b5\u03c1\u03bf\u03bd",
+    "text": "δεύτερον",
     "word_id": "64003004020"
   },
   {
     "form_id": 66,
-    "text": "\u03b5\u1f30\u03c3\u03b5\u03bb\u03b8\u03b5\u1fd6\u03bd",
+    "text": "εἰσελθεῖν",
     "word_id": "64003004021"
   },
   {
     "form_id": 16,
-    "text": "\u03ba\u03b1\u1f76",
+    "text": "καὶ",
     "word_id": "64003004022"
   },
   {
     "form_id": 57,
-    "text": "\u03b3\u03b5\u03bd\u03bd\u03b7\u03b8\u1fc6\u03bd\u03b1\u03b9;",
+    "text": "γεννηθῆναι;",
     "word_id": "64003004023"
   },
   {
     "form_id": 42,
-    "text": "\u1f00\u03c0\u03b5\u03ba\u03c1\u03af\u03b8\u03b7",
+    "text": "ἀπεκρίθη",
     "word_id": "64003005001"
   },
   {
     "form_id": 43,
-    "text": "\u1f38\u03b7\u03c3\u03bf\u1fe6\u03c2\u00b7",
+    "text": "Ἰησοῦς·",
     "word_id": "64003005002"
   },
   {
     "form_id": 44,
-    "text": "\u1f08\u03bc\u1f74\u03bd",
+    "text": "Ἀμὴν",
     "word_id": "64003005003"
   },
   {
     "form_id": 44,
-    "text": "\u1f00\u03bc\u1f74\u03bd",
+    "text": "ἀμὴν",
     "word_id": "64003005004"
   },
   {
     "form_id": 45,
-    "text": "\u03bb\u03ad\u03b3\u03c9",
+    "text": "λέγω",
     "word_id": "64003005005"
   },
   {
     "form_id": 46,
-    "text": "\u03c3\u03bf\u03b9,",
+    "text": "σοι,",
     "word_id": "64003005006"
   },
   {
     "form_id": 35,
-    "text": "\u1f10\u1f70\u03bd",
+    "text": "ἐὰν",
     "word_id": "64003005007"
   },
   {
     "form_id": 36,
-    "text": "\u03bc\u03ae",
+    "text": "μή",
     "word_id": "64003005008"
   },
   {
     "form_id": 47,
-    "text": "\u03c4\u03b9\u03c2",
+    "text": "τις",
     "word_id": "64003005009"
   },
   {
     "form_id": 48,
-    "text": "\u03b3\u03b5\u03bd\u03bd\u03b7\u03b8\u1fc7",
+    "text": "γεννηθῇ",
     "word_id": "64003005010"
   },
   {
     "form_id": 3,
-    "text": "\u1f10\u03be",
+    "text": "ἐξ",
     "word_id": "64003005011"
   },
   {
     "form_id": 67,
-    "text": "\u1f55\u03b4\u03b1\u03c4\u03bf\u03c2",
+    "text": "ὕδατος",
     "word_id": "64003005012"
   },
   {
     "form_id": 16,
-    "text": "\u03ba\u03b1\u1f76",
+    "text": "καὶ",
     "word_id": "64003005013"
   },
   {
     "form_id": 68,
-    "text": "\u03c0\u03bd\u03b5\u03cd\u03bc\u03b1\u03c4\u03bf\u03c2,",
+    "text": "πνεύματος,",
     "word_id": "64003005014"
   },
   {
     "form_id": 50,
-    "text": "\u03bf\u1f50",
+    "text": "οὐ",
     "word_id": "64003005015"
   },
   {
     "form_id": 27,
-    "text": "\u03b4\u03cd\u03bd\u03b1\u03c4\u03b1\u03b9",
+    "text": "δύναται",
     "word_id": "64003005016"
   },
   {
     "form_id": 66,
-    "text": "\u03b5\u1f30\u03c3\u03b5\u03bb\u03b8\u03b5\u1fd6\u03bd",
+    "text": "εἰσελθεῖν",
     "word_id": "64003005017"
   },
   {
     "form_id": 61,
-    "text": "\u03b5\u1f30\u03c2",
+    "text": "εἰς",
     "word_id": "64003005018"
   },
   {
     "form_id": 52,
-    "text": "\u03c4\u1f74\u03bd",
+    "text": "τὴν",
     "word_id": "64003005019"
   },
   {
     "form_id": 53,
-    "text": "\u03b2\u03b1\u03c3\u03b9\u03bb\u03b5\u03af\u03b1\u03bd",
+    "text": "βασιλείαν",
     "word_id": "64003005020"
   },
   {
     "form_id": 54,
-    "text": "\u03c4\u03bf\u1fe6",
+    "text": "τοῦ",
     "word_id": "64003005021"
   },
   {
     "form_id": 22,
-    "text": "\u03b8\u03b5\u03bf\u1fe6.",
+    "text": "θεοῦ.",
     "word_id": "64003005022"
   },
   {
     "form_id": 69,
-    "text": "\u03c4\u1f78",
+    "text": "τὸ",
     "word_id": "64003006001"
   },
   {
     "form_id": 70,
-    "text": "\u03b3\u03b5\u03b3\u03b5\u03bd\u03bd\u03b7\u03bc\u03ad\u03bd\u03bf\u03bd",
+    "text": "γεγεννημένον",
     "word_id": "64003006002"
   },
   {
     "form_id": 3,
-    "text": "\u1f10\u03ba",
+    "text": "ἐκ",
     "word_id": "64003006003"
   },
   {
     "form_id": 63,
-    "text": "\u03c4\u1fc6\u03c2",
+    "text": "τῆς",
     "word_id": "64003006004"
   },
   {
     "form_id": 71,
-    "text": "\u03c3\u03b1\u03c1\u03ba\u1f78\u03c2",
+    "text": "σαρκὸς",
     "word_id": "64003006005"
   },
   {
     "form_id": 72,
-    "text": "\u03c3\u03ac\u03c1\u03be",
+    "text": "σάρξ",
     "word_id": "64003006006"
   },
   {
     "form_id": 73,
-    "text": "\u1f10\u03c3\u03c4\u03b9\u03bd,",
+    "text": "ἐστιν,",
     "word_id": "64003006007"
   },
   {
     "form_id": 16,
-    "text": "\u03ba\u03b1\u1f76",
+    "text": "καὶ",
     "word_id": "64003006008"
   },
   {
     "form_id": 69,
-    "text": "\u03c4\u1f78",
+    "text": "τὸ",
     "word_id": "64003006009"
   },
   {
     "form_id": 70,
-    "text": "\u03b3\u03b5\u03b3\u03b5\u03bd\u03bd\u03b7\u03bc\u03ad\u03bd\u03bf\u03bd",
+    "text": "γεγεννημένον",
     "word_id": "64003006010"
   },
   {
     "form_id": 3,
-    "text": "\u1f10\u03ba",
+    "text": "ἐκ",
     "word_id": "64003006011"
   },
   {
     "form_id": 74,
-    "text": "\u03c4\u03bf\u1fe6",
+    "text": "τοῦ",
     "word_id": "64003006012"
   },
   {
     "form_id": 68,
-    "text": "\u03c0\u03bd\u03b5\u03cd\u03bc\u03b1\u03c4\u03bf\u03c2",
+    "text": "πνεύματος",
     "word_id": "64003006013"
   },
   {
     "form_id": 75,
-    "text": "\u03c0\u03bd\u03b5\u1fe6\u03bc\u03ac",
+    "text": "πνεῦμά",
     "word_id": "64003006014"
   },
   {
     "form_id": 73,
-    "text": "\u1f10\u03c3\u03c4\u03b9\u03bd.",
+    "text": "ἐστιν.",
     "word_id": "64003006015"
   },
   {
     "form_id": 36,
-    "text": "\u03bc\u1f74",
+    "text": "μὴ",
     "word_id": "64003007001"
   },
   {
     "form_id": 76,
-    "text": "\u03b8\u03b1\u03c5\u03bc\u03ac\u03c3\u1fc3\u03c2",
+    "text": "θαυμάσῃς",
     "word_id": "64003007002"
   },
   {
     "form_id": 20,
-    "text": "\u1f45\u03c4\u03b9",
+    "text": "ὅτι",
     "word_id": "64003007003"
   },
   {
     "form_id": 77,
-    "text": "\u03b5\u1f36\u03c0\u03cc\u03bd",
+    "text": "εἶπόν",
     "word_id": "64003007004"
   },
   {
     "form_id": 46,
-    "text": "\u03c3\u03bf\u03b9",
+    "text": "σοι",
     "word_id": "64003007005"
   },
   {
     "form_id": 78,
-    "text": "\u0394\u03b5\u1fd6",
+    "text": "Δεῖ",
     "word_id": "64003007006"
   },
   {
     "form_id": 79,
-    "text": "\u1f51\u03bc\u1fb6\u03c2",
+    "text": "ὑμᾶς",
     "word_id": "64003007007"
   },
   {
     "form_id": 57,
-    "text": "\u03b3\u03b5\u03bd\u03bd\u03b7\u03b8\u1fc6\u03bd\u03b1\u03b9",
+    "text": "γεννηθῆναι",
     "word_id": "64003007008"
   },
   {
     "form_id": 49,
-    "text": "\u1f04\u03bd\u03c9\u03b8\u03b5\u03bd.",
+    "text": "ἄνωθεν.",
     "word_id": "64003007009"
   },
   {
     "form_id": 69,
-    "text": "\u03c4\u1f78",
+    "text": "τὸ",
     "word_id": "64003008001"
   },
   {
     "form_id": 75,
-    "text": "\u03c0\u03bd\u03b5\u1fe6\u03bc\u03b1",
+    "text": "πνεῦμα",
     "word_id": "64003008002"
   },
   {
     "form_id": 80,
-    "text": "\u1f45\u03c0\u03bf\u03c5",
+    "text": "ὅπου",
     "word_id": "64003008003"
   },
   {
     "form_id": 81,
-    "text": "\u03b8\u03ad\u03bb\u03b5\u03b9",
+    "text": "θέλει",
     "word_id": "64003008004"
   },
   {
     "form_id": 82,
-    "text": "\u03c0\u03bd\u03b5\u1fd6,",
+    "text": "πνεῖ,",
     "word_id": "64003008005"
   },
   {
     "form_id": 16,
-    "text": "\u03ba\u03b1\u1f76",
+    "text": "καὶ",
     "word_id": "64003008006"
   },
   {
     "form_id": 52,
-    "text": "\u03c4\u1f74\u03bd",
+    "text": "τὴν",
     "word_id": "64003008007"
   },
   {
     "form_id": 83,
-    "text": "\u03c6\u03c9\u03bd\u1f74\u03bd",
+    "text": "φωνὴν",
     "word_id": "64003008008"
   },
   {
     "form_id": 84,
-    "text": "\u03b1\u1f50\u03c4\u03bf\u1fe6",
+    "text": "αὐτοῦ",
     "word_id": "64003008009"
   },
   {
     "form_id": 85,
-    "text": "\u1f00\u03ba\u03bf\u03cd\u03b5\u03b9\u03c2,",
+    "text": "ἀκούεις,",
     "word_id": "64003008010"
   },
   {
     "form_id": 86,
-    "text": "\u1f00\u03bb\u03bb\u2019",
+    "text": "ἀλλ’",
     "word_id": "64003008011"
   },
   {
     "form_id": 50,
-    "text": "\u03bf\u1f50\u03ba",
+    "text": "οὐκ",
     "word_id": "64003008012"
   },
   {
     "form_id": 87,
-    "text": "\u03bf\u1f36\u03b4\u03b1\u03c2",
+    "text": "οἶδας",
     "word_id": "64003008013"
   },
   {
     "form_id": 88,
-    "text": "\u03c0\u03cc\u03b8\u03b5\u03bd",
+    "text": "πόθεν",
     "word_id": "64003008014"
   },
   {
     "form_id": 89,
-    "text": "\u1f14\u03c1\u03c7\u03b5\u03c4\u03b1\u03b9",
+    "text": "ἔρχεται",
     "word_id": "64003008015"
   },
   {
     "form_id": 16,
-    "text": "\u03ba\u03b1\u1f76",
+    "text": "καὶ",
     "word_id": "64003008016"
   },
   {
     "form_id": 90,
-    "text": "\u03c0\u03bf\u1fe6",
+    "text": "ποῦ",
     "word_id": "64003008017"
   },
   {
     "form_id": 91,
-    "text": "\u1f51\u03c0\u03ac\u03b3\u03b5\u03b9\u00b7",
+    "text": "ὑπάγει·",
     "word_id": "64003008018"
   },
   {
     "form_id": 92,
-    "text": "\u03bf\u1f55\u03c4\u03c9\u03c2",
+    "text": "οὕτως",
     "word_id": "64003008019"
   },
   {
     "form_id": 73,
-    "text": "\u1f10\u03c3\u03c4\u1f76\u03bd",
+    "text": "ἐστὶν",
     "word_id": "64003008020"
   },
   {
     "form_id": 93,
-    "text": "\u03c0\u1fb6\u03c2",
+    "text": "πᾶς",
     "word_id": "64003008021"
   },
   {
     "form_id": 38,
-    "text": "\u1f41",
+    "text": "ὁ",
     "word_id": "64003008022"
   },
   {
     "form_id": 94,
-    "text": "\u03b3\u03b5\u03b3\u03b5\u03bd\u03bd\u03b7\u03bc\u03ad\u03bd\u03bf\u03c2",
+    "text": "γεγεννημένος",
     "word_id": "64003008023"
   },
   {
     "form_id": 3,
-    "text": "\u1f10\u03ba",
+    "text": "ἐκ",
     "word_id": "64003008024"
   },
   {
     "form_id": 74,
-    "text": "\u03c4\u03bf\u1fe6",
+    "text": "τοῦ",
     "word_id": "64003008025"
   },
   {
     "form_id": 68,
-    "text": "\u03c0\u03bd\u03b5\u03cd\u03bc\u03b1\u03c4\u03bf\u03c2.",
+    "text": "πνεύματος.",
     "word_id": "64003008026"
   },
   {
     "form_id": 42,
-    "text": "\u1f00\u03c0\u03b5\u03ba\u03c1\u03af\u03b8\u03b7",
+    "text": "ἀπεκρίθη",
     "word_id": "64003009001"
   },
   {
     "form_id": 6,
-    "text": "\u039d\u03b9\u03ba\u03cc\u03b4\u03b7\u03bc\u03bf\u03c2",
+    "text": "Νικόδημος",
     "word_id": "64003009002"
   },
   {
     "form_id": 16,
-    "text": "\u03ba\u03b1\u1f76",
+    "text": "καὶ",
     "word_id": "64003009003"
   },
   {
     "form_id": 17,
-    "text": "\u03b5\u1f36\u03c0\u03b5\u03bd",
+    "text": "εἶπεν",
     "word_id": "64003009004"
   },
   {
     "form_id": 8,
-    "text": "\u03b1\u1f50\u03c4\u1ff7\u00b7",
+    "text": "αὐτῷ·",
     "word_id": "64003009005"
   },
   {
     "form_id": 56,
-    "text": "\u03a0\u1ff6\u03c2",
+    "text": "Πῶς",
     "word_id": "64003009006"
   },
   {
     "form_id": 27,
-    "text": "\u03b4\u03cd\u03bd\u03b1\u03c4\u03b1\u03b9",
+    "text": "δύναται",
     "word_id": "64003009007"
   },
   {
     "form_id": 95,
-    "text": "\u03c4\u03b1\u1fe6\u03c4\u03b1",
+    "text": "ταῦτα",
     "word_id": "64003009008"
   },
   {
     "form_id": 96,
-    "text": "\u03b3\u03b5\u03bd\u03ad\u03c3\u03b8\u03b1\u03b9;",
+    "text": "γενέσθαι;",
     "word_id": "64003009009"
   },
   {
     "form_id": 42,
-    "text": "\u1f00\u03c0\u03b5\u03ba\u03c1\u03af\u03b8\u03b7",
+    "text": "ἀπεκρίθη",
     "word_id": "64003010001"
   },
   {
     "form_id": 43,
-    "text": "\u1f38\u03b7\u03c3\u03bf\u1fe6\u03c2",
+    "text": "Ἰησοῦς",
     "word_id": "64003010002"
   },
   {
     "form_id": 16,
-    "text": "\u03ba\u03b1\u1f76",
+    "text": "καὶ",
     "word_id": "64003010003"
   },
   {
     "form_id": 17,
-    "text": "\u03b5\u1f36\u03c0\u03b5\u03bd",
+    "text": "εἶπεν",
     "word_id": "64003010004"
   },
   {
     "form_id": 8,
-    "text": "\u03b1\u1f50\u03c4\u1ff7\u00b7",
+    "text": "αὐτῷ·",
     "word_id": "64003010005"
   },
   {
     "form_id": 33,
-    "text": "\u03a3\u1f7a",
+    "text": "Σὺ",
     "word_id": "64003010006"
   },
   {
     "form_id": 97,
-    "text": "\u03b5\u1f36",
+    "text": "εἶ",
     "word_id": "64003010007"
   },
   {
     "form_id": 38,
-    "text": "\u1f41",
+    "text": "ὁ",
     "word_id": "64003010008"
   },
   {
     "form_id": 24,
-    "text": "\u03b4\u03b9\u03b4\u03ac\u03c3\u03ba\u03b1\u03bb\u03bf\u03c2",
+    "text": "διδάσκαλος",
     "word_id": "64003010009"
   },
   {
     "form_id": 54,
-    "text": "\u03c4\u03bf\u1fe6",
+    "text": "τοῦ",
     "word_id": "64003010010"
   },
   {
     "form_id": 98,
-    "text": "\u1f38\u03c3\u03c1\u03b1\u1f74\u03bb",
+    "text": "Ἰσραὴλ",
     "word_id": "64003010011"
   },
   {
     "form_id": 16,
-    "text": "\u03ba\u03b1\u1f76",
+    "text": "καὶ",
     "word_id": "64003010012"
   },
   {
     "form_id": 28,
-    "text": "\u03c4\u03b1\u1fe6\u03c4\u03b1",
+    "text": "ταῦτα",
     "word_id": "64003010013"
   },
   {
     "form_id": 50,
-    "text": "\u03bf\u1f50",
+    "text": "οὐ",
     "word_id": "64003010014"
   },
   {
     "form_id": 99,
-    "text": "\u03b3\u03b9\u03bd\u03ce\u03c3\u03ba\u03b5\u03b9\u03c2;",
+    "text": "γινώσκεις;",
     "word_id": "64003010015"
   },
   {
     "form_id": 44,
-    "text": "\u1f00\u03bc\u1f74\u03bd",
+    "text": "ἀμὴν",
     "word_id": "64003011001"
   },
   {
     "form_id": 44,
-    "text": "\u1f00\u03bc\u1f74\u03bd",
+    "text": "ἀμὴν",
     "word_id": "64003011002"
   },
   {
     "form_id": 45,
-    "text": "\u03bb\u03ad\u03b3\u03c9",
+    "text": "λέγω",
     "word_id": "64003011003"
   },
   {
     "form_id": 46,
-    "text": "\u03c3\u03bf\u03b9",
+    "text": "σοι",
     "word_id": "64003011004"
   },
   {
     "form_id": 20,
-    "text": "\u1f45\u03c4\u03b9",
+    "text": "ὅτι",
     "word_id": "64003011005"
   },
   {
     "form_id": 100,
-    "text": "\u1f43",
+    "text": "ὃ",
     "word_id": "64003011006"
   },
   {
     "form_id": 19,
-    "text": "\u03bf\u1f34\u03b4\u03b1\u03bc\u03b5\u03bd",
+    "text": "οἴδαμεν",
     "word_id": "64003011007"
   },
   {
     "form_id": 101,
-    "text": "\u03bb\u03b1\u03bb\u03bf\u1fe6\u03bc\u03b5\u03bd",
+    "text": "λαλοῦμεν",
     "word_id": "64003011008"
   },
   {
     "form_id": 16,
-    "text": "\u03ba\u03b1\u1f76",
+    "text": "καὶ",
     "word_id": "64003011009"
   },
   {
     "form_id": 100,
-    "text": "\u1f43",
+    "text": "ὃ",
     "word_id": "64003011010"
   },
   {
     "form_id": 102,
-    "text": "\u1f11\u03c9\u03c1\u03ac\u03ba\u03b1\u03bc\u03b5\u03bd",
+    "text": "ἑωράκαμεν",
     "word_id": "64003011011"
   },
   {
     "form_id": 103,
-    "text": "\u03bc\u03b1\u03c1\u03c4\u03c5\u03c1\u03bf\u1fe6\u03bc\u03b5\u03bd,",
+    "text": "μαρτυροῦμεν,",
     "word_id": "64003011012"
   },
   {
     "form_id": 16,
-    "text": "\u03ba\u03b1\u1f76",
+    "text": "καὶ",
     "word_id": "64003011013"
   },
   {
     "form_id": 52,
-    "text": "\u03c4\u1f74\u03bd",
+    "text": "τὴν",
     "word_id": "64003011014"
   },
   {
     "form_id": 104,
-    "text": "\u03bc\u03b1\u03c1\u03c4\u03c5\u03c1\u03af\u03b1\u03bd",
+    "text": "μαρτυρίαν",
     "word_id": "64003011015"
   },
   {
     "form_id": 105,
-    "text": "\u1f21\u03bc\u1ff6\u03bd",
+    "text": "ἡμῶν",
     "word_id": "64003011016"
   },
   {
     "form_id": 50,
-    "text": "\u03bf\u1f50",
+    "text": "οὐ",
     "word_id": "64003011017"
   },
   {
     "form_id": 106,
-    "text": "\u03bb\u03b1\u03bc\u03b2\u03ac\u03bd\u03b5\u03c4\u03b5.",
+    "text": "λαμβάνετε.",
     "word_id": "64003011018"
   },
   {
     "form_id": 107,
-    "text": "\u03b5\u1f30",
+    "text": "εἰ",
     "word_id": "64003012001"
   },
   {
     "form_id": 29,
-    "text": "\u03c4\u1f70",
+    "text": "τὰ",
     "word_id": "64003012002"
   },
   {
     "form_id": 108,
-    "text": "\u1f10\u03c0\u03af\u03b3\u03b5\u03b9\u03b1",
+    "text": "ἐπίγεια",
     "word_id": "64003012003"
   },
   {
     "form_id": 77,
-    "text": "\u03b5\u1f36\u03c0\u03bf\u03bd",
+    "text": "εἶπον",
     "word_id": "64003012004"
   },
   {
     "form_id": 109,
-    "text": "\u1f51\u03bc\u1fd6\u03bd",
+    "text": "ὑμῖν",
     "word_id": "64003012005"
   },
   {
     "form_id": 16,
-    "text": "\u03ba\u03b1\u1f76",
+    "text": "καὶ",
     "word_id": "64003012006"
   },
   {
     "form_id": 50,
-    "text": "\u03bf\u1f50",
+    "text": "οὐ",
     "word_id": "64003012007"
   },
   {
     "form_id": 110,
-    "text": "\u03c0\u03b9\u03c3\u03c4\u03b5\u03cd\u03b5\u03c4\u03b5,",
+    "text": "πιστεύετε,",
     "word_id": "64003012008"
   },
   {
     "form_id": 56,
-    "text": "\u03c0\u1ff6\u03c2",
+    "text": "πῶς",
     "word_id": "64003012009"
   },
   {
     "form_id": 35,
-    "text": "\u1f10\u1f70\u03bd",
+    "text": "ἐὰν",
     "word_id": "64003012010"
   },
   {
     "form_id": 111,
-    "text": "\u03b5\u1f34\u03c0\u03c9",
+    "text": "εἴπω",
     "word_id": "64003012011"
   },
   {
     "form_id": 109,
-    "text": "\u1f51\u03bc\u1fd6\u03bd",
+    "text": "ὑμῖν",
     "word_id": "64003012012"
   },
   {
     "form_id": 29,
-    "text": "\u03c4\u1f70",
+    "text": "τὰ",
     "word_id": "64003012013"
   },
   {
     "form_id": 112,
-    "text": "\u1f10\u03c0\u03bf\u03c5\u03c1\u03ac\u03bd\u03b9\u03b1",
+    "text": "ἐπουράνια",
     "word_id": "64003012014"
   },
   {
     "form_id": 113,
-    "text": "\u03c0\u03b9\u03c3\u03c4\u03b5\u03cd\u03c3\u03b5\u03c4\u03b5;",
+    "text": "πιστεύσετε;",
     "word_id": "64003012015"
   },
   {
     "form_id": 16,
-    "text": "\u03ba\u03b1\u1f76",
+    "text": "καὶ",
     "word_id": "64003013001"
   },
   {
     "form_id": 25,
-    "text": "\u03bf\u1f50\u03b4\u03b5\u1f76\u03c2",
+    "text": "οὐδεὶς",
     "word_id": "64003013002"
   },
   {
     "form_id": 114,
-    "text": "\u1f00\u03bd\u03b1\u03b2\u03ad\u03b2\u03b7\u03ba\u03b5\u03bd",
+    "text": "ἀναβέβηκεν",
     "word_id": "64003013003"
   },
   {
     "form_id": 61,
-    "text": "\u03b5\u1f30\u03c2",
+    "text": "εἰς",
     "word_id": "64003013004"
   },
   {
     "form_id": 115,
-    "text": "\u03c4\u1f78\u03bd",
+    "text": "τὸν",
     "word_id": "64003013005"
   },
   {
     "form_id": 116,
-    "text": "\u03bf\u1f50\u03c1\u03b1\u03bd\u1f78\u03bd",
+    "text": "οὐρανὸν",
     "word_id": "64003013006"
   },
   {
     "form_id": 107,
-    "text": "\u03b5\u1f30",
+    "text": "εἰ",
     "word_id": "64003013007"
   },
   {
     "form_id": 36,
-    "text": "\u03bc\u1f74",
+    "text": "μὴ",
     "word_id": "64003013008"
   },
   {
     "form_id": 38,
-    "text": "\u1f41",
+    "text": "ὁ",
     "word_id": "64003013009"
   },
   {
     "form_id": 3,
-    "text": "\u1f10\u03ba",
+    "text": "ἐκ",
     "word_id": "64003013010"
   },
   {
     "form_id": 54,
-    "text": "\u03c4\u03bf\u1fe6",
+    "text": "τοῦ",
     "word_id": "64003013011"
   },
   {
     "form_id": 117,
-    "text": "\u03bf\u1f50\u03c1\u03b1\u03bd\u03bf\u1fe6",
+    "text": "οὐρανοῦ",
     "word_id": "64003013012"
   },
   {
     "form_id": 118,
-    "text": "\u03ba\u03b1\u03c4\u03b1\u03b2\u03ac\u03c2,",
+    "text": "καταβάς,",
     "word_id": "64003013013"
   },
   {
     "form_id": 38,
-    "text": "\u1f41",
+    "text": "ὁ",
     "word_id": "64003013014"
   },
   {
     "form_id": 119,
-    "text": "\u03c5\u1f31\u1f78\u03c2",
+    "text": "υἱὸς",
     "word_id": "64003013015"
   },
   {
     "form_id": 54,
-    "text": "\u03c4\u03bf\u1fe6",
+    "text": "τοῦ",
     "word_id": "64003013016"
   },
   {
     "form_id": 120,
-    "text": "\u1f00\u03bd\u03b8\u03c1\u03ce\u03c0\u03bf\u03c5.",
+    "text": "ἀνθρώπου.",
     "word_id": "64003013017"
   },
   {
     "form_id": 16,
-    "text": "\u03ba\u03b1\u1f76",
+    "text": "καὶ",
     "word_id": "64003014001"
   },
   {
     "form_id": 121,
-    "text": "\u03ba\u03b1\u03b8\u1f7c\u03c2",
+    "text": "καθὼς",
     "word_id": "64003014002"
   },
   {
     "form_id": 122,
-    "text": "\u039c\u03c9\u03cb\u03c3\u1fc6\u03c2",
+    "text": "Μωϋσῆς",
     "word_id": "64003014003"
   },
   {
     "form_id": 123,
-    "text": "\u1f55\u03c8\u03c9\u03c3\u03b5\u03bd",
+    "text": "ὕψωσεν",
     "word_id": "64003014004"
   },
   {
     "form_id": 115,
-    "text": "\u03c4\u1f78\u03bd",
+    "text": "τὸν",
     "word_id": "64003014005"
   },
   {
     "form_id": 124,
-    "text": "\u1f44\u03c6\u03b9\u03bd",
+    "text": "ὄφιν",
     "word_id": "64003014006"
   },
   {
     "form_id": 125,
-    "text": "\u1f10\u03bd",
+    "text": "ἐν",
     "word_id": "64003014007"
   },
   {
     "form_id": 126,
-    "text": "\u03c4\u1fc7",
+    "text": "τῇ",
     "word_id": "64003014008"
   },
   {
     "form_id": 127,
-    "text": "\u1f10\u03c1\u03ae\u03bc\u1ff3,",
+    "text": "ἐρήμῳ,",
     "word_id": "64003014009"
   },
   {
     "form_id": 92,
-    "text": "\u03bf\u1f55\u03c4\u03c9\u03c2",
+    "text": "οὕτως",
     "word_id": "64003014010"
   },
   {
     "form_id": 128,
-    "text": "\u1f51\u03c8\u03c9\u03b8\u1fc6\u03bd\u03b1\u03b9",
+    "text": "ὑψωθῆναι",
     "word_id": "64003014011"
   },
   {
     "form_id": 78,
-    "text": "\u03b4\u03b5\u1fd6",
+    "text": "δεῖ",
     "word_id": "64003014012"
   },
   {
     "form_id": 115,
-    "text": "\u03c4\u1f78\u03bd",
+    "text": "τὸν",
     "word_id": "64003014013"
   },
   {
     "form_id": 129,
-    "text": "\u03c5\u1f31\u1f78\u03bd",
+    "text": "υἱὸν",
     "word_id": "64003014014"
   },
   {
     "form_id": 54,
-    "text": "\u03c4\u03bf\u1fe6",
+    "text": "τοῦ",
     "word_id": "64003014015"
   },
   {
     "form_id": 120,
-    "text": "\u1f00\u03bd\u03b8\u03c1\u03ce\u03c0\u03bf\u03c5,",
+    "text": "ἀνθρώπου,",
     "word_id": "64003014016"
   },
   {
     "form_id": 130,
-    "text": "\u1f35\u03bd\u03b1",
+    "text": "ἵνα",
     "word_id": "64003015001"
   },
   {
     "form_id": 93,
-    "text": "\u03c0\u1fb6\u03c2",
+    "text": "πᾶς",
     "word_id": "64003015002"
   },
   {
     "form_id": 38,
-    "text": "\u1f41",
+    "text": "ὁ",
     "word_id": "64003015003"
   },
   {
     "form_id": 131,
-    "text": "\u03c0\u03b9\u03c3\u03c4\u03b5\u03cd\u03c9\u03bd",
+    "text": "πιστεύων",
     "word_id": "64003015004"
   },
   {
     "form_id": 125,
-    "text": "\u1f10\u03bd",
+    "text": "ἐν",
     "word_id": "64003015005"
   },
   {
     "form_id": 8,
-    "text": "\u03b1\u1f50\u03c4\u1ff7",
+    "text": "αὐτῷ",
     "word_id": "64003015006"
   },
   {
     "form_id": 132,
-    "text": "\u1f14\u03c7\u1fc3",
+    "text": "ἔχῃ",
     "word_id": "64003015007"
   },
   {
     "form_id": 133,
-    "text": "\u03b6\u03c9\u1f74\u03bd",
+    "text": "ζωὴν",
     "word_id": "64003015008"
   },
   {
     "form_id": 134,
-    "text": "\u03b1\u1f30\u03ce\u03bd\u03b9\u03bf\u03bd.",
+    "text": "αἰώνιον.",
     "word_id": "64003015009"
   }
 ]

@@ -1,811 +1,811 @@
 [
   {
-    "form": "\u1f26\u03bd",
-    "lemma": "\u03b5\u1f30\u03bc\u03af",
+    "form": "ἦν",
+    "lemma": "εἰμί",
     "parse": "3IAI-S--",
     "pos": "V-"
   },
   {
-    "form": "\u03b4\u03ad",
-    "lemma": "\u03b4\u03ad",
+    "form": "δέ",
+    "lemma": "δέ",
     "parse": "--------",
     "pos": "C-"
   },
   {
-    "form": "\u1f04\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03c2",
-    "lemma": "\u1f04\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03c2",
+    "form": "ἄνθρωπος",
+    "lemma": "ἄνθρωπος",
     "parse": "----NSM-",
     "pos": "N-"
   },
   {
-    "form": "\u1f10\u03ba",
-    "lemma": "\u1f10\u03ba",
+    "form": "ἐκ",
+    "lemma": "ἐκ",
     "parse": "--------",
     "pos": "P-"
   },
   {
-    "form": "\u03c4\u1ff6\u03bd",
-    "lemma": "\u1f41",
+    "form": "τῶν",
+    "lemma": "ὁ",
     "parse": "----GPM-",
     "pos": "RA"
   },
   {
-    "form": "\u03a6\u03b1\u03c1\u03b9\u03c3\u03b1\u03af\u03c9\u03bd",
-    "lemma": "\u03a6\u03b1\u03c1\u03b9\u03c3\u03b1\u1fd6\u03bf\u03c2",
+    "form": "Φαρισαίων",
+    "lemma": "Φαρισαῖος",
     "parse": "----GPM-",
     "pos": "N-"
   },
   {
-    "form": "\u039d\u03b9\u03ba\u03cc\u03b4\u03b7\u03bc\u03bf\u03c2",
-    "lemma": "\u039d\u03b9\u03ba\u03cc\u03b4\u03b7\u03bc\u03bf\u03c2",
+    "form": "Νικόδημος",
+    "lemma": "Νικόδημος",
     "parse": "----NSM-",
     "pos": "N-"
   },
   {
-    "form": "\u1f44\u03bd\u03bf\u03bc\u03b1",
-    "lemma": "\u1f44\u03bd\u03bf\u03bc\u03b1",
+    "form": "ὄνομα",
+    "lemma": "ὄνομα",
     "parse": "----NSN-",
     "pos": "N-"
   },
   {
-    "form": "\u03b1\u1f50\u03c4\u1ff7",
-    "lemma": "\u03b1\u1f50\u03c4\u03cc\u03c2",
+    "form": "αὐτῷ",
+    "lemma": "αὐτός",
     "parse": "----DSM-",
     "pos": "RP"
   },
   {
-    "form": "\u1f04\u03c1\u03c7\u03c9\u03bd",
-    "lemma": "\u1f04\u03c1\u03c7\u03c9\u03bd",
+    "form": "ἄρχων",
+    "lemma": "ἄρχων",
     "parse": "----NSM-",
     "pos": "N-"
   },
   {
-    "form": "\u1f38\u03bf\u03c5\u03b4\u03b1\u03af\u03c9\u03bd",
-    "lemma": "\u1f38\u03bf\u03c5\u03b4\u03b1\u1fd6\u03bf\u03c2",
+    "form": "Ἰουδαίων",
+    "lemma": "Ἰουδαῖος",
     "parse": "----GPM-",
     "pos": "A-"
   },
   {
-    "form": "\u03bf\u1f57\u03c4\u03bf\u03c2",
-    "lemma": "\u03bf\u1f57\u03c4\u03bf\u03c2",
+    "form": "οὗτος",
+    "lemma": "οὗτος",
     "parse": "----NSM-",
     "pos": "RD"
   },
   {
-    "form": "\u1f26\u03bb\u03b8\u03b5(\u03bd)",
-    "lemma": "\u1f14\u03c1\u03c7\u03bf\u03bc\u03b1\u03b9",
+    "form": "ἦλθε(ν)",
+    "lemma": "ἔρχομαι",
     "parse": "3AAI-S--",
     "pos": "V-"
   },
   {
-    "form": "\u03c0\u03c1\u03cc\u03c2",
-    "lemma": "\u03c0\u03c1\u03cc\u03c2",
+    "form": "πρός",
+    "lemma": "πρός",
     "parse": "--------",
     "pos": "P-"
   },
   {
-    "form": "\u03b1\u1f50\u03c4\u03cc\u03bd",
-    "lemma": "\u03b1\u1f50\u03c4\u03cc\u03c2",
+    "form": "αὐτόν",
+    "lemma": "αὐτός",
     "parse": "----ASM-",
     "pos": "RP"
   },
   {
-    "form": "\u03bd\u03c5\u03ba\u03c4\u03cc\u03c2",
-    "lemma": "\u03bd\u03cd\u03be",
+    "form": "νυκτός",
+    "lemma": "νύξ",
     "parse": "----GSF-",
     "pos": "N-"
   },
   {
-    "form": "\u03ba\u03b1\u03af",
-    "lemma": "\u03ba\u03b1\u03af",
+    "form": "καί",
+    "lemma": "καί",
     "parse": "--------",
     "pos": "C-"
   },
   {
-    "form": "\u03b5\u1f36\u03c0\u03b5(\u03bd)",
-    "lemma": "\u03bb\u03ad\u03b3\u03c9",
+    "form": "εἶπε(ν)",
+    "lemma": "λέγω",
     "parse": "3AAI-S--",
     "pos": "V-"
   },
   {
-    "form": "\u1fe5\u03b1\u03b2\u03b2\u03af",
-    "lemma": "\u1fe5\u03b1\u03b2\u03b2\u03af",
+    "form": "ῥαββί",
+    "lemma": "ῥαββί",
     "parse": "----VSM-",
     "pos": "N-"
   },
   {
-    "form": "\u03bf\u1f34\u03b4\u03b1\u03bc\u03b5\u03bd",
-    "lemma": "\u03bf\u1f36\u03b4\u03b1",
+    "form": "οἴδαμεν",
+    "lemma": "οἶδα",
     "parse": "1XAI-P--",
     "pos": "V-"
   },
   {
-    "form": "\u1f45\u03c4\u03b9",
-    "lemma": "\u1f45\u03c4\u03b9",
+    "form": "ὅτι",
+    "lemma": "ὅτι",
     "parse": "--------",
     "pos": "C-"
   },
   {
-    "form": "\u1f00\u03c0\u03cc",
-    "lemma": "\u1f00\u03c0\u03cc",
+    "form": "ἀπό",
+    "lemma": "ἀπό",
     "parse": "--------",
     "pos": "P-"
   },
   {
-    "form": "\u03b8\u03b5\u03bf\u1fe6",
-    "lemma": "\u03b8\u03b5\u03cc\u03c2",
+    "form": "θεοῦ",
+    "lemma": "θεός",
     "parse": "----GSM-",
     "pos": "N-"
   },
   {
-    "form": "\u1f10\u03bb\u03ae\u03bb\u03c5\u03b8\u03b1\u03c2",
-    "lemma": "\u1f14\u03c1\u03c7\u03bf\u03bc\u03b1\u03b9",
+    "form": "ἐλήλυθας",
+    "lemma": "ἔρχομαι",
     "parse": "2XAI-S--",
     "pos": "V-"
   },
   {
-    "form": "\u03b4\u03b9\u03b4\u03ac\u03c3\u03ba\u03b1\u03bb\u03bf\u03c2",
-    "lemma": "\u03b4\u03b9\u03b4\u03ac\u03c3\u03ba\u03b1\u03bb\u03bf\u03c2",
+    "form": "διδάσκαλος",
+    "lemma": "διδάσκαλος",
     "parse": "----NSM-",
     "pos": "N-"
   },
   {
-    "form": "\u03bf\u1f50\u03b4\u03b5\u03af\u03c2",
-    "lemma": "\u03bf\u1f50\u03b4\u03b5\u03af\u03c2",
+    "form": "οὐδείς",
+    "lemma": "οὐδείς",
     "parse": "----NSM-",
     "pos": "A-"
   },
   {
-    "form": "\u03b3\u03ac\u03c1",
-    "lemma": "\u03b3\u03ac\u03c1",
+    "form": "γάρ",
+    "lemma": "γάρ",
     "parse": "--------",
     "pos": "C-"
   },
   {
-    "form": "\u03b4\u03cd\u03bd\u03b1\u03c4\u03b1\u03b9",
-    "lemma": "\u03b4\u03cd\u03bd\u03b1\u03bc\u03b1\u03b9",
+    "form": "δύναται",
+    "lemma": "δύναμαι",
     "parse": "3PMI-S--",
     "pos": "V-"
   },
   {
-    "form": "\u03c4\u03b1\u1fe6\u03c4\u03b1",
-    "lemma": "\u03bf\u1f57\u03c4\u03bf\u03c2",
+    "form": "ταῦτα",
+    "lemma": "οὗτος",
     "parse": "----APN-",
     "pos": "RD"
   },
   {
-    "form": "\u03c4\u03ac",
-    "lemma": "\u1f41",
+    "form": "τά",
+    "lemma": "ὁ",
     "parse": "----APN-",
     "pos": "RA"
   },
   {
-    "form": "\u03c3\u03b7\u03bc\u03b5\u1fd6\u03b1",
-    "lemma": "\u03c3\u03b7\u03bc\u03b5\u1fd6\u03bf\u03bd",
+    "form": "σημεῖα",
+    "lemma": "σημεῖον",
     "parse": "----APN-",
     "pos": "N-"
   },
   {
-    "form": "\u03c0\u03bf\u03b9\u03b5\u1fd6\u03bd",
-    "lemma": "\u03c0\u03bf\u03b9\u03ad\u03c9",
+    "form": "ποιεῖν",
+    "lemma": "ποιέω",
     "parse": "-PAN----",
     "pos": "V-"
   },
   {
-    "form": "\u1f05",
-    "lemma": "\u1f45\u03c2",
+    "form": "ἅ",
+    "lemma": "ὅς",
     "parse": "----APN-",
     "pos": "RR"
   },
   {
-    "form": "\u03c3\u03cd",
-    "lemma": "\u03c3\u03cd",
+    "form": "σύ",
+    "lemma": "σύ",
     "parse": "----NS--",
     "pos": "RP"
   },
   {
-    "form": "\u03c0\u03bf\u03b9\u03b5\u1fd6\u03c2",
-    "lemma": "\u03c0\u03bf\u03b9\u03ad\u03c9",
+    "form": "ποιεῖς",
+    "lemma": "ποιέω",
     "parse": "2PAI-S--",
     "pos": "V-"
   },
   {
-    "form": "\u1f10\u03ac\u03bd",
-    "lemma": "\u1f10\u03ac\u03bd",
+    "form": "ἐάν",
+    "lemma": "ἐάν",
     "parse": "--------",
     "pos": "C-"
   },
   {
-    "form": "\u03bc\u03ae",
-    "lemma": "\u03bc\u03ae",
+    "form": "μή",
+    "lemma": "μή",
     "parse": "--------",
     "pos": "D-"
   },
   {
-    "form": "\u1f96",
-    "lemma": "\u03b5\u1f30\u03bc\u03af",
+    "form": "ᾖ",
+    "lemma": "εἰμί",
     "parse": "3PAS-S--",
     "pos": "V-"
   },
   {
-    "form": "\u1f41",
-    "lemma": "\u1f41",
+    "form": "ὁ",
+    "lemma": "ὁ",
     "parse": "----NSM-",
     "pos": "RA"
   },
   {
-    "form": "\u03b8\u03b5\u03cc\u03c2",
-    "lemma": "\u03b8\u03b5\u03cc\u03c2",
+    "form": "θεός",
+    "lemma": "θεός",
     "parse": "----NSM-",
     "pos": "N-"
   },
   {
-    "form": "\u03bc\u03b5\u03c4\u03ac",
-    "lemma": "\u03bc\u03b5\u03c4\u03ac",
+    "form": "μετά",
+    "lemma": "μετά",
     "parse": "--------",
     "pos": "P-"
   },
   {
-    "form": "\u03b1\u1f50\u03c4\u03bf\u1fe6",
-    "lemma": "\u03b1\u1f50\u03c4\u03cc\u03c2",
+    "form": "αὐτοῦ",
+    "lemma": "αὐτός",
     "parse": "----GSM-",
     "pos": "RP"
   },
   {
-    "form": "\u1f00\u03c0\u03b5\u03ba\u03c1\u03af\u03b8\u03b7",
-    "lemma": "\u1f00\u03c0\u03bf\u03ba\u03c1\u03af\u03bd\u03bf\u03bc\u03b1\u03b9",
+    "form": "ἀπεκρίθη",
+    "lemma": "ἀποκρίνομαι",
     "parse": "3API-S--",
     "pos": "V-"
   },
   {
-    "form": "\u1f38\u03b7\u03c3\u03bf\u1fe6\u03c2",
-    "lemma": "\u1f38\u03b7\u03c3\u03bf\u1fe6\u03c2",
+    "form": "Ἰησοῦς",
+    "lemma": "Ἰησοῦς",
     "parse": "----NSM-",
     "pos": "N-"
   },
   {
-    "form": "\u1f00\u03bc\u03ae\u03bd",
-    "lemma": "\u1f00\u03bc\u03ae\u03bd",
+    "form": "ἀμήν",
+    "lemma": "ἀμήν",
     "parse": "--------",
     "pos": "X-"
   },
   {
-    "form": "\u03bb\u03ad\u03b3\u03c9",
-    "lemma": "\u03bb\u03ad\u03b3\u03c9",
+    "form": "λέγω",
+    "lemma": "λέγω",
     "parse": "1PAI-S--",
     "pos": "V-"
   },
   {
-    "form": "\u03c3\u03bf\u03b9",
-    "lemma": "\u03c3\u03cd",
+    "form": "σοι",
+    "lemma": "σύ",
     "parse": "----DS--",
     "pos": "RP"
   },
   {
-    "form": "\u03c4\u03b9\u03c2",
-    "lemma": "\u03c4\u03b9\u03c2",
+    "form": "τις",
+    "lemma": "τις",
     "parse": "----NSM-",
     "pos": "RI"
   },
   {
-    "form": "\u03b3\u03b5\u03bd\u03bd\u03b7\u03b8\u1fc7",
-    "lemma": "\u03b3\u03b5\u03bd\u03bd\u03ac\u03c9",
+    "form": "γεννηθῇ",
+    "lemma": "γεννάω",
     "parse": "3APS-S--",
     "pos": "V-"
   },
   {
-    "form": "\u1f04\u03bd\u03c9\u03b8\u03b5\u03bd",
-    "lemma": "\u1f04\u03bd\u03c9\u03b8\u03b5\u03bd",
+    "form": "ἄνωθεν",
+    "lemma": "ἄνωθεν",
     "parse": "--------",
     "pos": "D-"
   },
   {
-    "form": "\u03bf\u1f50",
-    "lemma": "\u03bf\u1f50",
+    "form": "οὐ",
+    "lemma": "οὐ",
     "parse": "--------",
     "pos": "D-"
   },
   {
-    "form": "\u1f30\u03b4\u03b5\u1fd6\u03bd",
-    "lemma": "\u1f41\u03c1\u03ac\u03c9",
+    "form": "ἰδεῖν",
+    "lemma": "ὁράω",
     "parse": "-AAN----",
     "pos": "V-"
   },
   {
-    "form": "\u03c4\u03ae\u03bd",
-    "lemma": "\u1f41",
+    "form": "τήν",
+    "lemma": "ὁ",
     "parse": "----ASF-",
     "pos": "RA"
   },
   {
-    "form": "\u03b2\u03b1\u03c3\u03b9\u03bb\u03b5\u03af\u03b1\u03bd",
-    "lemma": "\u03b2\u03b1\u03c3\u03b9\u03bb\u03b5\u03af\u03b1",
+    "form": "βασιλείαν",
+    "lemma": "βασιλεία",
     "parse": "----ASF-",
     "pos": "N-"
   },
   {
-    "form": "\u03c4\u03bf\u1fe6",
-    "lemma": "\u1f41",
+    "form": "τοῦ",
+    "lemma": "ὁ",
     "parse": "----GSM-",
     "pos": "RA"
   },
   {
-    "form": "\u03bb\u03ad\u03b3\u03b5\u03b9",
-    "lemma": "\u03bb\u03ad\u03b3\u03c9",
+    "form": "λέγει",
+    "lemma": "λέγω",
     "parse": "3PAI-S--",
     "pos": "V-"
   },
   {
-    "form": "\u03c0\u1ff6\u03c2",
-    "lemma": "\u03c0\u1ff6\u03c2",
+    "form": "πῶς",
+    "lemma": "πῶς",
     "parse": "--------",
     "pos": "D-"
   },
   {
-    "form": "\u03b3\u03b5\u03bd\u03bd\u03b7\u03b8\u1fc6\u03bd\u03b1\u03b9",
-    "lemma": "\u03b3\u03b5\u03bd\u03bd\u03ac\u03c9",
+    "form": "γεννηθῆναι",
+    "lemma": "γεννάω",
     "parse": "-APN----",
     "pos": "V-"
   },
   {
-    "form": "\u03b3\u03ad\u03c1\u03c9\u03bd",
-    "lemma": "\u03b3\u03ad\u03c1\u03c9\u03bd",
+    "form": "γέρων",
+    "lemma": "γέρων",
     "parse": "----NSM-",
     "pos": "N-"
   },
   {
-    "form": "\u1f64\u03bd",
-    "lemma": "\u03b5\u1f30\u03bc\u03af",
+    "form": "ὤν",
+    "lemma": "εἰμί",
     "parse": "-PAPNSM-",
     "pos": "V-"
   },
   {
-    "form": "\u03bc\u03ae",
-    "lemma": "\u03bc\u03ae",
+    "form": "μή",
+    "lemma": "μή",
     "parse": "--------",
     "pos": "X-"
   },
   {
-    "form": "\u03b5\u1f30\u03c2",
-    "lemma": "\u03b5\u1f30\u03c2",
+    "form": "εἰς",
+    "lemma": "εἰς",
     "parse": "--------",
     "pos": "P-"
   },
   {
-    "form": "\u03ba\u03bf\u03b9\u03bb\u03af\u03b1\u03bd",
-    "lemma": "\u03ba\u03bf\u03b9\u03bb\u03af\u03b1",
+    "form": "κοιλίαν",
+    "lemma": "κοιλία",
     "parse": "----ASF-",
     "pos": "N-"
   },
   {
-    "form": "\u03c4\u1fc6\u03c2",
-    "lemma": "\u1f41",
+    "form": "τῆς",
+    "lemma": "ὁ",
     "parse": "----GSF-",
     "pos": "RA"
   },
   {
-    "form": "\u03bc\u03b7\u03c4\u03c1\u03cc\u03c2",
-    "lemma": "\u03bc\u03ae\u03c4\u03b7\u03c1",
+    "form": "μητρός",
+    "lemma": "μήτηρ",
     "parse": "----GSF-",
     "pos": "N-"
   },
   {
-    "form": "\u03b4\u03b5\u03cd\u03c4\u03b5\u03c1\u03bf\u03bd",
-    "lemma": "\u03b4\u03b5\u03cd\u03c4\u03b5\u03c1\u03bf\u03c2",
+    "form": "δεύτερον",
+    "lemma": "δεύτερος",
     "parse": "----ASN-",
     "pos": "A-"
   },
   {
-    "form": "\u03b5\u1f30\u03c3\u03b5\u03bb\u03b8\u03b5\u1fd6\u03bd",
-    "lemma": "\u03b5\u1f30\u03c3\u03ad\u03c1\u03c7\u03bf\u03bc\u03b1\u03b9",
+    "form": "εἰσελθεῖν",
+    "lemma": "εἰσέρχομαι",
     "parse": "-AAN----",
     "pos": "V-"
   },
   {
-    "form": "\u1f55\u03b4\u03b1\u03c4\u03bf\u03c2",
-    "lemma": "\u1f55\u03b4\u03c9\u03c1",
+    "form": "ὕδατος",
+    "lemma": "ὕδωρ",
     "parse": "----GSN-",
     "pos": "N-"
   },
   {
-    "form": "\u03c0\u03bd\u03b5\u03cd\u03bc\u03b1\u03c4\u03bf\u03c2",
-    "lemma": "\u03c0\u03bd\u03b5\u1fe6\u03bc\u03b1",
+    "form": "πνεύματος",
+    "lemma": "πνεῦμα",
     "parse": "----GSN-",
     "pos": "N-"
   },
   {
-    "form": "\u03c4\u03cc",
-    "lemma": "\u1f41",
+    "form": "τό",
+    "lemma": "ὁ",
     "parse": "----NSN-",
     "pos": "RA"
   },
   {
-    "form": "\u03b3\u03b5\u03b3\u03b5\u03bd\u03bd\u03b7\u03bc\u03ad\u03bd\u03bf\u03bd",
-    "lemma": "\u03b3\u03b5\u03bd\u03bd\u03ac\u03c9",
+    "form": "γεγεννημένον",
+    "lemma": "γεννάω",
     "parse": "-XPPNSN-",
     "pos": "V-"
   },
   {
-    "form": "\u03c3\u03b1\u03c1\u03ba\u03cc\u03c2",
-    "lemma": "\u03c3\u03ac\u03c1\u03be",
+    "form": "σαρκός",
+    "lemma": "σάρξ",
     "parse": "----GSF-",
     "pos": "N-"
   },
   {
-    "form": "\u03c3\u03ac\u03c1\u03be",
-    "lemma": "\u03c3\u03ac\u03c1\u03be",
+    "form": "σάρξ",
+    "lemma": "σάρξ",
     "parse": "----NSF-",
     "pos": "N-"
   },
   {
-    "form": "\u1f10\u03c3\u03c4\u03af(\u03bd)",
-    "lemma": "\u03b5\u1f30\u03bc\u03af",
+    "form": "ἐστί(ν)",
+    "lemma": "εἰμί",
     "parse": "3PAI-S--",
     "pos": "V-"
   },
   {
-    "form": "\u03c4\u03bf\u1fe6",
-    "lemma": "\u1f41",
+    "form": "τοῦ",
+    "lemma": "ὁ",
     "parse": "----GSN-",
     "pos": "RA"
   },
   {
-    "form": "\u03c0\u03bd\u03b5\u1fe6\u03bc\u03b1",
-    "lemma": "\u03c0\u03bd\u03b5\u1fe6\u03bc\u03b1",
+    "form": "πνεῦμα",
+    "lemma": "πνεῦμα",
     "parse": "----NSN-",
     "pos": "N-"
   },
   {
-    "form": "\u03b8\u03b1\u03c5\u03bc\u03ac\u03c3\u1fc3\u03c2",
-    "lemma": "\u03b8\u03b1\u03c5\u03bc\u03ac\u03b6\u03c9",
+    "form": "θαυμάσῃς",
+    "lemma": "θαυμάζω",
     "parse": "2AAS-S--",
     "pos": "V-"
   },
   {
-    "form": "\u03b5\u1f36\u03c0\u03bf\u03bd",
-    "lemma": "\u03bb\u03ad\u03b3\u03c9",
+    "form": "εἶπον",
+    "lemma": "λέγω",
     "parse": "1AAI-S--",
     "pos": "V-"
   },
   {
-    "form": "\u03b4\u03b5\u1fd6",
-    "lemma": "\u03b4\u03ad\u03c9",
+    "form": "δεῖ",
+    "lemma": "δέω",
     "parse": "3PAI-S--",
     "pos": "V-"
   },
   {
-    "form": "\u1f51\u03bc\u1fb6\u03c2",
-    "lemma": "\u03c3\u03cd",
+    "form": "ὑμᾶς",
+    "lemma": "σύ",
     "parse": "----AP--",
     "pos": "RP"
   },
   {
-    "form": "\u1f45\u03c0\u03bf\u03c5",
-    "lemma": "\u1f45\u03c0\u03bf\u03c5",
+    "form": "ὅπου",
+    "lemma": "ὅπου",
     "parse": "--------",
     "pos": "C-"
   },
   {
-    "form": "\u03b8\u03ad\u03bb\u03b5\u03b9",
-    "lemma": "\u03b8\u03ad\u03bb\u03c9",
+    "form": "θέλει",
+    "lemma": "θέλω",
     "parse": "3PAI-S--",
     "pos": "V-"
   },
   {
-    "form": "\u03c0\u03bd\u03b5\u1fd6",
-    "lemma": "\u03c0\u03bd\u03ad\u03c9",
+    "form": "πνεῖ",
+    "lemma": "πνέω",
     "parse": "3PAI-S--",
     "pos": "V-"
   },
   {
-    "form": "\u03c6\u03c9\u03bd\u03ae\u03bd",
-    "lemma": "\u03c6\u03c9\u03bd\u03ae",
+    "form": "φωνήν",
+    "lemma": "φωνή",
     "parse": "----ASF-",
     "pos": "N-"
   },
   {
-    "form": "\u03b1\u1f50\u03c4\u03bf\u1fe6",
-    "lemma": "\u03b1\u1f50\u03c4\u03cc\u03c2",
+    "form": "αὐτοῦ",
+    "lemma": "αὐτός",
     "parse": "----GSN-",
     "pos": "RP"
   },
   {
-    "form": "\u1f00\u03ba\u03bf\u03cd\u03b5\u03b9\u03c2",
-    "lemma": "\u1f00\u03ba\u03bf\u03cd\u03c9",
+    "form": "ἀκούεις",
+    "lemma": "ἀκούω",
     "parse": "2PAI-S--",
     "pos": "V-"
   },
   {
-    "form": "\u1f00\u03bb\u03bb\u03ac",
-    "lemma": "\u1f00\u03bb\u03bb\u03ac",
+    "form": "ἀλλά",
+    "lemma": "ἀλλά",
     "parse": "--------",
     "pos": "C-"
   },
   {
-    "form": "\u03bf\u1f36\u03b4\u03b1\u03c2",
-    "lemma": "\u03bf\u1f36\u03b4\u03b1",
+    "form": "οἶδας",
+    "lemma": "οἶδα",
     "parse": "2XAI-S--",
     "pos": "V-"
   },
   {
-    "form": "\u03c0\u03cc\u03b8\u03b5\u03bd",
-    "lemma": "\u03c0\u03cc\u03b8\u03b5\u03bd",
+    "form": "πόθεν",
+    "lemma": "πόθεν",
     "parse": "--------",
     "pos": "D-"
   },
   {
-    "form": "\u1f14\u03c1\u03c7\u03b5\u03c4\u03b1\u03b9",
-    "lemma": "\u1f14\u03c1\u03c7\u03bf\u03bc\u03b1\u03b9",
+    "form": "ἔρχεται",
+    "lemma": "ἔρχομαι",
     "parse": "3PMI-S--",
     "pos": "V-"
   },
   {
-    "form": "\u03c0\u03bf\u1fe6",
-    "lemma": "\u03c0\u03bf\u1fe6",
+    "form": "ποῦ",
+    "lemma": "ποῦ",
     "parse": "--------",
     "pos": "D-"
   },
   {
-    "form": "\u1f51\u03c0\u03ac\u03b3\u03b5\u03b9",
-    "lemma": "\u1f51\u03c0\u03ac\u03b3\u03c9",
+    "form": "ὑπάγει",
+    "lemma": "ὑπάγω",
     "parse": "3PAI-S--",
     "pos": "V-"
   },
   {
-    "form": "\u03bf\u1f55\u03c4\u03c9(\u03c2)",
-    "lemma": "\u03bf\u1f55\u03c4\u03c9(\u03c2)",
+    "form": "οὕτω(ς)",
+    "lemma": "οὕτω(ς)",
     "parse": "--------",
     "pos": "D-"
   },
   {
-    "form": "\u03c0\u1fb6\u03c2",
-    "lemma": "\u03c0\u1fb6\u03c2",
+    "form": "πᾶς",
+    "lemma": "πᾶς",
     "parse": "----NSM-",
     "pos": "A-"
   },
   {
-    "form": "\u03b3\u03b5\u03b3\u03b5\u03bd\u03bd\u03b7\u03bc\u03ad\u03bd\u03bf\u03c2",
-    "lemma": "\u03b3\u03b5\u03bd\u03bd\u03ac\u03c9",
+    "form": "γεγεννημένος",
+    "lemma": "γεννάω",
     "parse": "-XPPNSM-",
     "pos": "V-"
   },
   {
-    "form": "\u03c4\u03b1\u1fe6\u03c4\u03b1",
-    "lemma": "\u03bf\u1f57\u03c4\u03bf\u03c2",
+    "form": "ταῦτα",
+    "lemma": "οὗτος",
     "parse": "----NPN-",
     "pos": "RD"
   },
   {
-    "form": "\u03b3\u03b5\u03bd\u03ad\u03c3\u03b8\u03b1\u03b9",
-    "lemma": "\u03b3\u03af\u03bd\u03bf\u03bc\u03b1\u03b9",
+    "form": "γενέσθαι",
+    "lemma": "γίνομαι",
     "parse": "-AMN----",
     "pos": "V-"
   },
   {
-    "form": "\u03b5\u1f36",
-    "lemma": "\u03b5\u1f30\u03bc\u03af",
+    "form": "εἶ",
+    "lemma": "εἰμί",
     "parse": "2PAI-S--",
     "pos": "V-"
   },
   {
-    "form": "\u1f38\u03c3\u03c1\u03b1\u03ae\u03bb",
-    "lemma": "\u1f38\u03c3\u03c1\u03b1\u03ae\u03bb",
+    "form": "Ἰσραήλ",
+    "lemma": "Ἰσραήλ",
     "parse": "----GSM-",
     "pos": "N-"
   },
   {
-    "form": "\u03b3\u03b9\u03bd\u03ce\u03c3\u03ba\u03b5\u03b9\u03c2",
-    "lemma": "\u03b3\u03b9\u03bd\u03ce\u03c3\u03ba\u03c9",
+    "form": "γινώσκεις",
+    "lemma": "γινώσκω",
     "parse": "2PAI-S--",
     "pos": "V-"
   },
   {
-    "form": "\u1f45",
-    "lemma": "\u1f45\u03c2",
+    "form": "ὅ",
+    "lemma": "ὅς",
     "parse": "----ASN-",
     "pos": "RR"
   },
   {
-    "form": "\u03bb\u03b1\u03bb\u03bf\u1fe6\u03bc\u03b5\u03bd",
-    "lemma": "\u03bb\u03b1\u03bb\u03ad\u03c9",
+    "form": "λαλοῦμεν",
+    "lemma": "λαλέω",
     "parse": "1PAI-P--",
     "pos": "V-"
   },
   {
-    "form": "\u1f11\u03c9\u03c1\u03ac\u03ba\u03b1\u03bc\u03b5\u03bd",
-    "lemma": "\u1f41\u03c1\u03ac\u03c9",
+    "form": "ἑωράκαμεν",
+    "lemma": "ὁράω",
     "parse": "1XAI-P--",
     "pos": "V-"
   },
   {
-    "form": "\u03bc\u03b1\u03c1\u03c4\u03c5\u03c1\u03bf\u1fe6\u03bc\u03b5\u03bd",
-    "lemma": "\u03bc\u03b1\u03c1\u03c4\u03c5\u03c1\u03ad\u03c9",
+    "form": "μαρτυροῦμεν",
+    "lemma": "μαρτυρέω",
     "parse": "1PAI-P--",
     "pos": "V-"
   },
   {
-    "form": "\u03bc\u03b1\u03c1\u03c4\u03c5\u03c1\u03af\u03b1\u03bd",
-    "lemma": "\u03bc\u03b1\u03c1\u03c4\u03c5\u03c1\u03af\u03b1",
+    "form": "μαρτυρίαν",
+    "lemma": "μαρτυρία",
     "parse": "----ASF-",
     "pos": "N-"
   },
   {
-    "form": "\u1f21\u03bc\u1ff6\u03bd",
-    "lemma": "\u1f10\u03b3\u03ce",
+    "form": "ἡμῶν",
+    "lemma": "ἐγώ",
     "parse": "----GP--",
     "pos": "RP"
   },
   {
-    "form": "\u03bb\u03b1\u03bc\u03b2\u03ac\u03bd\u03b5\u03c4\u03b5",
-    "lemma": "\u03bb\u03b1\u03bc\u03b2\u03ac\u03bd\u03c9",
+    "form": "λαμβάνετε",
+    "lemma": "λαμβάνω",
     "parse": "2PAI-P--",
     "pos": "V-"
   },
   {
-    "form": "\u03b5\u1f30",
-    "lemma": "\u03b5\u1f30",
+    "form": "εἰ",
+    "lemma": "εἰ",
     "parse": "--------",
     "pos": "C-"
   },
   {
-    "form": "\u1f10\u03c0\u03af\u03b3\u03b5\u03b9\u03b1",
-    "lemma": "\u1f10\u03c0\u03af\u03b3\u03b5\u03b9\u03bf\u03c2",
+    "form": "ἐπίγεια",
+    "lemma": "ἐπίγειος",
     "parse": "----APN-",
     "pos": "A-"
   },
   {
-    "form": "\u1f51\u03bc\u1fd6\u03bd",
-    "lemma": "\u03c3\u03cd",
+    "form": "ὑμῖν",
+    "lemma": "σύ",
     "parse": "----DP--",
     "pos": "RP"
   },
   {
-    "form": "\u03c0\u03b9\u03c3\u03c4\u03b5\u03cd\u03b5\u03c4\u03b5",
-    "lemma": "\u03c0\u03b9\u03c3\u03c4\u03b5\u03cd\u03c9",
+    "form": "πιστεύετε",
+    "lemma": "πιστεύω",
     "parse": "2PAI-P--",
     "pos": "V-"
   },
   {
-    "form": "\u03b5\u1f34\u03c0\u03c9",
-    "lemma": "\u03bb\u03ad\u03b3\u03c9",
+    "form": "εἴπω",
+    "lemma": "λέγω",
     "parse": "1AAS-S--",
     "pos": "V-"
   },
   {
-    "form": "\u1f10\u03c0\u03bf\u03c5\u03c1\u03ac\u03bd\u03b9\u03b1",
-    "lemma": "\u1f10\u03c0\u03bf\u03c5\u03c1\u03ac\u03bd\u03b9\u03bf\u03c2",
+    "form": "ἐπουράνια",
+    "lemma": "ἐπουράνιος",
     "parse": "----APN-",
     "pos": "A-"
   },
   {
-    "form": "\u03c0\u03b9\u03c3\u03c4\u03b5\u03cd\u03c3\u03b5\u03c4\u03b5",
-    "lemma": "\u03c0\u03b9\u03c3\u03c4\u03b5\u03cd\u03c9",
+    "form": "πιστεύσετε",
+    "lemma": "πιστεύω",
     "parse": "2FAI-P--",
     "pos": "V-"
   },
   {
-    "form": "\u1f00\u03bd\u03b1\u03b2\u03ad\u03b2\u03b7\u03ba\u03b5(\u03bd)",
-    "lemma": "\u1f00\u03bd\u03b1\u03b2\u03b1\u03af\u03bd\u03c9",
+    "form": "ἀναβέβηκε(ν)",
+    "lemma": "ἀναβαίνω",
     "parse": "3XAI-S--",
     "pos": "V-"
   },
   {
-    "form": "\u03c4\u03cc\u03bd",
-    "lemma": "\u1f41",
+    "form": "τόν",
+    "lemma": "ὁ",
     "parse": "----ASM-",
     "pos": "RA"
   },
   {
-    "form": "\u03bf\u1f50\u03c1\u03b1\u03bd\u03cc\u03bd",
-    "lemma": "\u03bf\u1f50\u03c1\u03b1\u03bd\u03cc\u03c2",
+    "form": "οὐρανόν",
+    "lemma": "οὐρανός",
     "parse": "----ASM-",
     "pos": "N-"
   },
   {
-    "form": "\u03bf\u1f50\u03c1\u03b1\u03bd\u03bf\u1fe6",
-    "lemma": "\u03bf\u1f50\u03c1\u03b1\u03bd\u03cc\u03c2",
+    "form": "οὐρανοῦ",
+    "lemma": "οὐρανός",
     "parse": "----GSM-",
     "pos": "N-"
   },
   {
-    "form": "\u03ba\u03b1\u03c4\u03b1\u03b2\u03ac\u03c2",
-    "lemma": "\u03ba\u03b1\u03c4\u03b1\u03b2\u03b1\u03af\u03bd\u03c9",
+    "form": "καταβάς",
+    "lemma": "καταβαίνω",
     "parse": "-AAPNSM-",
     "pos": "V-"
   },
   {
-    "form": "\u03c5\u1f31\u03cc\u03c2",
-    "lemma": "\u03c5\u1f31\u03cc\u03c2",
+    "form": "υἱός",
+    "lemma": "υἱός",
     "parse": "----NSM-",
     "pos": "N-"
   },
   {
-    "form": "\u1f00\u03bd\u03b8\u03c1\u03ce\u03c0\u03bf\u03c5",
-    "lemma": "\u1f04\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03c2",
+    "form": "ἀνθρώπου",
+    "lemma": "ἄνθρωπος",
     "parse": "----GSM-",
     "pos": "N-"
   },
   {
-    "form": "\u03ba\u03b1\u03b8\u03ce\u03c2",
-    "lemma": "\u03ba\u03b1\u03b8\u03ce\u03c2",
+    "form": "καθώς",
+    "lemma": "καθώς",
     "parse": "--------",
     "pos": "C-"
   },
   {
-    "form": "\u039c\u03c9\u03cb\u03c3\u1fc6\u03c2",
-    "lemma": "\u039c\u03c9\u03cb\u03c3\u1fc6\u03c2",
+    "form": "Μωϋσῆς",
+    "lemma": "Μωϋσῆς",
     "parse": "----NSM-",
     "pos": "N-"
   },
   {
-    "form": "\u1f55\u03c8\u03c9\u03c3\u03b5(\u03bd)",
-    "lemma": "\u1f51\u03c8\u03cc\u03c9",
+    "form": "ὕψωσε(ν)",
+    "lemma": "ὑψόω",
     "parse": "3AAI-S--",
     "pos": "V-"
   },
   {
-    "form": "\u1f44\u03c6\u03b9\u03bd",
-    "lemma": "\u1f44\u03c6\u03b9\u03c2",
+    "form": "ὄφιν",
+    "lemma": "ὄφις",
     "parse": "----ASM-",
     "pos": "N-"
   },
   {
-    "form": "\u1f10\u03bd",
-    "lemma": "\u1f10\u03bd",
+    "form": "ἐν",
+    "lemma": "ἐν",
     "parse": "--------",
     "pos": "P-"
   },
   {
-    "form": "\u03c4\u1fc7",
-    "lemma": "\u1f41",
+    "form": "τῇ",
+    "lemma": "ὁ",
     "parse": "----DSF-",
     "pos": "RA"
   },
   {
-    "form": "\u1f10\u03c1\u03ae\u03bc\u1ff3",
-    "lemma": "\u1f14\u03c1\u03b7\u03bc\u03bf\u03c2",
+    "form": "ἐρήμῳ",
+    "lemma": "ἔρημος",
     "parse": "----DSF-",
     "pos": "A-"
   },
   {
-    "form": "\u1f51\u03c8\u03c9\u03b8\u1fc6\u03bd\u03b1\u03b9",
-    "lemma": "\u1f51\u03c8\u03cc\u03c9",
+    "form": "ὑψωθῆναι",
+    "lemma": "ὑψόω",
     "parse": "-APN----",
     "pos": "V-"
   },
   {
-    "form": "\u03c5\u1f31\u03cc\u03bd",
-    "lemma": "\u03c5\u1f31\u03cc\u03c2",
+    "form": "υἱόν",
+    "lemma": "υἱός",
     "parse": "----ASM-",
     "pos": "N-"
   },
   {
-    "form": "\u1f35\u03bd\u03b1",
-    "lemma": "\u1f35\u03bd\u03b1",
+    "form": "ἵνα",
+    "lemma": "ἵνα",
     "parse": "--------",
     "pos": "C-"
   },
   {
-    "form": "\u03c0\u03b9\u03c3\u03c4\u03b5\u03cd\u03c9\u03bd",
-    "lemma": "\u03c0\u03b9\u03c3\u03c4\u03b5\u03cd\u03c9",
+    "form": "πιστεύων",
+    "lemma": "πιστεύω",
     "parse": "-PAPNSM-",
     "pos": "V-"
   },
   {
-    "form": "\u1f14\u03c7\u1fc3",
-    "lemma": "\u1f14\u03c7\u03c9",
+    "form": "ἔχῃ",
+    "lemma": "ἔχω",
     "parse": "3PAS-S--",
     "pos": "V-"
   },
   {
-    "form": "\u03b6\u03c9\u03ae\u03bd",
-    "lemma": "\u03b6\u03c9\u03ae",
+    "form": "ζωήν",
+    "lemma": "ζωή",
     "parse": "----ASF-",
     "pos": "N-"
   },
   {
-    "form": "\u03b1\u1f30\u03ce\u03bd\u03b9\u03bf\u03bd",
-    "lemma": "\u03b1\u1f30\u03ce\u03bd\u03b9\u03bf\u03c2",
+    "form": "αἰώνιον",
+    "lemma": "αἰώνιος",
     "parse": "----ASF-",
     "pos": "A-"
   }
