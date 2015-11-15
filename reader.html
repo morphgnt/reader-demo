@@ -144,11 +144,11 @@
           <div>{{lexeme.pos}}</div>
           <div class="gloss">&ldquo;{{lexeme.gloss}}&rdquo;</div>
           <h4>Parent</h4>
-          <div>{{rel}}{{#head_form}} of <span class="head" data-head_word_id="{{head_word.word_id}}">{{head_form.form}}{{/head_form}}</div>
+          <div>{{word.rel}}{{#word.head_word}} of <span class="head" data-head_word_id="{{word.head_word.word_id}}">{{word.head_word.form.form}}{{/word.head_word}}</div>
           <h4>Children</h4>
-          {{#children}}
+          {{#word.childObjects}}
             <div class="child" data-child_word_id="{{word_id}}">{{form.form}} ({{rel}})</div>
-          {{/children}}
+          {{/word.childObjects}}
       </div>
     </script>
     <script type="text/javascript">
@@ -164,6 +164,13 @@
             }
         });
         return json;
+      }
+      var renderWordDetails = function ($tmpl, word, form, lexeme) {
+        $("#word").html(Mustache.to_html($tmpl, {
+          word: word,
+          form: form,
+          lexeme: lexeme
+        }));
       }
       $(function () {
         var template_paragraph = $("#template_paragraph").html();
@@ -188,19 +195,15 @@
             $.each(children, function (i, child) {
               child.form = forms[child.form_id];
             })
+            if (head_word) {
+              head_word.form = forms[head_word.form_id];
+            }
+            word.head_word = head_word;
+            word.childObjects = children;
             $("#load i").toggleClass("highlight", false);
             $("#load i").toggleClass("active", false);
             $word.toggleClass("active", true);
-            $("#word").html(Mustache.to_html(template_word, {
-              word: word,
-              form: form,
-              lexeme: lexeme,
-              rel: rel,
-              head: head,
-              head_form: head_word ? forms[head_word.form_id] : "",
-              head_word: head_word ? head_word : "",
-              children: children
-            }));
+            renderWordDetails(template_word, word, form, lexeme);
             $('.alert').on('closed.bs.alert', function () {
               $("#load i").toggleClass("highlight", false);
               $("#load i").toggleClass("active", false);
