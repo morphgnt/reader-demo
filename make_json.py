@@ -137,7 +137,7 @@ with open("raw_data/john_3_a.txt") as f:
         else:
             lexeme_id = lexemes[(lemma, pos)]
 
-        if (norm, lemma, pos, parse) not in forms:
+        if (norm, pos, parse, lexeme_id) not in forms.keys():
             form_id = len(forms)
             forms[(norm, pos, parse, lexeme_id)] = form_id
         else:
@@ -151,6 +151,7 @@ with open("raw_data/john_3_a.txt") as f:
 
 with open("base.json", "w") as f:
     json.dump(words, f, indent=2, sort_keys=True, ensure_ascii=False)
+
 
 ordered_forms = []
 for t, form_id in sorted(forms.items(), key=lambda pair: pair[1]):
