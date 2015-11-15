@@ -190,6 +190,17 @@
         word.childObjects = children;
         return word;
       }
+      var switchWord = function($tmpl, words, forms, lexemes, word_id) {
+        word = getWord(words, forms, word_id),
+        form = forms[word.form_id],
+        lexeme = lexemes[form.lexeme_id];
+        $("#load i").toggleClass("highlight-3", false);
+        $("#load i").toggleClass("highlight-2", false);
+        $("#load i").toggleClass("highlight", false);
+        $("#load i").toggleClass("active", false);
+        $("i[data-word_id=" + word_id + "]").toggleClass("active");
+        renderWordDetails($tmpl, word, form, lexeme);
+      }
       $(function () {
         var template_paragraph = $("#template_paragraph").html();
         var template_word = $("#template_word").html();
@@ -215,15 +226,10 @@
             $("i[data-lexeme_id=" + lexeme_id + "]").toggleClass("highlight");
           });
           $("#word").on("click", ".head", function () {
-            var word_id = $(this).data("head_word_id"),
-                word = getWord(data, forms, word_id),
-                form = forms[word.form_id],
-                lexeme = lexemes[form.lexeme_id];
-            $("#load i").toggleClass("highlight-2", false);
-            $("#load i").toggleClass("highlight", false);
-            $("#load i").toggleClass("active", false);
-            $("i[data-word_id=" + word_id + "]").toggleClass("active");
-            renderWordDetails(template_word, word, form, lexeme);
+            switchWord(template_word, data, forms, lexemes, $(this).data("head_word_id"));
+          });
+          $("#word").on("click", ".child", function () {
+            switchWord(template_word, data, forms, lexemes, $(this).data("child_word_id"));
           });
           $("#word").on("mouseover", ".head", function () {
             var word_id = $(this).data("head_word_id");
