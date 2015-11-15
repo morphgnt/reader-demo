@@ -1,6 +1,7 @@
 <html>
   <head>
     <meta charset="utf-8">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" integrity="sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
     <script type="text/javascript">
         WebFontConfig = { fontdeck: { id: '57741' } };
         (function() {
@@ -31,16 +32,13 @@
           font-family: "Skolar3 PE Regular", Georgia, serif;
           margin-bottom: 1em;
           font-size: 14pt;
+          margin-top: 1em;
       }
       p.nav a {
           color: #C00;
           text-decoration: none;
           font-family: "PT Sans Regular", "Arial Unicode", "Lucida Sans Unicode", Arial, sans-serif;
           font-size: 14pt;
-      }
-      .container {
-          width: 800px;
-          margin: 50px auto;
       }
       .legend {
           text-align: center;
@@ -86,11 +84,28 @@
       <div class="credits">This uses the MorphGNT API to dynamically retrieve paragraphs.</div>
 
 
-      <div class="text">
+      <div class="row">
+        <div class="col-md-3"></div>
+        <div class="col-md-6 text">
           <div id="load"></div>
+        </div>
+        <div class="col-md-3 details"></div>
       </div>
     </div>
     <script src="//code.jquery.com/jquery-2.1.4.min.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/mustache.js/2.1.2/mustache.min.js"></script>
+    <script id="template_paragraph" type="x-tmpl-mustache">
+        {{#words}}
+            {{text}}
+        {{/words}}
+    </script>
+    <script type="text/javascript">
+      $(function () {
+        var template_paragraph = $("#template_paragraph").html();
+        $.getJSON("/base.json", function (data) {
+          $("#load").html(Mustache.to_html(template_paragraph, {words: data}));
+        });
+      });
+    </script>
   </body>
 </html>
