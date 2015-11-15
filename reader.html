@@ -108,13 +108,15 @@
     </div>
     <script src="//code.jquery.com/jquery-2.1.4.min.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/mustache.js/2.1.2/mustache.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" integrity="sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==" crossorigin="anonymous"></script>
     <script id="template_paragraph" type="x-tmpl-mustache">
         {{#words}}
             <i word_id="{{word_id}}" form_id="{{form_id}}">{{text}}</i>
         {{/words}}
     </script>
     <script id="template_word" type="x-tmpl-mustache">
-        <div class="well">
+      <div class="alert alert-warning alert-dismissible" role="alert">
+          <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
           <h2>{{form}}</h2>
           <dl>
             <dt>Lemma</dt>
@@ -124,7 +126,7 @@
             <dt>Pos</dt>
             <dd>{{pos}}</dd>
           </dl>
-        </div>
+      </div>
     </script>
     <script type="text/javascript">
       var fetchData = function (url) {
