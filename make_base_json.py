@@ -14,4 +14,4 @@ with open("raw_data/john_3_a.txt") as f:
         })
 
 with open("base.json", "w") as f:
-    json.dump(words, f)
+    json.dump(words, f, indent=2)
