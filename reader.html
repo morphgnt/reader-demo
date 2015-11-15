@@ -201,6 +201,9 @@
         $("i[data-word_id=" + word_id + "]").toggleClass("active");
         renderWordDetails($tmpl, word, form, lexeme);
       }
+      var highlight = function (wordId, className) {
+        $("i[data-word_id=" + wordId + "]").toggleClass(className);
+      }
       $(function () {
         var template_paragraph = $("#template_paragraph").html();
         var template_word = $("#template_word").html();
@@ -231,21 +234,11 @@
           $("#word").on("click", ".child", function () {
             switchWord(template_word, data, forms, lexemes, $(this).data("child_word_id"));
           });
-          $("#word").on("mouseover", ".head", function () {
-            var word_id = $(this).data("head_word_id");
-            $("i[data-word_id=" + word_id + "]").toggleClass("highlight-2");
+          $("#word").on("mouseover mouseout", ".head", function () {
+            highlight($(this).data("head_word_id"), "highlight-2");
           });
-          $("#word").on("mouseout", ".head", function () {
-            var word_id = $(this).data("head_word_id");
-            $("i[data-word_id=" + word_id + "]").toggleClass("highlight-2");
-          });
-          $("#word").on("mouseover", ".child", function () {
-            var word_id = $(this).data("child_word_id");
-            $("i[data-word_id=" + word_id + "]").toggleClass("highlight-3");
-          });
-          $("#word").on("mouseout", ".child", function () {
-            var word_id = $(this).data("child_word_id");
-            $("i[data-word_id=" + word_id + "]").toggleClass("highlight-3");
+          $("#word").on("mouseover mouseout", ".child", function () {
+            highlight($(this).data("child_word_id"), "highlight-3");
           });
         });
       });
