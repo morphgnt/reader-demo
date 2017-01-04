@@ -2,22 +2,34 @@
   <head>
     <meta charset="utf-8">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" integrity="sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
-    <script type="text/javascript">
-        WebFontConfig = { fontdeck: { id: '57741' } };
-        (function() {
-            var wf = document.createElement('script');
-            wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
-            '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
-            wf.type = 'text/javascript';
-            wf.async = 'true';
-            var s = document.getElementsByTagName('script')[0];
-            s.parentNode.insertBefore(wf, s);
-        })();
-    </script>
-
+    <link href="https://fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet">
     <style>
+      @font-face {
+          font-family: "Skolar";
+          src: url("http://jktauber.com/site_media/static/fonts/SkolarPEWeb-Regular.woff") format("woff");
+          font-style: normal;
+          font-weight: normal;
+          text-rendering: optimizeLegibility;
+      }
+
+      @font-face {
+          font-family: "Skolar";
+          src: url("http://jktauber.com/site_media/static/fonts/SkolarPEWeb-Italic.woff") format("woff");
+          font-style: italic;
+          font-weight: normal;
+          text-rendering: optimizeLegibility;
+      }
+
+      @font-face {
+          font-family: "Skolar";
+          src: url("http://jktauber.com/site_media/static/fonts/SkolarPEWeb-Bold.woff") format("woff");
+          font-style: normal;
+          font-weight: bold;
+          text-rendering: optimizeLegibility;
+      }
+
       .instructions, .credits {
-          font-family: "PT Sans Regular", "Arial Unicode", "Lucida Sans Unicode", Arial, sans-serif;
+          font-family: "PT Sans", "Arial Unicode", "Lucida Sans Unicode", Arial, sans-serif;
           padding: 10px 20px;
           margin-bottom: 10px;
           background: #EEE;
@@ -29,13 +41,13 @@
           font-size: 10pt;
       }
       p.nav {
-          font-family: "Skolar3 PE Regular", Georgia, serif;
+          font-family: Skolar, Georgia, serif;
           margin-bottom: 1em;
           font-size: 14pt;
           margin-top: 1em;
       }
       .alert {
-        font-family: "Skolar3 PE Regular", Georgia, serif;
+        font-family: Skolar, Georgia, serif;
       }
       .alert h2 {
           margin-top: 0;
@@ -52,12 +64,12 @@
       p.nav a {
           color: #C00;
           text-decoration: none;
-          font-family: "PT Sans Regular", "Arial Unicode", "Lucida Sans Unicode", Arial, sans-serif;
+          font-family: "PT Sans", "Arial Unicode", "Lucida Sans Unicode", Arial, sans-serif;
           font-size: 14pt;
       }
       .text {
           margin-top: 50px;
-          font-family: "Skolar3 PE Regular", Georgia, serif;
+          font-family: Skolar, Georgia, serif;
           font-size: 20pt;
           line-height: 30pt;
           word-spacing: 6pt;
@@ -171,7 +183,7 @@
           form: form,
           lexeme: lexeme
         }));
-        $('.alert').on('closed.bs.alert', function () {
+        $(".alert").on("closed.bs.alert", function () {
           $("#load i").toggleClass("highlight", false);
           $("#load i").toggleClass("active", false);
         });
